@@ -1,0 +1,667 @@
+---
+title: "Supplemental NSPS & EG RIA Results"
+date: "November 2022"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+library(here)
+library(knitr)
+source(here("scripts/setup.R"))
+
+knitr::opts_knit$set(root.dir = here::here())
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r options, include=FALSE}
+
+# set some knitr options
+options(knitr.table.format = 'html')
+
+# .xlsx output directory
+wb <- loadWorkbook("output/xlsx/tables_2022_supplemental.xlsx")
+
+# change-tracking output directory
+csv_tbl_path <- "output/csv/change-tracking"
+
+# figure output directory
+csv_fig_path <- "output/png"
+
+```
+
+```{r data, include=FALSE}
+
+# load scenario data
+tar_load(c(mp_list_supp, mp_attrs_list_supp))
+tar_load(scn_comps_supplemental)
+
+tar_load(c(scn_summ_list_supplemental_prop, scn_summ_list_supplemental_less, scn_summ_list_supplemental_more))
+
+scn_comp <- scn_comps_supplemental[["baseline-prop"]]
+scn_comp_less <- scn_comps_supplemental[["baseline-less"]]
+scn_comp_more <- scn_comps_supplemental[["baseline-more"]]
+
+# load site activity data
+tar_load(c(wellsite_bins_proj, proc_st_proj, gb_stn_st_proj, trans_stn_st_proj, stor_stn_st_proj))
+
+# load well site assumption data
+tar_load(decl_rates)
+tar_load(wellsite_bins_proj)
+tar_load(c(icr_equip_prop, icr_equip_avg))
+
+```
+
+## Introduction
+
+This document provides results for the 2022 O&G Supplemental Proposal RIA. Results are stored in output tables in tables_2022_supplemental.xlsx. That file
+also includes formatted versions of the tables that appear in the RIA.
+
+```{r, include=FALSE}
+
+# for splitting by policy
+scn_comp_NSPS <- scn_comp %>% filter(vintage_bin %in% c('OOOOb'))
+scn_comp_EG <- scn_comp %>% filter(vintage_bin %in% c('OOOO', 'OOOOa', 'OOOOc'))
+
+scn_comp_less_NSPS <- scn_comp_less %>% filter(vintage_bin %in% c('OOOOb'))
+scn_comp_less_EG <- scn_comp_less %>% filter(vintage_bin %in% c('OOOO', 'OOOOa', 'OOOOc'))
+ 
+scn_comp_more_NSPS <- scn_comp_more %>% filter(vintage_bin %in% c('OOOOb'))
+scn_comp_more_EG <- scn_comp_more %>% filter(vintage_bin %in% c('OOOO', 'OOOOa', 'OOOOc'))
+
+```
+
+```{r tbl_decl_rates, include=FALSE}
+
+decl_rates[, ProdRate.Bin := factor(ProdRate.Bin, levels = c(">100 BOE/day/well", "15-100 BOE/day/well", "3-15 BOE/day/well", "<=3 BOE/day/well"))]
+setorder(decl_rates, "ProdRate.Bin")
+
+tbl_decl_rates = transpose(decl_rates, keep.names = "Product", make.names = T)
+
+tbl_decl_rates %>%
+  write_tbl_to_xlsx(wb, "decl_rates")
+
+```
+
+```{r fig_site_counts, include=FALSE}
+
+wellsite_bins_proj[, Facility.Type := fcase(
+  Vintage.Bin %in% c("Pre-2000", "2000-2011", "2012-2015", "2016-2019"), "Exists",
+  default = "Projected"
+)]
+
+wellsite_ntnl_proj_by_type_fig = wellsite_bins_proj[, .(Gas.Well.Count = sum(Gas.Well.Count), Oil.Well.Count = sum(Oil.Well.Count),
+                                                Wellsite.Count = sum(Wellsite.Count)), by = .(Type, Facility.Type, Year)]
+wellsite_ntnl_proj_by_type_fig[, `:=` (Well.Count = (Type == "Gas")*sum(Gas.Well.Count) + (Type == "Oil")*sum(Oil.Well.Count)), by = .(Facility.Type, Year)][, `:=` (Gas.Well.Count = NULL, Oil.Well.Count = NULL)]
+
+wellsite_ntnl_proj_by_type_fig = melt.data.table(wellsite_ntnl_proj_by_type_fig, 
+                                                 measure.vars = c("Wellsite.Count", "Well.Count"), 
+                                                 variable.name = "Metric", value.name = "Count")[, 
+                                                                                                 Metric := fcase(Metric == "Wellsite.Count", "Well Sites",
+                                                                                                                 Metric == "Well.Count", "Wells")
+                                                                                                 ]
+
+wellsite_ntnl_proj_fig = wellsite_ntnl_proj_by_type_fig[, .(Count = sum(Count)), by = .(Metric, Facility.Type, Year)]
+
+nonwellsite_ntnl_proj_fig = rbindlist(list(proc_st_proj[, .(Metric = "NG Proc. Plants", Count = sum(Plant.Count)), by = .(Year, Reg.Bin, Vint.Trunc)],
+                                           gb_stn_st_proj[, .(Metric = "G&B Stations", Count = sum(Station.Count)), by = .(Year, Reg.Bin, Vint.Trunc)],
+                                           trans_stn_st_proj[, .(Metric = "Trans. Stations", Count = sum(Station.Count)), by = .(Year, Reg.Bin, Vint.Trunc)],
+                                           stor_stn_st_proj[, .(Metric = "Stor. Stations", Count = sum(Station.Count)), by = .(Year, Reg.Bin, Vint.Trunc)]))
+nonwellsite_ntnl_proj_fig[, `:=` (
+  Exists = Count*(Vint.Trunc == 2019),
+  Projected = Count*(Vint.Trunc > 2019),
+  Count = NULL
+)]
+
+nonwellsite_ntnl_proj_fig = melt.data.table(nonwellsite_ntnl_proj_fig, measure.vars = c("Exists", "Projected"),
+                                            variable.name = "Facility.Type", value.name = "Count")
+
+nonwellsite_ntnl_proj_fig = nonwellsite_ntnl_proj_fig[, .(Count = sum(Count)), by = .(Year, Metric, Facility.Type)]
+
+ad_ntnl_proj_fig = rbindlist(list(wellsite_ntnl_proj_fig, nonwellsite_ntnl_proj_fig), use.names = T)
+
+ad_ntnl_proj_fig[, `:=` (Metric = factor(Metric, levels = c("Wells", "Well Sites", "NG Proc. Plants",
+                                                            "G&B Stations", "Trans. Stations", "Stor. Stations")),
+                         Facility.Type = factor(Facility.Type, levels = c("Exists", "Projected")))]
+
+png(path(csv_fig_path, "site-counts.png"),
+    width=single.w.mult*ppi, height=single.h.mult*ppi, res=ppi)
+
+ggplot(ad_ntnl_proj_fig,
+       aes(x = Year, y = Count, fill = Facility.Type)) +
+  geom_area(colour="black", size=.2, alpha=.4) +
+  facet_wrap( ~ Metric, ncol = 3, scales = "free") +
+  scale_fill_brewer(palette="Greens") +
+  scale_x_continuous("Year") +
+  scale_y_continuous("Cumulative site counts", labels = scales::comma) +
+  theme.main  + theme(legend.title = element_blank())
+
+dev.off()
+
+```
+
+```{r tbl_fac_affected, include=FALSE}
+tbl_fac_affected <- scn_comp_table(scn_comp,
+              var_list = list("fac_affected"),
+              row_detail = "detail",
+              show_years = 2023:2035, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_affected <- tbl_fac_affected
+
+tbl_affected %>%
+  write_tbl_to_xlsx(wb, "fac_affected")
+
+# For change-tracking, RIA-like tables
+csv_tbl_affected <- tbl_affected %>%
+  add_fac_type() %>%
+  group_by(fac_type, year) %>%
+  summarize(fac_affected = sum(fac_affected, na.rm = TRUE), .groups = "drop") %>%
+  mutate(fac_affected = round(fac_affected, digits = 0)) %>%
+  pivot_wider(names_from = fac_type, values_from = fac_affected) %>%
+  rnd_tbl()
+
+write_text_tbl(csv_tbl_affected, path(csv_tbl_path, "2-05_fac_affected.tbl"))
+
+csv_tbl_affected
+```
+
+```{r tbl_emissions, include=FALSE}
+# prop...
+tbl_emissions <- scn_comp_table(scn_comp,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_detail <- scn_comp_table(scn_comp,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "overview",
+               show_years = 2020:2035, 
+               mp_list = mp_list_supp,
+               mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_NSPS <- scn_comp_table(scn_comp_NSPS,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_EG <- scn_comp_table(scn_comp_EG,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+# change-tracking
+csv_tbl_emissions <- tbl_emissions %>%
+  mutate(across(.cols = c("Methane", "VOC", "HAP", "CH4_CO2e"), .fns = ~round(.x))) %>%
+  rnd_tbl()
+write_text_tbl(csv_tbl_emissions, path(csv_tbl_path, "2-06_emissions.tbl"))
+
+csv_tbl_emissions_detail <- tbl_emissions_detail %>%
+  mutate(across(.cols = c("Methane", "VOC", "HAP", "CH4_CO2e"), .fns = ~round(.x))) %>%
+  rnd_tbl()
+write_text_tbl(csv_tbl_emissions_detail, path(csv_tbl_path, "2-06_emissions_detail.tbl"))
+
+# quick look in Rmd
+tbl_emissions %>%
+  mutate(across(.cols = c("Methane", "VOC", "HAP", "CH4_CO2e"), .fns = ~rndmark(., 2))) %>%
+  kable(caption = "Change in Emissions for the Proposed Option compared to 2021 Regulatory Baseline, by year") %>%
+  kable_styling(bootstrap_options = c("condensed"), full_width = F) %>%
+  collapse_rows(columns = 1)
+
+# xlsx output
+tbl_emissions %>% 
+  write_tbl_to_xlsx(wb, "emissions")
+
+tbl_emissions_NSPS %>% 
+  write_tbl_to_xlsx(wb, "emissions_NSPS")
+
+tbl_emissions_EG %>% 
+  write_tbl_to_xlsx(wb, "emissions_EG")
+
+# less strict...
+tbl_emissions_less <- scn_comp_table(scn_comp_less,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_less_NSPS <- scn_comp_table(scn_comp_less_NSPS,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_less_EG <- scn_comp_table(scn_comp_less_EG,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_less %>%
+  write_tbl_to_xlsx(wb, "emissions_less")
+
+tbl_emissions_less_NSPS %>%
+  write_tbl_to_xlsx(wb, "emissions_less_NSPS")
+
+tbl_emissions_less_EG %>%
+  write_tbl_to_xlsx(wb, "emissions_less_EG")
+
+# more strict...
+tbl_emissions_more <- scn_comp_table(scn_comp_more,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_more_NSPS <- scn_comp_table(scn_comp_more_NSPS,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_more_EG <- scn_comp_table(scn_comp_more_EG,
+               var_list = list("Methane", "VOC", "HAP", "CH4_CO2e"),
+               row_detail = "total",
+               show_years = 2020:2035,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+tbl_emissions_more %>%
+  write_tbl_to_xlsx(wb, "emissions_more")
+
+tbl_emissions_more_NSPS %>%
+  write_tbl_to_xlsx(wb, "emissions_more_NSPS")
+
+tbl_emissions_more_EG %>%
+  write_tbl_to_xlsx(wb, "emissions_more_EG")
+
+```
+
+
+```{r tbl_gas, include=FALSE}
+# prop...
+tbl_gas <- scn_comp_table(scn_comp,
+               var_list = list("gas_capture", "gas_revenue"),
+               row_detail = "total",
+               show_years = 2020:2035, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+# quick look
+tbl_gas %>%
+  mutate(gas_capture = rndmark(gas_capture, 2),
+         gas_revenue = currency(gas_revenue, 2)) %>%
+  kable(caption = "Change in Natural Gas Recovery (Mcf) for the Proposed Reconsideration Option Compared to Baseline, by year") %>%
+  kable_styling(bootstrap_options = c("condensed"), full_width = F)
+
+# csv change-tracking
+write_text_tbl(rnd_tbl(tbl_gas), path(csv_tbl_path, "2-07_gas_revenue.tbl"))
+
+# xlsx output
+tbl_gas %>%
+  write_tbl_to_xlsx(wb, "gas_revenue")
+
+```
+
+```{r tbl_costs, include=FALSE}
+# prop...
+tbl_costs <- scn_comp_table(scn_comp,
+               var_list = list("capital_cost", "annual_cost", "ann_7", "gas_revenue", "ann_7_wgas"),
+               row_detail = "total",
+               show_years = 2020:2035, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+# csv change-tracking
+tbl_costs %>%
+  rnd_tbl() %>%
+  write_text_tbl(path(csv_tbl_path, "2-08_costs.tbl"))
+
+# quick look
+tbl_costs %>%
+  mutate(across(all_of(c("capital_cost", "ann_7", "gas_revenue", "ann_7_wgas")),
+
+                                .fns = ~Mdollar(.))) %>%
+  kable(caption = "Change in Natural Gas Recovery (Mcf) for the Proposed Option Compared to Baseline, by year")
+
+tbl_costs %>%
+  write_tbl_to_xlsx(wb, "costs")
+
+```
+
+
+```{r eav_undiscounted, include=FALSE}
+cost_undisc_7 <- table_cost_disc_pv_eav(scn_comp, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), disc_flag = FALSE, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_undisc_7, wb)
+
+# change-tracking:
+cost_undisc_7 %>%
+  filter(year %in% 2023:2035) %>%
+  rnd_tbl() %>%
+  write_text_tbl(path(csv_tbl_path, "2-09_cost_undisc.tbl"))
+
+
+cost_undisc_3 <- table_cost_disc_pv_eav(scn_comp, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), disc_flag = FALSE, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_undisc_3, wb)
+
+# less strict...
+cost_undisc_7_less <- table_cost_disc_pv_eav(scn_comp_less, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), disc_flag = FALSE,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_undisc_7_less, wb)
+
+cost_undisc_3_less <- table_cost_disc_pv_eav(scn_comp_less, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), disc_flag = FALSE,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_undisc_3_less, wb)
+
+# more strict...
+cost_undisc_7_more <- table_cost_disc_pv_eav(scn_comp_more, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), disc_flag = FALSE,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_undisc_7_more, wb)
+
+cost_undisc_3_more <- table_cost_disc_pv_eav(scn_comp_more, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), disc_flag = FALSE,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_undisc_3_more, wb)
+
+```
+
+```{r eav_disc, include=FALSE}
+# prop
+cost_disc_7 <- table_cost_disc_pv_eav(scn_comp, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+cost_disc_7_NSPS <- table_cost_disc_pv_eav(scn_comp_NSPS, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+cost_disc_7_EG <- table_cost_disc_pv_eav(scn_comp_EG, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"), 
+                                         start_year = 2023, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_disc_7, wb)
+write_tbl_to_xlsx(cost_disc_7_NSPS, wb)
+write_tbl_to_xlsx(cost_disc_7_EG, wb)
+
+cost_disc_3 <- table_cost_disc_pv_eav(scn_comp, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                      mp_list = mp_list_supp,
+                                      mp_attrs_list = mp_attrs_list_supp)
+
+cost_disc_3_NSPS <- table_cost_disc_pv_eav(scn_comp_NSPS, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                      mp_list = mp_list_supp,
+                                      mp_attrs_list = mp_attrs_list_supp)
+cost_disc_3_EG <- table_cost_disc_pv_eav(scn_comp_EG, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                         start_year = 2023,
+                                      mp_list = mp_list_supp,
+                                      mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_disc_3, wb)
+write_tbl_to_xlsx(cost_disc_3_NSPS, wb)
+write_tbl_to_xlsx(cost_disc_3_EG, wb)
+
+# less strict...
+cost_disc_7_less <- table_cost_disc_pv_eav(scn_comp_less, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+cost_disc_7_less_NSPS <- table_cost_disc_pv_eav(scn_comp_less_NSPS, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                         start_year = 2023,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+cost_disc_7_less_EG <- table_cost_disc_pv_eav(scn_comp_less_EG, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                         start_year = 2023,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_disc_7_less, wb)
+write_tbl_to_xlsx(cost_disc_7_less_NSPS, wb)
+write_tbl_to_xlsx(cost_disc_7_less_EG, wb)
+
+cost_disc_3_less <- table_cost_disc_pv_eav(scn_comp_less, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+cost_disc_3_less_NSPS <- table_cost_disc_pv_eav(scn_comp_less_NSPS, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                         start_year = 2023,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+cost_disc_3_less_EG <- table_cost_disc_pv_eav(scn_comp_less_EG, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                         start_year = 2023,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_disc_3_less, wb)
+write_tbl_to_xlsx(cost_disc_3_less_NSPS, wb)
+write_tbl_to_xlsx(cost_disc_3_less_EG, wb)
+
+# more strict...
+cost_disc_7_more <- table_cost_disc_pv_eav(scn_comp_more, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+cost_disc_7_more_NSPS <- table_cost_disc_pv_eav(scn_comp_more_NSPS, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+cost_disc_7_more_EG <- table_cost_disc_pv_eav(scn_comp_more_EG, .07, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                         start_year = 2023,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_disc_7_more, wb)
+write_tbl_to_xlsx(cost_disc_7_more_NSPS, wb)
+write_tbl_to_xlsx(cost_disc_7_more_EG, wb)
+
+cost_disc_3_more <- table_cost_disc_pv_eav(scn_comp_more, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+cost_disc_3_more_NSPS <- table_cost_disc_pv_eav(scn_comp_more_NSPS, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+cost_disc_3_more_EG <- table_cost_disc_pv_eav(scn_comp_more_EG, .03, list("capital_cost", "annual_cost", "ann_r", "gas_revenue", "ann_r_wgas"),
+                                         start_year = 2023,
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(cost_disc_3_more, wb)
+write_tbl_to_xlsx(cost_disc_3_more_NSPS, wb)
+write_tbl_to_xlsx(cost_disc_3_more_EG, wb)
+
+
+```
+
+```{r detail_2022, include=FALSE}
+
+tbl_detail_2022 <- scn_comp_table(scn_comp,
+              var_list = list("fac_affected", "Methane", "VOC", "HAP", "CH4_CO2e", "ann_7", "gas_revenue", "ann_7_wgas", "capital_cost", "annual_cost"),
+              row_detail = "detail",
+              show_years = 2023:2035, 
+              mp_list = mp_list_supp,
+              mp_attrs_list = mp_attrs_list_supp)
+
+write_tbl_to_xlsx(tbl_detail_2022, wb)
+
+```
+
+```{r alternatives_comp, include=FALSE}
+tar_load(scn_summ_all_supplemental)
+
+scn_comp_order <- c("baseline-prop", "baseline-less", "baseline-more")
+
+csv_alt_comp <- scn_summ_all_supplemental %>%
+  filter(year %in% c(2023, 2026, 2035)) %>%
+  select(scn_comp, year, Methane, VOC, ann_3, ann_7) %>%
+  mutate(across("Methane":"ann_7", ~round(.x, digits = 0))) %>%
+  mutate(scn_comp = factor(scn_comp, levels = scn_comp_order)) %>%
+  arrange(year, scn_comp)
+
+write_text_tbl(csv_alt_comp, path(csv_tbl_path, "2-13_scn_alt_comp.tbl"))
+
+```
+
+```{r climate_benefits, include=FALSE}
+tar_load(sc_ch4)
+
+# Climate benefits tables main
+# Proposal
+cb_undisc <- get_undisc_cost_table(scn_comp, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc <- get_sc_ch4_table(scn_comp, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# NSPS
+cb_undisc_NSPS <- get_undisc_cost_table(scn_comp_NSPS, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc_NSPS <- get_sc_ch4_table(scn_comp_NSPS, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# EG
+cb_undisc_EG <- get_undisc_cost_table(scn_comp_EG, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc_EG <- get_sc_ch4_table(scn_comp_EG, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# Less Strict
+cb_undisc_less <- get_undisc_cost_table(scn_comp_less, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc_less <- get_sc_ch4_table(scn_comp_less, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# NSPS
+cb_undisc_less_NSPS <- get_undisc_cost_table(scn_comp_less_NSPS, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc_less_NSPS <- get_sc_ch4_table(scn_comp_less_NSPS, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# EG
+cb_undisc_less_EG <- get_undisc_cost_table(scn_comp_less_EG, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc_less_EG <- get_sc_ch4_table(scn_comp_less_EG, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# More Strict
+cb_undisc_more <- get_undisc_cost_table(scn_comp_more, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc_more <- get_sc_ch4_table(scn_comp_more, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# NSPS
+cb_undisc_more_NSPS <- get_undisc_cost_table(scn_comp_more_NSPS, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc_more_NSPS <- get_sc_ch4_table(scn_comp_more_NSPS, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# EG
+cb_undisc_more_EG <- get_undisc_cost_table(scn_comp_more_EG, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+cb_disc_more_EG <- get_sc_ch4_table(scn_comp_more_EG, sc_ch4, mp_list = mp_list_supp, mp_attrs_list = mp_attrs_list_supp)
+
+# write to Excel
+# Proposal
+write_tbl_to_xlsx(cb_undisc, wb)
+write_tbl_to_xlsx(cb_disc, wb)
+
+write_tbl_to_xlsx(cb_undisc_NSPS, wb)
+write_tbl_to_xlsx(cb_disc_NSPS, wb)
+
+write_tbl_to_xlsx(cb_undisc_EG, wb)
+write_tbl_to_xlsx(cb_disc_EG, wb)
+
+# Less Strict
+write_tbl_to_xlsx(cb_undisc_less, wb)
+write_tbl_to_xlsx(cb_disc_less, wb)
+
+write_tbl_to_xlsx(cb_undisc_less_NSPS, wb)
+write_tbl_to_xlsx(cb_disc_less_NSPS, wb)
+
+write_tbl_to_xlsx(cb_undisc_less_EG, wb)
+write_tbl_to_xlsx(cb_disc_less_EG, wb)
+
+# More Strict
+write_tbl_to_xlsx(cb_undisc_more, wb)
+write_tbl_to_xlsx(cb_disc_more, wb)
+
+write_tbl_to_xlsx(cb_undisc_more_NSPS, wb)
+write_tbl_to_xlsx(cb_disc_more_NSPS, wb)
+
+write_tbl_to_xlsx(cb_undisc_more_EG, wb)
+write_tbl_to_xlsx(cb_disc_more_EG, wb)
+
+
+
+```
+
+```{r secondary_emissions, include=FALSE}
+
+
+secondary_emissions_tbl <- get_secondary_emissions_table_aggregate(scn_comp)
+
+secondary_emissions_tbl_break <- get_secondary_emissions_table_breakout(scn_comp)
+
+write_tbl_to_xlsx(secondary_emissions_tbl, wb)
+
+```
+
+```{r wellsite_bins_props_table, include=FALSE}
+
+wellsite_props_table <- calc_wellsite_bin_proportions(wellsite_bins_proj)
+
+write_tbl_to_xlsx(wellsite_props_table, wb)
+
+```
+
+```{r icr_equip_props_table, include=FALSE}
+
+# reorder rows
+icr_equip_prop = icr_equip_prop[order(site_type, site_prod_lvl, -site_bin)]
+
+# format strings
+icr_equip_prop[, `:=` (site_prod_lvl = fifelse(site_prod_lvl == "Low Production", "Low", "Non_low"))]
+
+# recast table
+icr_equip_props_tbl = dcast.data.table(icr_equip_prop, equip_bin ~ site_type + site_prod_lvl + factor(site_bin, levels = unique(site_bin)), value.var = "prop")
+
+# export
+write_tbl_to_xlsx(icr_equip_props_tbl, wb)
+
+```
+
+```{r icr_equip_avg_table, include=FALSE}
+
+# recast table
+icr_equip_avg = melt.data.table(icr_equip_avg, id.vars = c("site_prod_lvl", "site_bin", "equip_bin"), variable.name = "equip_type", value.name = "value")
+
+# define well type column
+icr_equip_avg[, well_type := fifelse(grepl("gas", equip_type), "gas", "oil")]
+
+# define second equipment type column
+icr_equip_avg[, equip_type2 := fcase(grepl("sep", equip_type), "sep",
+                                     grepl("compr", equip_type), "compr",
+                                     grepl("deh", equip_type), "deh",
+                                     grepl("tank", equip_type), "tank")]
+
+# aggregate over equipment types
+icr_equip_avg = icr_equip_avg[, .(value = sum(value)), by = .(well_type, site_prod_lvl, site_bin, equip_type = equip_type2, equip_bin)]
+
+# recast table
+icr_equip_avg_tbl = dcast.data.table(icr_equip_avg, ... ~ equip_type, value.var = "value")[order(well_type, site_prod_lvl, -site_bin, equip_bin), 
+                                                                              .(well_type, site_prod_lvl, site_bin, equip_bin, sep, compr, deh, tank)]
+
+# export
+write_tbl_to_xlsx(icr_equip_avg_tbl, wb)
+
+```
+
+```{r}
+saveWorkbook(wb, "output/xlsx/tables_2022_supplemental.xlsx", overwrite = TRUE)
+
+```

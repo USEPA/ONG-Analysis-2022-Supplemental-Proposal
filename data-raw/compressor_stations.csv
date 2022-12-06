@@ -1,0 +1,6271 @@
+Station Name,Pipeline Type,State/Province
+Saint Jo,Gathering,TX
+Miller,Transmission,TX
+Station 0014,Transmission,TX
+Carson County 300,Gathering,TX
+Kari,Gathering,TX
+Dumas,Gathering,TX
+Beckville,Gathering,TX
+South Bones,Gathering,TX
+Abraham,Gathering,TX
+White River,Storage,IN
+Alford 1,Storage,IN
+"Salado I, II and III",Storage,TX
+Hunters Cave,Storage,PA
+CS,Transmission,IL
+CS,Transmission,IL
+CS,Transmission,IL
+Hayes,Storage,WV
+Fruita,Storage,CO
+Young,Storage,CO
+Worsham-Steed,Storage,TX
+Wolf Creek,Storage,CO
+Wilson,Storage,TX
+Wild Goose,Storage,CA
+Waterville,Storage,MN
+Washington 10,Storage,MI
+Hughes,Storage,PA
+Vardy,Storage,PA
+Troy Grove,Storage,IL
+Totem,Storage,CO
+Tilden,Storage,IL
+Clemens,Storage,TX
+Stratton Ridge,Storage,TX
+Stratton Ridge,Storage,TX
+Stratton Ridge,Storage,TX
+Stark-Summit,Storage,OH
+Stanlaker,Storage,KS
+Spindletop,Storage,TX
+Spindletop,Storage,TX
+Spindletop,Storage,TX
+Southern Pines Energy Center,Storage,MS
+Sorrento,Storage,LA
+Sorrento,Storage,LA
+Sorrento,Storage,LA
+Six Lakes,Storage,MI
+Sharon,Storage,PA
+Shanghai,Storage,IL
+Saltville,Storage,VA
+Salt Plains (formerly Mancheser),Storage,OK
+Salem,Storage,MI
+Royal Center,Storage,IN
+Roundup,Storage,CO
+Rapid River 35,Storage,MI
+Raleigh,Storage,WV
+Swanson River,Storage,AK
+Pretty Creek,Storage,AK
+Portman,Storage,PA
+Pleasant Creek,Storage,CA
+Piqua,Storage,KS
+Pine Praire Energy Center,Storage,LA
+Pierce,Storage,TX
+Perryville,Storage,LA
+Perry,Storage,OH
+Osage,Storage,OK
+CS,Transmission,NY
+New Home Dome,Storage,MS
+Zane,Storage,OH
+Muskie,Storage,OH
+Muldon,Storage,MS
+Moulton,Storage,MT
+Moss Bluff,Storage,TX
+Morton,Storage,MI
+Mobley,Storage,WV
+Mississippi Hub ,Storage,MS
+Simpson Chapel,Storage,IN
+Mineral City,Storage,IN
+Mills,Storage,IL
+Midway-Extra,Storage,WV
+McLouth,Storage,KS
+Tres Palacios,Storage,TX
+Markham (2 caverns),Storage,TX
+Magnolia,Storage,KY
+Los Medanos,Storage,CA
+Lodi,Storage,CA
+Liberty South,Storage,KS
+Liberty North,Storage,KS
+Laurel,Storage,OH
+Lake Bloomington,Storage,IL
+Sciota,Storage,IL
+Lincoln,Storage,IL
+Manlove,Storage,IL
+Pontiac,Storage,IL
+Lexington,Storage,IL
+Lacey,Storage,MI
+La Goleta,Storage,CA
+Konold,Storage,KS
+St. Charles,Storage,KY
+Kirkwood Springs,Storage,KY
+Kirby Hills,Storage,CA
+Kimball 27,Storage,MI
+Keelor,Storage,PA
+Johnston City,Storage,IL
+Jefferson Island,Storage,LA
+"Jackson Prairie 2, 9",Storage,WA
+Indian Creek,Storage,TN
+Jefferson,Gathering,PA
+Hudson,Storage,IL
+Howesville,Storage,IN
+Hookdale,Storage,IL
+CS,Transmission,PA
+Hillbig,Storage,TX
+Hattiesburg,Storage,MS
+CS,Transmission,KY
+Hickory,Storage,KY
+Grandview,Storage,KY
+Goodwin,Storage,MS
+Glasford,Storage,IL
+Gill Ranch,Storage,CA
+Katy,Transmission,TX
+Katy Hub & Storage,Storage,TX
+Hillsboro,Storage,IL
+Freeburg,Storage,IL
+Freebird,Storage,AL
+Wolcott,Storage,IN
+Sellersburg,Storage,IN
+Unionville,Storage,IN
+Hindustan,Storage,IN
+Midway,Storage,IN
+Oliver,Storage,IN
+Four Mile Creek,Storage,MS
+Monroe City,Storage,IN
+Florissant,Storage,MO
+Mcintosh,Gathering,PA
+Felmac,Storage,TX
+Epps,Storage,LA
+Elk City,Storage,KS
+Egan,Storage,LA
+Blocker,Gathering,OK
+Featherston,Gathering,OK
+Hoss,Gathering,OK
+Ash Creek,Gathering,OK
+Fish Creek,Gathering,OK
+Strange,Gathering,OK
+Alamo,Gathering,NM
+Sapphire,Gathering,OK
+Rockhound,Gathering,TX
+R R,Gathering,TX
+Pecan,Gathering,TX
+Mabee,Gathering,TX
+Karbach,Gathering,OK
+Horned Frog,Gathering,NM
+Headington,Gathering,TX
+Ector,Gathering,TX
+Corral 2,Gathering,NM
+Charro 2,Gathering,NM
+Airport,Gathering,TX
+Frac Cat,Gathering,NM
+CS,Gathering,ND
+CS,Gathering,ND
+CS,Gathering,UT
+Eden,Storage,IL
+Agua Dulce Delivery,Transmission,TX
+Freer CS 7,Transmission,TX
+Big Wells CS 4,Transmission,TX
+Waha CS 1,Transmission,TX
+Rankin CS 2,Transmission,TX
+Del Rio CS 3,Transmission,TX
+Pecatonica,Storage,IL
+Eaton Rapids 36,Storage,MI
+East Unionville,Storage,LA
+Hanson,Storage,KY
+East Slaughters,Storage,KY
+East Cheyenne,Storage,CO
+Early Grove,Storage,VA
+Dry Creek,Storage,MT
+Muldraugh,Storage,KY
+Switz City,Storage,IN
+Worthington,Storage,IN
+Dixon,Storage,IN
+Depew,Storage,OK
+Cypress Sand,Storage,IN
+CS,Transmission,KS
+Lee 2,Storage,MI
+Cortwright/Lee,Storage,MI
+Lee 11,Storage,MI
+Lee 8,Storage,MI
+Columbus,Storage,MI
+Colony,Storage,KS
+Welda (South),Storage,KS
+Collin,Storage,MI
+Cold Springs 31,Storage,MI
+Cobb,Storage,MT
+Cloverly,Storage,WY
+Spire (Clear Creek),Storage,WY
+Choctaw Hub,Storage,LA
+Centralia,Storage,IL
+Central Valley,Storage,CA
+Center,Storage,KY
+Cecilia,Storage,KY
+Sterling Pool 6,Storage,AK
+Cannery Loop,Storage,AK
+Canada Mountain,Storage,KY
+Caledonia,Storage,MS
+Columbus City,Storage,IA
+Cadeville,Storage,LA
+Tepe,Transmission,PA
+Applegate,Storage,PA
+Buffalo,Storage,KS
+Fredonia,Storage,KS
+Brehm,Storage,KS
+Box Elder,Storage,MT
+Borchers North,Storage,KS
+Bon Harbor/Owensboro,Storage,KY
+Boehm,Storage,KS
+Cold Springs 1,Storage,MI
+Cold Springs 12,Storage,MI
+Blue Lake 18A,Storage,MI
+Bentonville LNG,Storage,NC
+Benton,Storage,OH
+St. Mary's,Storage,PA
+Bear Creek,Storage,LA
+Bay Gas,Storage,AL
+Barnsley,Storage,KY
+South Midpoint,Gathering,MT
+Austin,Storage,MI
+Ashmore,Storage,IL
+Artemas B,Storage,PA
+Ancona,Storage,IL
+Amory,Storage,MS
+Alford,Storage,IN
+CS,Transmission,NY
+Bennington,Storage,NY
+Holland,Storage,NY
+East Aurora,Storage,NY
+Wyckoff,Storage,NY
+North Greenwood,Storage,NY
+Honeoye,Storage,NY
+Colden,Storage,NY
+Sheridan,Storage,NY
+Mist (3 pools),Storage,OR
+Chalk Creek,Storage,UT
+Coalville,Storage,UT
+Clay Basin,Storage,UT
+Chippewa,Storage,OH
+Woodhull Storage Output,Storage,NY
+Brookmans Corner,Transmission,NY
+Quinlan,Storage,NY
+Donegal,Storage,PA
+Blackhawk,Storage,PA
+Augusta,Storage,WV
+West Edmond,Storage,OK
+Bunker Hill,Storage,WY
+CS - 2,Transmission,TX
+Asbury,Storage,CO
+East Diamond,Storage,KY
+Belle Butte,Storage,WY
+Lanham Area 3 - 7,Storage,WV
+Coco,Storage,WV
+Bammel,Storage,TX
+Robstown,Storage,TX
+Bethel,Storage,TX
+Bethel Storage,Storage,TX
+Kinter,Storage,PA
+Boone Mt.,Storage,PA
+Artemas A,Storage,PA
+Island Run,Storage,PA
+Corry,Storage,PA
+Roystone,Storage,PA
+Chiles Dome Storage,Storage,OK
+Ada Storage,Storage,OK
+Crawford Area 5/7 - 1B,Storage,OH
+Crawford Area 5/7 - 1,Storage,OH
+"Stony Point 26"" - 100",Transmission,NY
+"Southeast 26"" - 141",Transmission,NY
+Corning Area 2 - 2,Transmission,NY
+Dundee,Storage,NY
+Maxwell,Gathering,NY
+Steuben,Storage,NY
+Silver Springs,Gathering,NY
+Sherman,Gathering,NY
+Minisink,Gathering,NY
+Bradley Brook,Gathering,NY
+Cooper Hill,Gathering,NY
+Diehl,Gathering,NY
+Porterville,Storage,NY
+Nashville,Storage,NY
+Zoar,Storage,NY
+Tuscarora,Storage,NY
+Independence,Storage,NY
+Beech Hill,Storage,NY
+Prattsburg,Gathering,NY
+Little Valley,Gathering,NY
+Mayville,Gathering,NY
+Greenwood,Storage,NY
+Schuver,Distribution,NY
+Derby,Storage,NY
+Limestone,Storage,NY
+Baker,Storage,MT
+Partello,Storage,MI
+Big Hand,Storage,MI
+Belle River,Storage,MI
+Accident,Storage,MD
+Main Line,Storage,LA
+Bistenau,Storage,LA
+Dixie Storage,Storage,KY
+Craig,Storage,KS
+Alden,Storage,KS
+Cunningham,Storage,KS
+Welda,Storage,KS
+Cairo - 204,Storage,IA
+Cooks Mills - 203,Storage,IL
+Thomas Corners,Storage,NY
+Seneca Lake,Storage,NY
+NS1,Gathering,NY
+Corvette,Gathering,TX
+Willow Lake,Gathering,NM
+Gray Wolf,Gathering,WY
+Big Horn,Gathering,WY
+Baker Road,Gathering,LA
+Gulf South (Dyess),Gathering,LA
+Marc 1 South,Gathering,PA
+Stagecoach,Storage,NY
+West Johnson County,Gathering,TX
+Handley,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Station 8,Gathering,ND
+Falcon,Gathering,TX
+CS - 402C,Gathering,TX
+Harmony,Transmission,PA
+North Mills,Gathering,TX
+Pisgah Moutain,Gathering,AR
+E. Chismville,Gathering,AR
+Magazine,Gathering,AR
+Ryers Creek,Transmission,NY
+Bobcat,Gathering,ND
+Bobcat,Gathering,ND
+Bobcat,Gathering,ND
+Bobcat,Gathering,ND
+Bobcat,Gathering,ND
+Bobcat,Gathering,ND
+Brown,Gathering,CO
+Wiltfang,Gathering,CO
+Brookwood,Gathering,AL
+CS,Transmission,AL
+CS,Gathering,AL
+CS,Gathering,AL
+CS,Gathering,AL
+CS,Gathering,AL
+Windham Springs,Transmission,AL
+West Covin,Transmission,AL
+Millport McGee,Transmission,AL
+Star,Transmission,AL
+Vernon,Transmission,AL
+Clarington-Dominion Interconnect,Gathering,OH
+Edgemoor,Transmission,SC
+Grover,Transmission,SC
+CS,Transmission,SC
+Lincoln Heights,Transmission,PA
+Manor Ext,Transmission,PA
+Perulack,Transmission,PA
+Renfrew,Transmission,PA
+Rochester Mills,Transmission,PA
+Stoney Run,Transmission,PA
+Mullet,Gathering,OH
+CS,Gathering,OH
+Cambridge,Gathering,OH
+Shoop,Transmission,OH
+Jefferson,Gathering,OH
+Brush,Transmission,OH
+Twinsburg,Transmission,OH
+Carroll,Transmission,OH
+Wilmot,Transmission,OH
+Kleckner,Transmission,OH
+Austintown,Transmission,OH
+CS,Transmission,OH
+Sardis,Transmission,WV
+Mockingbird Hill,Transmission,WV
+Spruce Run,Transmission,WV
+Blandville,Gathering,WV
+Racket-Newberne,Transmission,WV
+Southern,Transmission,SC
+Siron,Gathering,OH
+Rock Springs,Storage,PA
+Pike,Gathering,OH
+Behtune,Transmission,SC
+Milford,Transmission,CT
+Brookfield,Transmission,CT
+Robertson Creek,Transmission,WY
+Rock Springs,Transmission,WY
+Hastings,Transmission,WV
+Hastings,Transmission,WV
+Bridgeport K-Output,Storage,WV
+Bridgeport K-Storage Input,Storage,WV
+Sweeney F Storage Output,Storage,WV
+Sweeney F Storage Input,Storage,WV
+Lightburn G - Storage Input,Storage,WV
+Lightburn G - Storage Output,Transmission,WV
+O'Dell,Transmission,WV
+Coronado - 14,Transmission,WV
+Hall,Transmission,WV
+Weston,Transmission,WV
+Keith Fork,Transmission,WV
+Collins,Transmission,WV
+Maxwell,Transmission,WV
+Mockingbird Hill H-Relay (Dry),Transmission,WV
+Gauley,Transmission,WV
+Huff Creek,Transmission,WV
+Bolt,Transmission,WV
+Buff Lick,Transmission,WV
+Chelyan,Transmission,WV
+Morrison,Transmission,WV
+Lewis Wetzel,Transmission,WV
+Burch Ridge,Transmission,WV
+Smithburg,Transmission,WV
+Cornwell,Transmission,WV
+Orma,Transmission,WV
+Craig,Transmission,WV
+Pepper,Transmission,WV
+Camden,Transmission,WV
+Kennedy,Storage,WV
+Law,Transmission,WV
+Davis,Transmission,WV
+Wilsonburg,Transmission,WV
+LL Tonkin CC-Relay,Transmission,WV
+Sardis,Transmission,WV
+Schutte,Transmission,WV
+Yellow Creek,Transmission,WV
+Jones,Transmission,WV
+Wolf Run,Transmission,WV
+Loup Creek,Transmission,WV
+Deep Valley,Transmission,WV
+Oscar Nelson,Transmission,WV
+Leesburg LL-Relay,Transmission,VA
+Quantico,Transmission,VA
+Harrison V Storage Output,Storage,PA
+Harrison V Storage Input,Storage,PA
+Ellisburg Storage Input,Storage,PA
+Ellisburg Storage Output,Storage,PA
+Boom X-Storage Input,Storage,PA
+Boom X-Storage Output,Storage,PA
+Tioga X Storage Output,Storage,PA
+Tioga X Storage Input,Storage,PA
+South Bend O-Storage Output,Storage,PA
+South Bend O-Relay,Transmission,PA
+Sabinsville S-Storage Input,Storage,PA
+Sabinsville S-Storage Output,Storage,PA
+Browns Creek,Storage,WV
+Oakford N Storage Output B,Storage,PA
+Oakford N Storage Input A,Storage,PA
+Oakford N Storage Output A,Storage,PA
+North Summit Ff-Storage Output,Storage,PA
+North Summit Ff-Storage Input,Storage,PA
+Leidy R - Storage Output,Storage,PA
+Leidy R - Storage Input,Storage,PA
+Centre Relay,Transmission,PA
+Ardell,Transmission,PA
+Hutchinson,Transmission,PA
+Jeannette,Transmission,PA
+Rochester Mills,Transmission,PA
+Big Run,Transmission,PA
+Benezette,Transmission,PA
+Chambersburg,Transmission,PA
+Crayne,Transmission,PA
+Gibson,Transmission,PA
+Roaring Run,Transmission,PA
+Lincoln Heights,Transmission,PA
+Big Run,Transmission,PA
+Cherry Tree,Transmission,PA
+Stoney Run,Transmission,PA
+Luther,Transmission,PA
+Beaver Kk-Relay,Transmission,PA
+Valley,Distribution,PA
+South Oakford N-Storage Output,Storage,PA
+Helvetia,Transmission,PA
+Truittsburg,Storage,PA
+Punxsutawney,Transmission,PA
+Girty,Transmission,PA
+JB Tonkin,Transmission,PA
+State Line,Transmission,PA
+Greenlick Storage Input,Storage,PA
+Finnefrock,Transmission,PA
+Little Greenlick QQ Relay,Transmission,PA
+Lebanon BB-Relay,Transmission,OH
+Emler,Distribution,OH
+Siron,Distribution,OH
+Queen,Distribution,OH
+Siron,Distribution,OH
+Noble,Distribution,OH
+Jefferson,Distribution,OH
+Paint,Distribution,OH
+Franklin,Transmission,OH
+Alliance,Distribution,OH
+Mills,Distribution,OH
+Montebello,Gathering,CA
+Marlo,Distribution,OH
+Flint,Distribution,OH
+Mantua,Distribution,OH
+Newbury,Distribution,OH
+Hambden,Distribution,OH
+Cambridge,Gathering,OH
+Coumbiana,Distribution,OH
+Robinson,Transmission,OH
+Gilmore - Aa,Transmission,OH
+Groveport,Transmission,OH
+Washington,Transmission,OH
+Newark HH-Relay,Transmission,OH
+Woodhull Storage Input,Storage,NY
+Sherman,Transmission,NY
+Dover,Transmission,NY
+Athens - 3,Transmission,NY
+Wright - 2,Transmission,NY
+Utica,Transmission,NY
+Borger Y-Relay,Transmission,NY
+Boonville,Transmission,NY
+Croghan - 1,Transmission,NY
+Wadworther,Transmission,NV
+Richmond,Gathering,OK
+CS,Gathering,OK
+Bekham No. 2,Transmission,OK
+CS,Transmission,OK
+CS,Transmission,TX
+Eldridge,Transmission,IA
+Hobson,Gathering,OK
+Canadian River,Gathering,OK
+Watonga,Gathering,OK
+Wind Row,Gathering,OK
+Iron River - 6,Transmission,WI
+Starbuck - 7,Transmission,WA
+Rosalia - 6,Transmission,WA
+Wallula - 8,Transmission,WA
+West - 342,Transmission,TX
+East - 343,Transmission,TX
+CS - 169 South,Transmission,TX
+CS - 169 North,Transmission,TX
+CS - 168 South,Transmission,TX
+CS - 168 North,Transmission,TX
+Eastport - 3,Transmission,ID
+CS - 50,Transmission,TX
+CS - 44,Transmission,TX
+CS - 43,Transmission,TX
+CS - 45,Transmission,TX
+CS - 53,Transmission,TX
+CS - 51,Transmission,TX
+CS 111,Transmission,TX
+CS - 154,Transmission,TX
+CS - 155,Transmission,TX
+CS - 802,Transmission,TX
+CS 112,Transmission,TX
+CS - 302,Transmission,TX
+CS - 301,Transmission,TX
+CS - 300,Transmission,TX
+CS - 340,Transmission,TX
+CS - 341,Transmission,TX
+CS - 344,Transmission,TX
+North Lansing - 388,Storage,TX
+CS - 304,Transmission,TX
+CS - 303,Transmission,TX
+CS 11,Transmission,SD
+CS - 10,Transmission,SD
+CS - 9,Transmission,SD
+Ione - 9,Transmission,OR
+Kent - 10,Transmission,OR
+Madras - 11,Transmission,OR
+Bend - 12,Transmission,OR
+Chemult - 13,Transmission,OR
+Bonanza - 14,Transmission,OR
+CS - 156 South,Transmission,OK
+CS - 156 North,Transmission,OK
+CS - 159,Transmission,OK
+CS - 158,Transmission,OK
+CS 102,Transmission,OK
+Sayre - 184,Storage,OK
+CS - 801,Transmission,OK
+CS - 812,Transmission,OK
+CS - 6,Transmission,ND
+CS - 5,Transmission,ND
+CS - 8,Transmission,ND
+CS - 7,Transmission,ND
+CS - 4,Transmission,ND
+CS - 167 South,Transmission,NM
+CS - 167 North,Transmission,NM
+CS - 144,Transmission,NM
+CS - 166,Gathering,NM
+CS - 139,Gathering,NM
+CS - 139,Transmission,NM
+CS - 196,Transmission,NE
+CS 106,Transmission,NE
+CS - 3,Transmission,MT
+CS - 2,Transmission,MT
+CS - 1,Transmission,MT
+CS - 309,Transmission,MO
+Thief River Falls - 2,Transmission,MN
+Shevlin - 3,Transmission,MN
+Cloquet - 5,Transmission,MN
+CS - 12,Transmission,MN
+Aliso Canyon,Storage,CA
+Deer River - 4,Transmission,MN
+St. Vincent - 1,Transmission,MN
+CS - 13,Transmission,MN
+Wakefield - 7,Transmission,MI
+Rapid River - 9,Transmission,MI
+Otisville - 13,Transmission,MI
+Naubinway - 10,Transmission,MI
+Farwell - 12,Transmission,MI
+Crystal Falls - 8,Transmission,MI
+Brevort - 10A,Transmission,MI
+Boyne Falls - 11,Transmission,MI
+CS - 10A,Transmission,MI
+CS - 346,Transmission,LA
+West - 342,Transmission,LA
+CS - 347,Transmission,LA
+CS - 195,Transmission,KS
+CS - 193,Transmission,KS
+CS 103,Transmission,KS
+CS 105,Transmission,KS
+CS - 194,Transmission,KS
+CS 104,Transmission,KS
+CS - 15,Transmission,IA
+CS - 14,Transmission,IA
+CS - 199,Transmission,IA
+CS - 16,Transmission,IA
+Keota - 205,Storage,IA
+CS 109,Transmission,IA
+CS - 198,Transmission,IA
+CS 108,Transmission,IA
+CS 107,Transmission,IA
+CS - 19,Transmission,IL
+Amarillo Line - 113,Transmission,IL
+Gulf Coast Line - 113,Transmission,IL
+CS - 18,Transmission,IL
+CS - 17,Transmission,IL
+CS 110,Transmission,IL
+CS - 116,Transmission,IL
+CS 202,Transmission,IL
+CS - 310,Transmission,IL
+Loudon - 206,Storage,IL
+CS - 311,Transmission,IL
+Herscher Mt. Simon,Storage,IL
+Sandpoint - 4,Transmission,ID
+Athol - 5,Transmission,ID
+Likely,Transmission,CA
+Shoe Tree,Transmission,CA
+Radar,Transmission,CA
+CS - 305,Transmission,AR
+CS - 306,Transmission,AR
+CS - 307,Transmission,AR
+CS - 308,Transmission,AR
+North Baja,Transmission,AZ
+Carthage Hub Interconnect,Transmission,TX
+Grapeland,Transmission,TX
+Orange,Transmission,TX
+Goodrich,Transmission,TX
+CS,Gathering,WY
+Hopewell,Gathering,PA
+Lightner Run,Gathering,PA
+Mohave Valley,Transmission,AZ
+Needles Measuring,Transmission,AZ
+Anderson,Gathering,ND
+NE Wililams CDP,Gathering,ND
+CS,Gathering,CO
+Collection Station 42,Gathering,CO
+Stake Springs,Gathering,CO
+Conn Creek,Transmission,CO
+Meeker,Transmission,CO
+Jimmy Gulch,Gathering,CO
+CS,Gathering,CO
+CS,Gathering,CO
+CS,Gathering,CO
+CS,Gathering,CO
+Collection Station 11,Gathering,CO
+CS,Gathering,CO
+CS,Gathering,CO
+CS,Gathering,CO
+CS,Gathering,CO
+Collection Station 17,Gathering,CO
+CS,Gathering,CO
+Wasatch Yard,Gathering,CO
+Rabbit Brush,Gathering,CO
+Castle Springs,Gathering,CO
+Middle Fork,Gathering,CO
+Liberty,Gathering,CO
+East Plateau,Gathering,CO
+Rifle Clough,Gathering,CO
+Rifle Booster,Gathering,CO
+West Rifle,Gathering,CO
+Razor 26,Gathering,CO
+Devlin,Gathering,CO
+YGS Site 11,Gathering,CO
+YGS Site 4,Gathering,CO
+Ehrenberg,Transmission,AZ
+Webster Hill,Gathering,CO
+Bowen,Transmission,PA
+CS - 323A,Transmission,PA
+Grand Chenier,Transmission,LA
+Grand Chenier,Transmission,LA
+Dry Creek - 871A,Transmission,KY
+CS,Gathering,WY
+CS,Gathering,WY
+Stateline 1,Gathering,TX
+Story Gulch,Gathering,CO
+Stateline 3,Gathering,TX
+Stateline 2,Gathering,TX
+Medallion,Gathering,TX
+South Carthage,Gathering,TX
+Lateral B - 175,Gathering,TX
+Talpa,Gathering,TX
+Ne Blanco (15) - 3438,Gathering,NM
+CS - Devon,Gathering,NM
+Comanche,Gathering,NM
+Top Hat - 26,Gathering,NM
+Geronimo,Gathering,NM
+CS - 1891,Gathering,NM
+Catclaw,Gathering,NM
+Tomahawk,Gathering,NM
+Avalon,Gathering,NM
+Central,Transmission,AK
+Rupple,Gathering,ND
+Wonsits Valley,Transmission,UT
+Orla,Gathering,TX
+Herndon,Transmission,VA
+Chantilly,Transmission,VA
+Grapevine,Transmission,WV
+V60 (Odd),Gathering,WV
+Clawson,Distribution,PA
+Eagle,Transmission,PA
+Grant,Gathering,WV
+Renick,Gathering,PA
+Lucedale,Transmission,MS
+Chapita,Transmission,UT
+Cavern Well 25,Transmission,LA
+Brimstone,Transmission,LA
+MCU,Transmission,UT
+Hovenweep Central,Gathering,CO
+Little Canyon,Gathering,UT
+CS,Gathering,UT
+CS,Gathering,CO
+CS,Transmission,UT
+CS,Transmission,UT
+CS,Transmission,UT
+CS,Gathering,CO
+CS,Gathering,CO
+CS,Gathering,CO
+CS,Gathering,CO
+Blue Buttes Unit 6,Gathering,ND
+CS,Gathering,WY
+Community,Gathering,OK
+Benbrook,Gathering,TX
+Beaumont,Transmission,KS
+Paradise,Gathering,WY
+Pinedale Complex,Gathering,WY
+Sholem Booster,Transmission,OK
+Sandstone Creek,Transmission,OK
+Freestone,Gathering,TX
+Adair,Gathering,TX
+Herrera,Gathering,TX
+Waha,Transmission,TX
+Waha,Transmission,TX
+Milford,Transmission,UT
+Milford,Distribution,UT
+Spindle,Gathering,CO
+Seminole,Distribution,TX
+Standing Rock,Transmission,AR
+Haskell,Transmission,OK
+CS,Transmission,OK
+West Kinta,Transmission,OK
+Kentucky,Gathering,OK
+Spiro,Transmission,OK
+Service Drlg,Transmission,OK
+Robertson,Transmission,OK
+Blackman,Transmission,OK
+Williams,Transmission,AR
+Tobey,Transmission,AR
+Stephens Mcbride,Transmission,AR
+Midpoint,Transmission,AR
+Carter,Transmission,AR
+Carney,Transmission,AR
+Price,Transmission,AR
+Sheffield,Transmission,AL
+Goodwater,Gathering,MS
+CS - 2,Transmission,AL
+CS - 1,Transmission,AL
+Baxterville,Transmission,MS
+Piney Woods,Transmission,MS
+CS,Gathering,WY
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Vent,Gathering,TX
+CS,Gathering,TX
+3-T,Gathering,TX
+Belva,Gathering,TX
+CS,Gathering,TX
+Etter,Gathering,TX
+Hudson,Gathering,TX
+Southfield,Gathering,WY
+Manderson,Transmission,WY
+Cottonwood,Gathering,WY
+Hanoverton,Transmission,OH
+Coyote Wash,Transmission,UT
+GH6 Rush Run,Gathering,PA
+Dyers Fork,Gathering,PA
+Pettit,Gathering,PA
+Jefferson,Transmission,PA
+Graysville,Gathering,PA
+Blue Moon,Gathering,PA
+Doerfler,Gathering,PA
+Twilight,Gathering,PA
+Sims,Gathering,PA
+West Lebanon,Gathering,PA
+CS,Gathering,OH
+CS,Gathering,WV
+Pandora,Transmission,WV
+Shirley,Gathering,WV
+South Deek Creek,Transmission,WY
+Roberson,Transmission,WY
+Point of Rocks,Transmission,WY
+Ten Mile,Transmission,PA
+Rifle,Gathering,OH
+NV-57,Gathering,PA
+NV-55,Gathering,PA
+NV-56,Gathering,PA
+Fallowfield,Gathering,PA
+Moundsville,Gathering,WV
+Mamont,Gathering,PA
+Marshall,Gathering,WV
+McQuay,Gathering,PA
+Majorsville,Gathering,WV
+Roberson,Transmission,WY
+Thistle Creek,Transmission,UT
+Blind Canyon,Transmission,UT
+Simon,Transmission,WY
+Eakin,Transmission,WY
+Chalk Creek,Transmission,UT
+Nightingale Saturn - 2,Transmission,WY
+Nightingale Centaur - 1,Transmission,WY
+Coleman (Recip),Transmission,WY
+Coleman (Centr),Transmission,WY
+Kanda Solar Cent/Centrf,Transmission,WY
+Kanda Solar Sat/Centrf - 1,Transmission,WY
+Kanda Solar Sat/Centrf,Transmission,WY
+South Baxter,Transmission,WY
+W. Side Canal,Transmission,WY
+Leroy,Storage,WY
+Fidlar Solar Centaur,Transmission,UT
+Fidlar Solar Saturn Centrf,Transmission,UT
+Fidlar Cooper Reciprocating,Transmission,UT
+Skull Creek,Transmission,WY
+Oak Spring T60 7802,Transmission,UT
+Oak Spring Centaur,Transmission,UT
+Oak Spring T60 7302,Transmission,UT
+River Bend,Transmission,UT
+Lark,Transmission,UT
+Monument Butte,Transmission,UT
+Lightner Run,Gathering,PA
+Greasewood - 30,Transmission,CO
+State Line,Gathering,CO
+W Hiawatha,Gathering,CO
+State Line,Transmission,CO
+Powder Wash,Transmission,CO
+E. Hiawatha,Transmission,CO
+Springtown,Gathering,TX
+Weatherford,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Stiles CF,Gathering,OK
+Mermentau,Transmission,LA
+Brogger,Gathering,ND
+Erath,Transmission,LA
+Duncan,Gathering,TX
+New York,Transmission,TX
+Mayo Williams,Gathering,TX
+Pawnee,Transmission,KS
+Davenport CS-31,Transmission,FL
+Hunters Creek,Transmission,FL
+Station 18,Transmission,FL
+CS,Transmission,LA
+Venice,Transmission,LA
+CS,Transmission,LA
+Gillis,Transmission,LA
+CS,Gathering,LA
+Longstreet,Gathering,LA
+Abington,Gathering,LA
+CS,Transmission,LA
+CS,Transmission,LA
+Holmwood,Transmission,LA
+Parks,Transmission,LA
+CS - 42,Transmission,LA
+CS,Transmission,LA
+CS,Transmission,LA
+Cheneyville,Transmission,LA
+Mansfield,Transmission,LA
+CS,Gathering,LA
+CS - 703A,Gathering,LA
+Chatman,Gathering,LA
+Logansport,Gathering,LA
+CS,Gathering,LA
+Indigo Minerals,Transmission,LA
+Creedence,Gathering,LA
+Holly Common Point 3,Transmission,LA
+Clear Lake,Gathering,LA
+CS,Transmission,LA
+Red River,Gathering,LA
+Cane Hill,Transmission,LA
+Magnolia,Gathering,LA
+Hall Summit,Gathering,LA
+CS,Gathering,LA
+Bosco,Transmission,LA
+CS,Gathering,LA
+CS,Gathering,LA
+CS,Gathering,LA
+CS,Gathering,LA
+Delhi,Transmission,LA
+Mainline,Transmission,LA
+Delhi,Transmission,LA
+Delhi,Transmission,LA
+Fox Skin,Gathering,LA
+Tillman Church,Distribution,LA
+Sibley,Gathering,LA
+New Town,Gathering,ND
+Rock Creek,Gathering,TX
+Wamsutter,Transmission,WY
+Anderson,Gathering,ND
+Sonat,Gathering,TX
+Hawkeye,Gathering,ND
+Lake Como,Gathering,MS
+West Nancy,Gathering,MS
+Sand Hill,Transmission,MS
+Pascaooula,Transmission,MS
+Point A La Hache,Transmission,LA
+CS,Gathering,WV
+Tuscaloosa,Gathering,AL
+Millerton,Gathering,LA
+CS-2210,Transmission,TN
+CS-3101,Transmission,TN
+CS-2101,Transmission,TN
+Yellow Rose,Gathering,TX
+Bethany,Gathering,TX
+CS,Transmission,WY
+Chatom,Transmission,AL
+Salt Creek,Transmission,WY
+Airport,Transmission,AL
+Airport,Transmission,AL
+CS - 84,Transmission,AL
+West Butler,Transmission,AL
+CS - 95,Transmission,AL
+Rincon,Transmission,GA
+Station 5401,Transmission,GA
+Rome,Transmission,GA
+Hartwell,Transmission,GA
+White River,Gathering,UT
+Bitter Creek,Gathering,UT
+Trinidad,Transmission,CO
+Rita Canyon,Gathering,CO
+Belton,Transmission,SC
+North Fork,Gathering,ND
+Lumberton,Transmission,NC
+Pembroke,Transmission,NC
+Mill Spring,Transmission,NC
+Mill Spring,Transmission,NC
+Concord,Transmission,NC
+Clayton,Transmission,NC
+Roxboro,Transmission,NC
+Ruffin,Transmission,NC
+Ruston Central Point,Transmission,LA
+Minden,Transmission,LA
+White Lightning,Gathering,LA
+Salem,Transmission,LA
+Cotton Valley,Gathering,LA
+Colquitt,Gathering,LA
+Vance CS 13,Gathering,AL
+CS,Gathering,AL
+Duncanville,Transmission,AL
+CS,Gathering,AL
+Station 5,Gathering,AL
+Station 4,Gathering,AL
+CS,Transmission,AL
+CS,Transmission,AL
+CS,Transmission,AL
+Oak Grove CS 11,Gathering,AL
+CS,Transmission,AL
+Oak Grove CS 2,Gathering,AL
+Oak Grove CS 10,Gathering,AL
+CS,Gathering,AL
+Oak Grove CS 7,Gathering,AL
+CS,Gathering,AL
+CS,Gathering,AL
+CS,Gathering,AL
+CS,Gathering,OK
+Leesville,Transmission,OH
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Meadowlark,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Augusta,Transmission,OH
+Sidney,Gathering,KY
+Canada,Gathering,KY
+Sterling,Transmission,CO
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Myra,Gathering,KY
+Jenkins,Gathering,KY
+Tomahawk,Gathering,KY
+Diversified CS,Gathering,VA
+Diversified CS,Gathering,VA
+Diversified CS,Gathering,VA
+Diversified CS,Gathering,VA
+Diversified CS,Gathering,VA
+Diversified CS,Gathering,VA
+Diversified CS,Gathering,VA
+Diversified CS,Gathering,VA
+Diversified CS,Gathering,VA
+Oliver,Gathering,KY
+Diversified CS,Gathering,KY
+Diversified CS,Gathering,KY
+Wildcat,Gathering,KY
+Diversified CS,Gathering,KY
+Carrs Fork,Gathering,KY
+Mayking,Gathering,KY
+Right Beaver,Gathering,KY
+Diversified CS,Gathering,KY
+Drift,Gathering,KY
+Diversified CS,Gathering,KY
+Maytown,Gathering,KY
+Diversified CS,Gathering,KY
+Diversified CS,Gathering,KY
+Diversified CS,Gathering,KY
+Pike West,Gathering,KY
+Buffalo,Gathering,KY
+Diversified CS,Gathering,KY
+Meta,Gathering,KY
+Daniels,Gathering,KY
+Diversified CS,Gathering,KY
+Diversified CS,Gathering,KY
+Rockhouse,Gathering,KY
+Diversified CS,Gathering,KY
+Diversified CS,Gathering,KY
+Diversified CS,Gathering,KY
+Diversified CS,Gathering,KY
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Saturn,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,WV
+Diversified CS,Gathering,PA
+Diversified CS,Gathering,PA
+Diversified CS,Gathering,PA
+Jupiter,Gathering,PA
+Jefferson,Gathering,PA
+Callisto,Storage,PA
+Europa,Gathering,PA
+Diversified CS,Gathering,PA
+Wall,Gathering,PA
+West Fairfield,Transmission,PA
+Diversified CS,Transmission,PA
+Rager Mt/Laurel Ridge,Storage,PA
+Diversified CS,Gathering,PA
+Terra,Gathering,PA
+Diversified CS,Gathering,PA
+Truittsburg,Gathering,PA
+Diversified CS,Transmission,PA
+Diversified CS,Gathering,PA
+Diversified CS,Gathering,PA
+Diversified CS,Gathering,PA
+CS,Gathering,PA
+CS,Gathering,WV
+Blacksville,Gathering,WV
+Casper,Transmission,WY
+Glenrock,Gathering,WY
+Boone Dome,Transmission,WY
+Waltman,Transmission,WY
+LaBonte,Transmission,WY
+Guernsey,Transmission,WY
+Sand Draw,Transmission,WY
+West Union 53 Storage,Storage,WV
+West Union 53 Transmission,Gathering,WV
+Copley 70 Trans. - 1,Gathering,WV
+Copley 70 Storage,Storage,WV
+Copley 70 Trans. - 2,Gathering,WV
+Burnsville - 2,Gathering,WV
+Burnsville - 1,Gathering,WV
+Miller Expansion,Gathering,WV
+Miller,Gathering,WV
+Sand Hill CF,Gathering,WV
+Selbyville,Gathering,WV
+Pleasants,Gathering,WV
+Saturn,Transmission,WV
+Shinnstonn,Transmission,WV
+Curtisville - 50,Storage,WV
+Comet - 43,Storage,WV
+Logansport - 49,Gathering,WV
+Pennview,Gathering,PA
+Rogersville 29 Relay,Gathering,PA
+Rogersville 29 Storage,Gathering,PA
+Pratt - 47 Relay,Storage,PA
+Pratt - 47 Storage,Storage,PA
+Goodwin - 72,Gathering,PA
+Jefferson (Proposed),Transmission,PA
+Crooked Creek - 44,Gathering,PA
+Sleepy Hollow,Gathering,PA
+Hartson - 48,Storage,PA
+Stone House CF,Gathering,PA
+Granville CF,Gathering,PA
+Blanco,Gathering,NM
+La Jara,Gathering,NM
+29-6 No3 Cdp Gcp1 1687,Gathering,NM
+32-7 Cdp,Gathering,NM
+Navajo City,Gathering,NM
+Thompson,Gathering,NM
+Keblah,Gathering,NM
+Chaco,Gathering,NM
+CS - 311,Gathering,NM
+Gallegos,Gathering,NM
+Ojito,Transmission,NM
+Marcus,Gathering,NM
+Primo Federal - 1A,Gathering,NM
+Pine River,Gathering,NM
+Horton Straddle,Gathering,NM
+Moore Cancelled,Gathering,NM
+Pipkin,Gathering,NM
+Rippley N-2-26,Gathering,NM
+SJ 31-6 - 233,Gathering,NM
+Manzanares,Gathering,NM
+Crouch Mesa,Gathering,NM
+32-8 No 2,Gathering,NM
+Ballard,Gathering,NM
+Aztec,Gathering,NM
+Lateral - 30,Gathering,NM
+32-8 No 2 Cdp,Gathering,NM
+Trunk C,Gathering,NM
+Trunk N,Gathering,NM
+Trunk A,Gathering,NM
+Cabresto,Gathering,NM
+Richardson Straddle,Gathering,NM
+Rosa - 1,Gathering,NM
+East Nebu,Gathering,NM
+North Crandell,Gathering,NM
+Kimball,Transmission,NE
+West Engelland,Transmission,NE
+Grand Island,Transmission,NE
+Lincoln - 602,Transmission,NE
+North Platte,Transmission,NE
+Cozad South,Transmission,NE
+Holdredge,Transmission,NE
+Clay Center,Transmission,NE
+Kearney - 603,Transmission,NE
+Albion,Transmission,NE
+Lexington,Transmission,NE
+Big Springs,Transmission,NE
+Huntsman,Storage,NE
+CS ,Transmission,KY
+Dwale,Gathering,KY
+Langley,Distribution,KY
+Grant County,Transmission,KS
+Laton,Transmission,KS
+Scott City,Transmission,KS
+Herndon,Transmission,KS
+CS - TGIT,Transmission,KS
+Colby,Transmission,KS
+CS - TGIT,Transmission,KS
+Otis,Transmission,KS
+Syracuse,Transmission,KS
+CS - TGIT,Transmission,KS
+Lakin,Transmission,KS
+Holcomb,Transmission,KS
+Rockport 2,Transmission,CO
+Yuma,Transmission,CO
+North Logan,Transmission,CO
+La Plata B,Transmission,CO
+La Plata A,Transmission,CO
+Beecher Island,Transmission,CO
+Springdale,Transmission,CO
+Redwing,Transmission,CO
+Waverly,Transmission,CO
+Phumasta,Transmission,CO
+Sterling,Transmission,CO
+Yenter,Transmission,CO
+Logan - 601,Transmission,CO
+Rockport,Transmission,CO
+Groff,Distribution,PA
+Roaring Springs,Gathering,NM
+CS 5705,Transmission,GA
+Ellerslie,Transmission,GA
+Jefferson,Transmission,GA
+Kutz Canyon,Gathering,NM
+CS,Transmission,NC
+Kernersville,Transmission,NC
+CS,Transmission,NC
+CS,Gathering,AR
+Raleigh,Transmission,MS
+Lawton,Gathering,PA
+Stock 144,Gathering,PA
+CS,Gathering,PA
+Wellsboro 2,Gathering,PA
+Netterman,Gathering,PA
+685,Gathering,PA
+CS,Gathering,PA
+CS,Gathering,PA
+Roupp,Gathering,PA
+CS,Gathering,PA
+Matz,Gathering,PA
+Taylor,Gathering,PA
+Delciotto 2,Gathering,PA
+Poorman,Gathering,PA
+Ogdensburg,Distribution,PA
+Wellsboro 1,Gathering,PA
+Covington,Gathering,PA
+Tract 595,Gathering,PA
+CS,Gathering,PA
+Trimble,Gathering,PA
+CS,Gathering,PA
+Krause,Gathering,PA
+Tingley Lake,Gathering,PA
+1-A,Gathering,PA
+Caprio,Gathering,PA
+Edsell,Gathering,PA
+Church,Gathering,PA
+Meshoppen,Gathering,PA
+Ecker Bergman Rd,Transmission,PA
+Egry,Transmission,PA
+Brewer,Gathering,PA
+White Deer,Transmission,PA
+Union Dale,Transmission,PA
+Teel,Gathering,PA
+Chester,Transmission,PA
+Springhill,Gathering,PA
+Milesky,Transmission,PA
+Rush Run,Gathering,PA
+Rogersville,Gathering,PA
+Davis,Gathering,PA
+Farabee,Gathering,PA
+Gibraltar,Transmission,PA
+Donegal,Transmission,PA
+Redd,Gathering,PA
+Dryer,Gathering,PA
+Brigich,Gathering,PA
+Latrobe,Transmission,PA
+Cibus Ranch,Gathering,PA
+Imperial,Gathering,PA
+CS,Gathering,PA
+Rubright,Distribution,PA
+Homer City,Gathering,PA
+Creighton,Transmission,PA
+Hellertown,Transmission,PA
+Shoemaker,Transmission,PA
+Bass,Gathering,PA
+Easton,Transmission,PA
+Trout,Gathering,PA
+Voll,Transmission,PA
+Iowa,Transmission,PA
+Limestone,Gathering,PA
+MTN,Transmission,PA
+Mercer,Transmission,PA
+Quaker State Road,Gathering,PA
+Marc 1 M1-S,Gathering,PA
+Lone Walnut,Gathering,PA
+Ogontz West,Gathering,PA
+Bobst,Gathering,PA
+CS,Gathering,PA
+Tract 285,Gathering,PA
+Tract 289,Gathering,PA
+CS,Gathering,PA
+Laurel Hill,Gathering,PA
+Severcool,Gathering,PA
+CS,Gathering,PA
+CS,Gathering,PA
+Wilcox,Gathering,PA
+Hirkey,Gathering,PA
+Wilmot,Gathering,PA
+Townville,Gathering,PA
+Auburn,Gathering,PA
+Mehoopany,Gathering,PA
+Zick,Gathering,PA
+Hop Bottom,Gathering,PA
+Towanda,Gathering,PA
+White,Gathering,PA
+Stagecoach,Gathering,PA
+CS,Gathering,PA
+Clark,Gathering,PA
+Shaskas,Gathering,PA
+Moyer,Gathering,PA
+Bradford County,Gathering,PA
+CDP 1-A,Transmission,PA
+Fraser,Gathering,PA
+CDP 3,Gathering,PA
+CDP 2,Gathering,PA
+Kane Road,Gathering,PA
+Comfort Lake,Transmission,PA
+Palmer,Storage,PA
+Northeast,Gathering,PA
+Silver Pigeon,Gathering,OK
+Territory,Gathering,OK
+Crusader,Gathering,OK
+Harrison,Transmission,OH
+Hollansburg,Transmission,OH
+Buckeye,Gathering,OH
+Washington Court House,Transmission,OH
+Berne,Gathering,OH
+Reusser,Gathering,OH
+Zinc,Gathering,OH
+Larew,Gathering,OH
+CS,Gathering,OH
+Barnesville,Gathering,OH
+Thatcher,Gathering,OH
+Morristown,Gathering,OH
+Upper Hill,Gathering,OH
+Piney Fork,Transmission,OH
+Emerson,Transmission,OH
+Salem,Gathering,OH
+CS,Transmission,OH
+Colerain,Transmission,OH
+CS,Gathering,OH
+Lake,Gathering,OH
+Archer,Gathering,OH
+Cadis,Gathering,OH
+William Phillips,Gathering,OH
+CS,Gathering,OH
+Yoder,Gathering,OH
+Kilgore,Gathering,OH
+Bryan Shaw,Gathering,OH
+Carrollton,Gathering,OH
+Augusta,Gathering,OH
+Karen,Gathering,OH
+Oxford,Gathering,OH
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Spitfire,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Clermont West,Gathering,PA
+Clermont East,Gathering,PA
+Wellendorf,Storage,PA
+WHP-MS-4317X,Transmission,PA
+No Name,Gathering,WY
+Alexander,Gathering,ND
+Rough Rider,Gathering,ND
+Stockman,Gathering,ND
+Flicker Tail,Gathering,ND
+Hove,Gathering,ND
+Woodrow,Gathering,ND
+Lone Oak,Transmission,WV
+Pinecone,Gathering,WV
+CS,Gathering,WV
+CS,Gathering,WV
+Bradley,Transmission,WV
+Flat Top,Transmission,WV
+CS,Gathering,WV
+Heizer,Storage,WV
+Goff,Transmission,WV
+East Comet,Transmission,WV
+WGGS,Gathering,WV
+Carbide,Gathering,WV
+Daybrook,Gathering,WV
+MFS-1,Gathering,WV
+Corley,Gathering,WV
+Majorsville,Transmission,WV
+Battle Run,Gathering,WV
+Pioneer,Gathering,WV
+Buffalo Run,Gathering,WV
+CS,Gathering,OK
+Amber,Gathering,OK
+Gerty,Transmission,OK
+Bray,Gathering,OK
+Haskell,Storage,OK
+Oklahoma City,Transmission,OK
+CS,Gathering,OK
+Wilburton,Gathering,OK
+Haywood,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Centrahoma,Gathering,OK
+Carthage Booster,Gathering,OK
+Straight North,Gathering,OK
+Mouser,Transmission,OK
+Enid,Gathering,OK
+Carrier,Gathering,OK
+Peck (Gamble),Transmission,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Merrick,Gathering,OK
+Red Moon,Transmission,OK
+Mast East Foss,Gathering,OK
+Clinton,Transmission,OK
+Moffett,Gathering,OK
+Indian Corn,Gathering,OK
+Lequire,Gathering,OK
+Beaver Creek,Gathering,OK
+Antioch,Gathering,OK
+Potato Hills,Gathering,OK
+West Marlow,Gathering,OK
+Rock Creek,Gathering,OK
+Lake Fuqua,Gathering,OK
+Springer,Gathering,OK
+Watkins,Gathering,OK
+Marietta,Gathering,OK
+Custer,Gathering,OK
+Wolgamott,Gathering,OK
+F and H,Gathering,OK
+Lindsay,Transmission,OK
+Erin Springs,Gathering,OK
+Texas County 2-01,Gathering,OK
+Butler,Gathering,OK
+Tracy,Gathering,OK
+Beckham A,Gathering,OK
+Henryetta,Gathering,OK
+North Raiford,Gathering,OK
+Red Oak,Transmission,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Clapp,Gathering,OK
+North Richland,Gathering,OK
+Burlington,Gathering,OK
+CS,Gathering,OK
+Turpin,Transmission,OK
+CS,Gathering,OK
+Straight,Gathering,OK
+CS,Gathering,OK
+Gloden,Gathering,OK
+Texas County 1,Transmission,OK
+Clyde,Gathering,OK
+CS,Gathering,OK
+North Alva,Gathering,OK
+CS,Gathering,OK
+Driftwood,Gathering,OK
+South Baker,Transmission,OK
+James Raley,Gathering,OK
+Miles,Gathering,OK
+Hooker,Transmission,OK
+Kleffman D,Gathering,OK
+Texas County 1-03,Gathering,OK
+Texas County Ctl,Gathering,OK
+Garrett,Gathering,OK
+Optima,Gathering,OK
+Stephen F,Gathering,OK
+South Lovedale,Gathering,OK
+Pet X Lateral,Gathering,OK
+CS,Gathering,OK
+Eden,Gathering,OK
+CS,Gathering,OK
+Texas County 2,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Knowles Rd,Gathering,OK
+Laverne,Gathering,OK
+Laverne,Gathering,OK
+Beaver County 13,Gathering,OK
+Hopeton,Gathering,OK
+Crowsfoot,Gathering,OK
+Liberty,Gathering,OK
+Optima,Gathering,OK
+Osage,Gathering,OK
+Sand Creek,Gathering,OK
+Lake Creek,Gathering,OK
+Walker,Gathering,OK
+Pleasant View,Gathering,OK
+Dixie,Gathering,OK
+Hog Wild,Gathering,OK
+CS,Gathering,OK
+Taft,Gathering,OK
+Quinlan,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Helena Hunton,Gathering,OK
+Freedom,Gathering,OK
+Slapout,Gathering,OK
+Kremlin,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Camrick,Gathering,OK
+Hull,Gathering,OK
+Aline,Gathering,OK
+North Gage,Gathering,OK
+Aline,Gathering,OK
+Quinlan,Gathering,OK
+Alabaster,Gathering,OK
+Galena,Gathering,OK
+Bouse Junction,Gathering,OK
+Pawnee,Transmission,OK
+Cox Lateral,Gathering,OK
+Rattlesnake,Gathering,OK
+Orienta,Gathering,OK
+Cheyenne Valley,Gathering,OK
+Sherman,Gathering,OK
+Chukar,Gathering,OK
+Barney,Gathering,OK
+Shattuck,Gathering,OK
+Waukomis,Gathering,OK
+Fair,Gathering,OK
+Sharon,Gathering,OK
+Hunt Bowers,Gathering,OK
+East Lucien,Gathering,OK
+Ames,Gathering,OK
+Mutual,Gathering,OK
+Saints,Gathering,OK
+South Delivery,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Crusader,Gathering,OK
+CS,Gathering,OK
+Lenora,Gathering,OK
+Arnett,Gathering,OK
+CS,Gathering,OK
+Bishop 1,Gathering,OK
+Cherry,Gathering,OK
+CS,Gathering,OK
+Cimarron,Gathering,OK
+Taloga,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Peek,Gathering,OK
+Payne,Gathering,OK
+Gooden,Gathering,OK
+Trail Creek,Gathering,OK
+Putnam,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Fay,Gathering,OK
+Diamondback,Gathering,OK
+CS,Transmission,OK
+CS,Gathering,OK
+West Durham,Gathering,OK
+North Watonga,Gathering,OK
+Haskell,Gathering,OK
+Meyer,Gathering,OK
+Crawford,Gathering,OK
+Durham,Gathering,OK
+Rough Creek,Gathering,OK
+Aledo,Gathering,OK
+North Alig,Gathering,OK
+Delivery,Gathering,OK
+Fay,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Forrest Hills,Gathering,OK
+South Oakwood,Gathering,OK
+CS,Gathering,OK
+Moon,Gathering,OK
+CS,Gathering,OK
+Dean Lateral,Gathering,OK
+Allied June,Gathering,OK
+CS,Transmission,OK
+Custer,Gathering,OK
+East Wickham,Gathering,OK
+Kettle,Gathering,OK
+South Alig,Gathering,OK
+Cuma,Gathering,OK
+CS,Gathering,OK
+Sunset,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Watonga,Transmission,OK
+Thomas,Transmission,OK
+Meyers Durham,Gathering,OK
+Hay,Gathering,OK
+CS,Gathering,OK
+Thomas,Gathering,OK
+Farni/East Wickham,Gathering,OK
+CS,Gathering,OK
+Fuller,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Doris,Gathering,OK
+American Horse,Gathering,OK
+East Chandler,Gathering,OK
+CS,Gathering,OK
+Smallwood,Gathering,OK
+Squaw Creek,Gathering,OK
+Geary,Gathering,OK
+Transok,Transmission,OK
+CS,Gathering,OK
+Reno,Gathering,OK
+Northern Rows,Gathering,OK
+Ward,Gathering,OK
+Geary Base Sales,Gathering,OK
+Rogue,Gathering,OK
+Concho,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+C 8,Gathering,OK
+CS,Gathering,OK
+Croton Creek,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Transmission,OK
+Coyote,Gathering,OK
+Purvis,Transmission,OK
+Six Mile Creek,Transmission,OK
+Black Kettle,Gathering,OK
+Cedar Lake,Gathering,OK
+Elm Grove,Gathering,OK
+Maple,Transmission,OK
+CS,Gathering,OK
+Weatherford,Gathering,OK
+GHK,Transmission,OK
+South Canadian,Gathering,OK
+Grimes,Transmission,OK
+Pierce,Gathering,OK
+Katie Lateral,Gathering,OK
+Dinius,Gathering,OK
+Big Sky,Gathering,OK
+Jackson,Gathering,OK
+Knight,Transmission,OK
+Bonny,Gathering,OK
+Silver Fox,Gathering,OK
+CS,Gathering,OK
+Atoka Wash,Gathering,OK
+Button,Gathering,OK
+Cemetery Rd,Gathering,OK
+David Bowers,Gathering,OK
+Paw Paw 1,Gathering,OK
+Merritt,Gathering,OK
+Red Hill Xae,Gathering,OK
+CS,Gathering,OK
+Prentiss,Gathering,OK
+Mayfield,Gathering,OK
+Eakly,Gathering,OK
+CS,Gathering,OK
+Haggard,Gathering,OK
+Canute,Gathering,OK
+Tuttle,Gathering,OK
+Dill City,Gathering,OK
+Remington,Gathering,OK
+CS,Gathering,OK
+Sheila,Gathering,OK
+Sentinel,Gathering,OK
+Southeast Spiro,Gathering,OK
+North Russellville,Gathering,OK
+Fish Creek,Gathering,OK
+Milton,Gathering,OK
+McCurtain,Gathering,OK
+Beaver Creek,Gathering,OK
+McCurtain,Transmission,OK
+CS,Gathering,OK
+Gracemont West Caddo,Gathering,OK
+Pecan Grove,Gathering,OK
+Spiro,Gathering,OK
+Milton,Gathering,OK
+Buffalo,Gathering,OK
+Greasy Creek,Gathering,OK
+Poteau,Transmission,OK
+Kinta,Gathering,OK
+Bokoshe,Gathering,OK
+Lamar,Gathering,OK
+Cole,Gathering,OK
+CS,Gathering,OK
+Wild Horse,Gathering,OK
+Kearns Canaan Pod 5,Gathering,OK
+San Bois,Gathering,OK
+Dibble,Gathering,OK
+Red Oak Central,Transmission,OK
+Scarbrough,Gathering,OK
+Newman,Gathering,OK
+Norge,Gathering,OK
+CS,Gathering,OK
+Richville,Gathering,OK
+Cyril Jt,Transmission,OK
+North Wilburton 4,Gathering,OK
+Verner,Gathering,OK
+Stuart N,Gathering,OK
+CS,Gathering,OK
+Chickasha,Gathering,OK
+Sherman Ellis,Gathering,OK
+CS,Gathering,OK
+North Bradley,Gathering,OK
+Riddle,Gathering,OK
+Hartshorne,Gathering,OK
+Ruby Lee,Gathering,OK
+Limestone Ridge,Gathering,OK
+West Wilburton,Gathering,OK
+CS,Gathering,OK
+Junction,Gathering,OK
+Smallwood,Gathering,OK
+Calhoun,Gathering,OK
+Reeder,Gathering,OK
+Blue Mountain,Gathering,OK
+McAlester,Gathering,OK
+Brewer,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Morris,Gathering,OK
+Fullwood,Gathering,OK
+Stuart,Gathering,OK
+Lindsay,Gathering,OK
+Rush Creek,Gathering,OK
+Grady,Transmission,OK
+Ashland 1,Gathering,OK
+Shawnee,Gathering,OK
+Powell,Transmission,OK
+CS,Gathering,OK
+Ashland 2,Gathering,OK
+North Panther Creek,Gathering,OK
+Army,Transmission,OK
+Williams Sterling West 1,Gathering,OK
+CS,Gathering,OK
+Kiowa,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Yellow Jacket,Gathering,OK
+Tri County,Gathering,OK
+Wardville,Gathering,OK
+Parker,Transmission,OK
+Salt Creek,Transmission,OK
+CS,Gathering,OK
+Coffey,Gathering,OK
+Womack,Gathering,OK
+Thunder,Gathering,OK
+CS,Gathering,OK
+Sprague,Gathering,OK
+Lightning,Gathering,OK
+Skipper,Gathering,OK
+Poteet,Gathering,OK
+Arkoma,Transmission,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+Cottonwood,Gathering,OK
+CS,Gathering,OK
+Able,Gathering,OK
+Stephens,Transmission,OK
+Alma,Gathering,OK
+Loco,Gathering,OK
+Oil City,Gathering,OK
+Healdton,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,OK
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Celero,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+County Line Central,Gathering,WY
+Juniper North,Gathering,WY
+Jeff Pod,Gathering,WY
+Antelope,Gathering,WY
+Buck Draw,Gathering,WY
+Dow No. 2,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Wormwood,Gathering,WY
+CS,Gathering,WY
+Lysite,Transmission,WY
+Natrona,Transmission,WY
+CS,Gathering,WY
+CS,Transmission,WY
+Monell,Gathering,WY
+Schoonover,Gathering,WY
+Bridger,Gathering,WY
+North Brady,Gathering,WY
+Badger Creek,Gathering,WY
+West Antelope,Gathering,WY
+Antelope,Gathering,WY
+CS,Gathering,WY
+Prarie Dog Pod G,Gathering,WY
+Gladewater Central,Gathering,WY
+CS,Gathering,WY
+Prarie Dog,Gathering,WY
+River,Gathering,WY
+Rucki 15,Gathering,WY
+Rowley 22,Gathering,WY
+Brinkerhoff Pod 17,Gathering,WY
+CS,Gathering,WY
+Brinkerhoff Pod 19,Gathering,WY
+Mammoth,Gathering,WY
+Sampson Ranch 33,Gathering,WY
+Hermit,Gathering,WY
+AC Ranch East,Gathering,WY
+Peegee 10,Gathering,WY
+Hape 14,Gathering,WY
+Quarter Horse,Gathering,WY
+Peegee 18,Gathering,WY
+AC Ranch Central,Gathering,WY
+Wakely,Gathering,WY
+LS Draw,Gathering,WY
+Farmland 26,Gathering,WY
+Pinto/Spotted Horse,Gathering,WY
+Stones Throw Main/Pod 2,Gathering,WY
+Werner 13,Gathering,WY
+Hank Williams-Malli,Gathering,WY
+Hank Williams,Gathering,WY
+TD Southwest,Gathering,WY
+Horse Creek/Gas Draw,Gathering,WY
+Horse Creek/Gas Draw,Gathering,WY
+Wildhorse,Gathering,WY
+Wild Horse,Gathering,WY
+Windmill/Turbine,Gathering,WY
+Echeta/Croton,Gathering,WY
+Ash/Elm,Gathering,WY
+Ash/Elm,Gathering,WY
+Citation,Gathering,WY
+Vail/Winter Park,Gathering,WY
+Kinney Divide,Gathering,WY
+Coal Gulch,Gathering,WY
+Ruby/Coal Gulch,Gathering,WY
+Ruby/Coal Gulch,Gathering,WY
+Mustang,Gathering,WY
+Bear Draw/Bruin,Gathering,WY
+Bear Draw/Bruin,Gathering,WY
+Montgomery/Tabitha,Gathering,WY
+Cessna,Gathering,WY
+Manderson,Transmission,WY
+CS,Gathering,WY
+Westwind/Astra,Gathering,WY
+Westwind/Astra,Gathering,WY
+Sycamore,Gathering,WY
+Morgan Draw/Crenshaw Hill,Gathering,WY
+Morgan Draw/Crenshaw Hill,Gathering,WY
+Legacy/Glasair,Gathering,WY
+Legacy/Glasair,Gathering,WY
+King Air-Gulfstream,Gathering,WY
+Kingsbury Central,Gathering,WY
+CS,Gathering,WY
+Bombsite/Nichols,Gathering,WY
+Nemesis,Gathering,WY
+SC-2198,Gathering,WY
+Government/House,Gathering,WY
+Government/House,Gathering,WY
+Wardner,Gathering,WY
+River-Nile,Gathering,WY
+Julianna,Gathering,WY
+Senate,Gathering,WY
+Bolster,Gathering,WY
+Buffalo Cut Across,Gathering,WY
+South Prong/Pearson Draw,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Juan,Gathering,WY
+Indian Creek/Crow,Gathering,WY
+Indian Creek/Crow,Gathering,WY
+Big Mike,Gathering,WY
+Coyote,Gathering,WY
+Neil Pod,Gathering,WY
+Phil,Gathering,WY
+Big Cat Main,Gathering,WY
+CS,Gathering,WY
+Anaheim,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Scotch,Gathering,WY
+CS,Gathering,WY
+Dewars,Gathering,WY
+Jameson-Kessler,Gathering,WY
+Iberlin,Gathering,WY
+Jaq,Gathering,WY
+Vermouth-Wormwood,Gathering,WY
+Bert,Gathering,WY
+Sagebrush,Gathering,WY
+Pennaco Pod 24,Gathering,WY
+Gotham/Batman,Gathering,WY
+Benchmark,Gathering,WY
+Table Mountain-Chair,Gathering,WY
+Hartzog Draw No. 3,Gathering,WY
+Hanslip Central,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Austin,Gathering,WY
+Irvine,Gathering,WY
+Dry Fork,Gathering,WY
+Baker Springs/Butcher,Gathering,WY
+Baker Springs/Butcher,Gathering,WY
+CS,Gathering,WY
+Tex-Dallas,Gathering,WY
+Leavitt,Gathering,WY
+Bullwacker/Pine Ridge,Gathering,WY
+SC-1526,Gathering,WY
+SC-1726,Gathering,WY
+CS,Gathering,WY
+Sioux/Jr. Reno,Gathering,WY
+Hawaii/Maui,Gathering,WY
+Durango,Gathering,WY
+Lost Cabin,Gathering,WY
+CS,Gathering,WY
+Ackerman,Gathering,WY
+Frenchie Draw/Graham No.5,Gathering,WY
+West Frenchie Draw,Gathering,WY
+County Line,Gathering,WY
+Hendry,Gathering,WY
+Rim,Transmission,WY
+Pale Horse,Gathering,WY
+Rawhide,Gathering,WY
+Appaloosa,Gathering,WY
+Jonah,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Fontenelle,Gathering,WY
+Hansen Lake,Gathering,WY
+Shute Creek,Transmission,WY
+Chain Lake,Gathering,WY
+Monument Lake,Gathering,WY
+Wamsutter A-6,Gathering,WY
+Roberson Creek,Transmission,WY
+Fabian Ditch,Gathering,WY
+Tipton,Gathering,WY
+Dry Lake,Gathering,WY
+Echo Springs,Gathering,WY
+Patrick Draw,Gathering,WY
+Eight Mile Lake,Gathering,WY
+CS,Gathering,WY
+Eureka,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Lusk,Gathering,NM
+El Cedro,Gathering,NM
+Buena Vista,Gathering,NM
+Trunk L,Gathering,NM
+Rincon,Gathering,NM
+North Crandell,Gathering,NM
+31-6 CDP,Gathering,NM
+30-5 CDP,Gathering,NM
+BKU,Gathering,NM
+Oil Center,Gathering,NM
+Carracas,Gathering,NM
+North Appaloosa,Gathering,TX
+Buffalo,Gathering,SD
+Ladysmith,Transmission,VA
+Caroline,Transmission,VA
+Kvamme,Gathering,ND
+Hebron,Transmission,ND
+Fryburg,Gathering,ND
+Manning,Gathering,ND
+Little Missouri,Gathering,ND
+Little Missouri,Gathering,ND
+Bantry,Gathering,ND
+Sherwood,Transmission,ND
+Epping,Gathering,ND
+Bethel,Gathering,ND
+Ross,Gathering,ND
+CS,Gathering,ND
+Williston,Gathering,ND
+Sandy Creek,Gathering,ND
+Crosby,Gathering,ND
+Alamo,Gathering,ND
+Charbonneau,Gathering,ND
+Great Plains Synfuels,Transmission,ND
+Steele,Transmission,ND
+Golva,Transmission,ND
+CS,Gathering,ND
+CS,Gathering,ND
+Flat Rock,Gathering,UT
+Holcomb,Gathering,KS
+Miles,Gathering,KS
+Hampton,Gathering,KS
+Tribune (Bradshaw),Gathering,KS
+North Tribune,Gathering,KS
+Great Smoke,Gathering,CO
+West Arapahoe,Gathering,CO
+North Mayfield,Gathering,CO
+Archer,Gathering,CO
+Cheyenne Wells,Gathering,CO
+N. Arrowhead,Gathering,CO
+SE Mt. Pearl,Gathering,CO
+Duchant,Gathering,CO
+West Toyah,Gathering,TX
+Markham,Transmission,TX
+Pinon,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+PFC No.11,Transmission,TX
+Stinnett Booster 6,Gathering,TX
+CS - 812,Transmission,TX
+PFC 24,Transmission,TX
+Raymondville,Gathering,TX
+CS,Gathering,TX
+Robstown,Transmission,TX
+Mesquite Bay,Gathering,TX
+CS,Gathering,TX
+Yorktown,Gathering,TX
+CS,Gathering,TX
+Station 04,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Rivers,Gathering,TX
+Sandy,Gathering,TX
+CS,Gathering,TX
+Centerpoint 13,Gathering,TX
+Somerville,Gathering,TX
+CS,Gathering,TX
+Mesquite III,Gathering,TX
+Pinon,Gathering,TX
+Sonora,Gathering,TX
+CS,Gathering,TX
+CS 1200,Gathering,TX
+CS,Gathering,TX
+J F Hoover,Gathering,TX
+Savell Field,Gathering,TX
+Franklin,Gathering,TX
+Barnhart,Gathering,TX
+CS,Transmission,TX
+CS,Gathering,TX
+Hobin Gin,Gathering,TX
+CS,Gathering,TX
+Imperial,Gathering,TX
+Sonora,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+East Toyah,Transmission,TX
+CS,Gathering,TX
+Toyah,Gathering,TX
+Oxy Collie,Gathering,TX
+Station 146,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Zena,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Desperado,Gathering,TX
+North Monahans,Gathering,TX
+CS,Gathering,TX
+Oxy Mentone,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+West Credo,Gathering,TX
+Grosvenor,Gathering,TX
+Credo,Gathering,TX
+Carthage #1,Gathering,TX
+CS,Gathering,TX
+Tarzan,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Dill,Gathering,TX
+Holt Ranch,Gathering,TX
+Sandy,Gathering,TX
+Marshall,Gathering,TX
+Lone Camp,Gathering,TX
+Greenwood,Gathering,TX
+CS,Gathering,TX
+Whelan South,Gathering,TX
+West Walsh,Gathering,TX
+Gin,Gathering,TX
+Wheeler,Gathering,TX
+Decatur,Transmission,TX
+McSpadden,Transmission,TX
+Kellerville,Gathering,TX
+Moore,Gathering,TX
+CS,Gathering,TX
+Cargray Residue,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Tex Ok,Gathering,TX
+CS,Gathering,TX
+Walser,Gathering,TX
+Miami,Gathering,TX
+Stinnett Booster 2,Gathering,TX
+Stinnett Booster 4,Gathering,TX
+Stinnett Booster 5,Gathering,TX
+Greene,Gathering,TX
+Jones,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Durham,Gathering,TX
+CS,Gathering,TX
+Stinnett Booster 13,Gathering,TX
+CS,Gathering,TX
+Drey,Gathering,TX
+CS,Gathering,TX
+River Road,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Lipscomb,Transmission,TX
+Follett,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Forest Hill,Gathering,TX
+Allison,Gathering,TX
+North Bald Prairie,Gathering,TX
+St. Paul,Transmission,IN
+Longview No.2,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Floresville,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,NM
+Hull HP,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Tonkawa,Gathering,TX
+North Bob West,Gathering,TX
+CS,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+North Dayton,Storage,TX
+Huntsville,Gathering,TX
+Benedum,Transmission,TX
+Coastal,Gathering,TX
+Agua Dulce,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+East Britt,Gathering,TX
+CS,Gathering,TX
+Kelsey,Gathering,TX
+CS,Transmission,TX
+Agua,Transmission,TX
+CS,Transmission,TX
+Sierra Madera,Transmission,TX
+CS,Gathering,TX
+Groveton,Transmission,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+North Appleby,Gathering,TX
+CS,Gathering,TX
+Keystone,Storage,TX
+CS,Gathering,TX
+Carthage Junction,Gathering,TX
+Taliaferro,Gathering,TX
+Holland Quarters,Gathering,TX
+Northeast,Gathering,TX
+Angel Hill,Gathering,TX
+CS,Gathering,TX
+Beckville,Gathering,TX
+Krum,Gathering,TX
+CS,Gathering,TX
+Burnett,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Flores,Gathering,TX
+CS,Gathering,TX
+Hudson,Gathering,TX
+CS,Gathering,TX
+Wiginton,Gathering,TX
+CS,Gathering,TX
+West Clear Lake,Storage,TX
+CS - 1,Transmission,TX
+CS,Gathering,TX
+Agua Dulce,Transmission,TX
+Bradshaw,Gathering,TX
+Moxa South,Transmission,WY
+Hambert,Gathering,CO
+Cox Blanco,Gathering,TX
+ETCR (Halletsville),Gathering,TX
+Raccoon Bend,Gathering,TX
+Coffeeville,Gathering,TX
+Red Springs,Gathering,TX
+Smiley,Gathering,TX
+Henderson,Gathering,TX
+Tatum,Transmission,NM
+Tatum,Transmission,NM
+CS,Transmission,NM
+Maddox,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+Red Hills GCP4-3574,Gathering,NM
+White City Lateral GCP 1-4711,Gathering,NM
+Pickett Draw,Gathering,NM
+CS,Gathering,NM
+Triste,Gathering,NM
+CS,Gathering,NM
+Charro CDP CS,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+Cedar Canyon,Gathering,NM
+CS,Gathering,NM
+Brininstool,Gathering,NM
+Junction,Gathering,NM
+North,Gathering,NM
+Quail,Gathering,NM
+Golf Course,Gathering,NM
+Scanlon Draw,Gathering,NM
+CS,Gathering,NM
+Lynch,Gathering,NM
+Monument,Gathering,NM
+Apex,Gathering,NM
+CS,Gathering,NM
+Penasco,Gathering,NM
+CS ,Gathering,NM
+CS,Gathering,NM
+Maljamar,Gathering,NM
+Southern Union,Gathering,NM
+Loco Hills,Gathering,NM
+Dobbs,Gathering,NM
+GCP4-4634,Gathering,NM
+Rat Camp,Gathering,NM
+CS,Gathering,NM
+Bagley,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+29-6 No. 4,Gathering,NM
+Blanco,Gathering,NM
+29-7 CDP,Gathering,NM
+Sims Mesa,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+A-59,Gathering,NM
+Laguna Seca,Gathering,NM
+Martinez Draw,Gathering,NM
+Lawson Straddle,Gathering,NM
+Rosa,Gathering,NM
+Delasso Loos,Gathering,NM
+Cox Canyon,Gathering,NM
+CS,Gathering,TX
+Maltsberger,Gathering,TX
+RVB West,Gathering,TX
+Azle,Gathering,TX
+Longhorn,Gathering,TX
+Johnson Ranch,Gathering,TX
+Arlington,Gathering,TX
+Rendon,Gathering,TX
+CS,Gathering,TX
+Carrell,Gathering,TX
+Phoenix West,Gathering,TX
+Walnut Creek,Gathering,TX
+Block 7,Gathering,TX
+Sugarloaf,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Briscoe Catarina North CGF-B,Gathering,TX
+Briscoe Catarina Ranch Mega Station,Gathering,TX
+Maund CGF-B,Gathering,TX
+Maund Ranch CGF-A,Gathering,TX
+Briscoe Catarina South CGF-B,Gathering,TX
+CS,Gathering,TX
+Briscoe Chupadera Ranch,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Como,Gathering,TX
+Fletcher,Gathering,TX
+Winnsboro,Gathering,TX
+Stumberg Mega CGF,Gathering,TX
+CS,Transmission,TX
+TRWD,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Cedar Lake,Gathering,TX
+Tilden,Gathering,TX
+Briscoe G2,Gathering,TX
+Dos Hermanas,Gathering,TX
+Bridgeport,Transmission,TX
+Agnes,Transmission,TX
+CS,Gathering,TX
+South Willow Springs,Gathering,TX
+Quintana,Transmission,TX
+Hixon Ranch,Gathering,TX
+Gregory,Transmission,TX
+Lundell Carr,Gathering,TX
+Vaquillas,Gathering,TX
+Hebbronville,Gathering,TX
+BMT North,Gathering,TX
+DCP Intra,Gathering,TX
+Mills Ranch,Gathering,TX
+Fredrick,Gathering,CO
+Beaver,Gathering,PA
+CS-2,Transmission,OH
+Smith,Gathering,PA
+CS,Gathering,TX
+Flat Lick 2,Transmission,KY
+Shaw,Gathering,PA
+Redd Farm,Transmission,PA
+Royal Oak,Gathering,PA
+Prah,Gathering,PA
+Argo,Gathering,KY
+Empro,Transmission,KY
+East-West,Transmission,KY
+Scio,Gathering,OH
+Archer,Gathering,OH
+Yoder,Gathering,OH
+Harrison West,Gathering,OH
+Barnesville West,Gathering,OH
+Borton,Gathering,OH
+Hayes,Gathering,OH
+Batesville,Gathering,OH
+Seneca,Transmission,OH
+CS,Gathering,TX
+Humphreys,Gathering,OH
+Cain Ridge,Gathering,OH
+Cantaral,Gathering,PA
+Midpoint,Gathering,WV
+Zinnia,Gathering,WV
+Troudt,Gathering,CO
+Bernhard,Gathering,CO
+Godfrey Bottom,Transmission,CO
+Marla,Gathering,CO
+Platteville,Gathering,CO
+St. Vrain,Gathering,CO
+Mean,Gathering,CO
+CS,Gathering,WV
+CS,Gathering,WV
+New Milton,Gathering,WV
+CS,Gathering,WV
+CS,Gathering,WV
+CS,Gathering,WV
+CS,Gathering,WV
+Nichols,Gathering,WV
+Teusa Thomas A/B,Gathering,PA
+Wood Duck,Gathering,OK
+Sandhills,Gathering,OK
+Gadwall,Gathering,OK
+Thunderbird,Gathering,OK
+Red Head,Gathering,OK
+CS,Gathering,WV
+CS,Gathering,WV
+CS,Gathering,WV
+CS,Gathering,WV
+CS,Gathering,WV
+CS,Gathering,WV
+White Oak,Gathering,WV
+Delta Duck Club,Transmission,LA
+Caddo,Gathering,OK
+North Henderson,Gathering,TX
+Fat Boy,Gathering,TX
+Blake Ridge,Gathering,WV
+Mountain,Gathering,WV
+Monroe,Gathering,WV
+Watkins,Gathering,PA
+Teusa Putnam,Gathering,PA
+CS - 587,Gathering,PA
+Cole,Gathering,PA
+Canoe Run,Gathering,PA
+Jones,Gathering,PA
+Barto,Gathering,PA
+Central,Gathering,PA
+Macnew,Gathering,PA
+Miller,Gathering,PA
+Potter,Gathering,PA
+CS - 319,Transmission,PA
+Stagecoach Junction,Gathering,PA
+Lathrop,Gathering,PA
+Shield,Gathering,PA
+White,Gathering,PA
+Crow Mesa,Gathering,NM
+CS,Gathering,NM
+Turks Toast,Gathering,NM
+San Juan River Mainline,Transmission,NM
+CS,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+C E Moore,Gathering,TX
+Middleton,Gathering,TX
+Piloncillo,Gathering,TX
+Magnum,Gathering,NM
+Kemnitz,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,NM
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,OK
+CS,Gathering,OK
+Macalla,Gathering,OK
+CS,Gathering,KS
+CS,Gathering,KS
+CS,Gathering,KS
+Omar,Gathering,KS
+Zook,Gathering,KS
+CS,Gathering,KS
+Martin,Gathering,KS
+CS,Gathering,KS
+CS,Gathering,KS
+CS,Gathering,KS
+CS,Gathering,KS
+CS,Gathering,KS
+CS,Gathering,KS
+CS,Gathering,KS
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Edisto,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Mentone,Gathering,TX
+Tunstill,Gathering,TX
+Hurley,Gathering,TX
+Hobson,Gathering,NM
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Henry,Transmission,LA
+CS,Transmission,MS
+CS,Gathering,ND
+Sarita,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Briscoe Carla Ranch CGF - B,Gathering,TX
+Briscoe Carla Ranch CGF - A,Gathering,TX
+Briscoe Catarina West CGF - C,Gathering,TX
+Vidor,Gathering,TX
+CS,Gathering,WY
+CS,Gathering,WY
+Hastings,Gathering,TX
+El Dorado,Transmission,TX
+Pecos River,Transmission,NM
+Crane,Gathering,TX
+Maverick,Gathering,WY
+County Line,Gathering,WY
+New Geving,Gathering,ND
+Fertile,Gathering,ND
+Myrtle,Gathering,ND
+Big Sand Draw,Transmission,WY
+Sand Dunes,Gathering,NM
+3A,Gathering,TX
+Bridger Creek,Transmission,WY
+Lost Creek,Transmission,WY
+Wamsutter,Transmission,WY
+Hollywood-Venice,Gathering,WY
+Cinderella,Gathering,WY
+Jackie,Gathering,WY
+CS,Gathering,CO
+Stateline,Gathering,ND
+Divide Creek,Gathering,CO
+Cuero,Gathering,TX
+Levelland,Transmission,TX
+Andector,Gathering,TX
+CS,Gathering,TX
+CS,Transmission,TX
+Ingalls,Gathering,OK
+Beavers,Gathering,AR
+Halley,Gathering,TX
+Bennett,Gathering,OK
+North Cowden,Transmission,TX
+Bisti,Transmission,NM
+CS,Transmission,NE
+Carpinteria,Transmission,CA
+Athens,Transmission,MI
+South Fullerton,Gathering,TX
+Fort Lupton,Gathering,CO
+Kersey,Gathering,CO
+Wideman,Gathering,CO
+CS,Gathering,WY
+Meridian,Gathering,OK
+CS,Gathering,OK
+Bonanza,Gathering,OK
+Riverview,Gathering,OK
+Hellcat,Gathering,OK
+Kilo,Gathering,OK
+CS,Gathering,WY
+CS,Gathering,WY
+Juniper Draw,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,NM
+McClave,Gathering,CO
+Wagon Trail,Gathering,CO
+West Bravo Dome,Gathering,NM
+Rock Springs,Transmission,WY
+Stateline,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Longhorn,Gathering,AR
+Rothermel,Gathering,TX
+Thames South,Gathering,NM
+Miera,Gathering,CO
+Mesa,Transmission,CO
+Marshal,Transmission,CO
+Livingston,Transmission,MT
+Guilies,Gathering,TX
+West Price,Gathering,TX
+Hobbs,Gathering,NM
+MVS,Gathering,CO
+Woodchopping,Transmission,ME
+CS - Maritimes,Transmission,ME
+Hawley,Gathering,PA
+Rich Valley,Gathering,PA
+Demo - 303,Transmission,NJ
+Union City,Gathering,PA
+Lake Wilhelm,Gathering,PA
+Johnston,Gathering,PA
+Goodwin,Gathering,PA
+Lowry,Gathering,PA
+Stewart,Gathering,PA
+Fulton,Gathering,PA
+Hoskins,Gathering,PA
+Tupta-Day,Gathering,PA
+Grimes,Gathering,OH
+Berne,Transmission,OH
+Knob Fork,Gathering,WV
+Hardy,Storage,WV
+Kenova,Transmission,WV
+Scenic View,Gathering,IN
+CS - 161,Transmission,NC
+Monroe,Transmission,NC
+Wadesboro,Transmission,NC
+CS - 430,Transmission,FL
+Excelsior 6,Storage,MI
+Whistler,Transmission,AL
+Vicksburg,Transmission,MS
+Scana,Gathering,MS
+Goodman,Transmission,WI
+Curryville,Transmission,MO
+Stonefly,Gathering,AR
+Piney Creek,Gathering,AR
+Hattieville,Gathering,AR
+Hobbs,Transmission,AR
+West Teal,Gathering,LA
+Perryville,Gathering,LA
+Caspiana,Gathering,LA
+White Springs,Gathering,LA
+PPG,Transmission,LA
+Rodrigue,Transmission,LA
+Gloria,Transmission,LA
+Bill Powers,Gathering,TX
+Viboras,Gathering,TX
+South Bowie,Gathering,TX
+Waddell,Transmission,TX
+TRM,Gathering,OK
+Mistletoe,Gathering,OK
+Berwyn,Gathering,OK
+Cook,Gathering,OK
+Pettijohn,Gathering,OK
+Enid,Gathering,OK
+Red Oak,Transmission,OK
+Medford,Gathering,OK
+South Cherokee,Gathering,OK
+Cherokee,Gathering,OK
+Amorita,Gathering,OK
+Beer,Gathering,OK
+Sharon,Gathering,KS
+Spivey,Gathering,KS
+Trenton,Gathering,KS
+Anthony,Gathering,KS
+Buttermilk,Transmission,KS
+Blue Buttes Unit 5,Gathering,ND
+Sauber,Gathering,ND
+Pal,Gathering,ND
+Alex,Gathering,ND
+Beulah,Gathering,ND
+Killdeer,Gathering,ND
+Forthune,Gathering,ND
+Lakeside,Gathering,ND
+Epping,Gathering,ND
+Queen Lake,Gathering,NM
+New Mexico State 32-2,Gathering,NM
+CS - 31,Transmission,NM
+Trunk B,Gathering,NM
+Homestead,Gathering,CO
+Worford Ridge,Gathering,CO
+Sambrito,Gathering,CO
+Pump Canyon,Gathering,CO
+Diamondback,Gathering,CO
+Treating Site #5A,Gathering,CO
+Jaques,Gathering,CO
+Wolf Point,Gathering,CO
+Treating Site #4A,Gathering,CO
+Argenta,Gathering,CO
+Hamilton,Gathering,CO
+Una,Gathering,CO
+Orchard,Gathering,CO
+Bruton,Gathering,CO
+Bailey,Gathering,CO
+Ryan Gulch,Transmission,CO
+Frenchie Draw,Gathering,WY
+Worland,Transmission,WY
+Symons,Gathering,MT
+Interplanetary,Gathering,UT
+Salt Lake City,Transmission,UT
+Diablo,Gathering,UT
+Duncan,Transmission,AZ
+Picacho,Transmission,AZ
+Castle Dome,Transmission,AZ
+Lathrop,Gathering,CA
+McDondald Island,Storage,CA
+Sylmar,Gathering,CA
+Marks,Transmission,CA
+Pinnacle - 563,Transmission,TN
+Tyler Mountain - 118A,Transmission,WV
+Rocky Fork - 119A,Transmission,WV
+Reunion,Transmission,FL
+Dunnellon,Transmission,FL
+Hildreth,Transmission,FL
+Albany,Transmission,GA
+Alexander City,Transmission,AL
+Calumet,Transmission,OK
+Tatums,Transmission,OK
+Bennington,Transmission,OK
+McCormick,Gathering,TX
+Horn,Gathering,TX
+Ragged Mountain,Transmission,CO
+Yu Bench,Transmission,WY
+Parker,Gathering,OK
+Abney Corner,Gathering,OK
+Centerpoint Delivery,Gathering,OK
+Gallagher,Gathering,OK
+Eaton,Gathering,OK
+Bennett,Gathering,OK
+Sutton,Gathering,OK
+Anthem,Gathering,OK
+Stone,Gathering,OK
+Coop,Gathering,OK
+Odell,Gathering,OK
+Diamond,Gathering,OK
+Silver,Gathering,OK
+Cana HP Delivery,Gathering,OK
+Ruby,Gathering,OK
+Opal,Gathering,OK
+Pearl,Gathering,OK
+Area 5,Gathering,TX
+Area 3,Gathering,TX
+Little Mary,Gathering,TX
+Big Henry,Gathering,TX
+Fast Walker,Gathering,TX
+Devon Martin County (Nail Ranch),Gathering,TX
+UL,Gathering,TX
+Port Neches,Transmission,TX
+Leger,Transmission,LA
+Duson,Transmission,LA
+Myrtle Grove,Transmission,LA
+Trunkline Boyce,Transmission,LA
+Kolin,Transmission,LA
+LeCompte ANR,Transmission,LA
+St Landry,Transmission,LA
+Red River,Transmission,LA
+Armistead,Transmission,LA
+Mansfield,Transmission,LA
+Kickapoo,Transmission,LA
+Osborn,Transmission,LA
+Gordon,Gathering,TX
+Boyd J-34,Gathering,TX
+Southerland,Gathering,TX
+Lone Camp,Storage,TX
+Burleson,Gathering,TX
+Fossil Creek,Gathering,TX
+Benbrook,Gathering,TX
+Jarvis,Gathering,TX
+Veale White,Gathering,TX
+Justin,Gathering,TX
+Rhome Exchange,Gathering,TX
+Springtown,Gathering,TX
+De Arman,Gathering,TX
+DJ Wilson,Gathering,TX
+Lula Jones,Gathering,TX
+Lat E10,Gathering,TX
+Gadberry,Gathering,TX
+Hughes Ranch F1,Gathering,TX
+Lat G,Gathering,TX
+Lat H98,Gathering,TX
+Flowers,Gathering,TX
+Green,Gathering,TX
+Bilberry,Gathering,TX
+Kaker,Gathering,TX
+Cox,Gathering,TX
+Allison,Gathering,TX
+Lat B119,Gathering,TX
+B - 20,Gathering,TX
+White B-25,Gathering,TX
+Decatur 2,Gathering,TX
+Ashcraft,Gathering,TX
+Black Creek,Gathering,TX
+Blaze,Gathering,TX
+Stripling Isld,Gathering,TX
+Lateral A,Gathering,TX
+Knox-Stone,Gathering,TX
+Lat H14,Gathering,TX
+NS2,Gathering,PA
+Salem,Gathering,WV
+Tichenal,Gathering,WV
+Jarvisville,Gathering,WV
+Ike & Mike,Gathering,WV
+Victoria Station,Gathering,WV
+Perkins,Gathering,WV
+West Union,Gathering,WV
+Morgan,Gathering,WV
+Stark,Gathering,WV
+Banner,Gathering,WV
+Rose Bud,Gathering,AR
+Wilson Creek,Gathering,AR
+Woolly Hollow,Gathering,AR
+Twin Groves,Gathering,AR
+Prairie Creek,Gathering,AR
+Black River,Gathering,NM
+Lard Ranch,Gathering,TX
+North Booster,Gathering,TX
+Station 1,Gathering,ND
+Station 2,Gathering,ND
+Station 3,Gathering,ND
+Station 6,Gathering,ND
+Station 5,Gathering,ND
+Station 4,Gathering,ND
+Station 7,Gathering,ND
+Frederick,Gathering,CO
+Williams Fork,Transmission,CO
+Hudson,Gathering,CO
+Turner,Gathering,PA
+Winkler,Gathering,TX
+Cottonwood,Gathering,TX
+Goldsmith,Gathering,TX
+Block 9,Gathering,TX
+Mambo,Gathering,TX
+Eubar,Gathering,TX
+Martin,Gathering,TX
+CV-3,Gathering,LA
+CV-2,Gathering,LA
+CV-1,Gathering,LA
+Velma,Gathering,OK
+Galaxy,Gathering,PA
+Alix,Transmission,AR
+Altus-Coal Hill,Transmission,AR
+Woolsey,Storage,AR
+Batson,Transmission,AR
+Harmon,Transmission,AR
+Drake,Transmission,AR
+King,Transmission,AR
+Norwood,Transmission,CO
+Oil Springs,Storage,WY
+Sinclair,Transmission,WY
+Chokecherry,Transmission,WY
+Bunker Hill,Transmission,WY
+Kirk Ranch,Storage,WY
+Sullivan,Gathering,CO
+Rocky,Gathering,CO
+Wells Ranch,Gathering,CO
+SLW,Gathering,CO
+70 Ranch,Gathering,CO
+Homer,Transmission,NE
+Fremont,Transmission,NE
+Willow Lake,Transmission,SD
+Spencer,Transmission,SD
+Spring Green,Transmission,WI
+Elk River,Transmission,MN
+Pierz,Transmission,MN
+Albert Lea,Transmission,MN
+Horseshoe Canyon,Gathering,CO
+Ross,Gathering,TX
+Midland,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+CS,Gathering,TX
+Trout Run 1,Gathering,PA
+Trout Run 2,Gathering,PA
+Newmont,Gathering,TX
+Germania,Gathering,TX
+Tarzan,Gathering,TX
+McAlister,Gathering,TX
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Juniper North,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+FB-3525,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Horse Creek,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+CS,Gathering,WY
+Seneca,Transmission,OH
+Bertrand,Transmission,NE
+Pecan Grove,Gathering,TX
+Alabama Ferry 1,Gathering,TX
+Alabama Ferry 4,Gathering,TX
+Samedan,Gathering,TX
+Anderson,Gathering,TX
+Madison Central,Gathering,TX
+Armour 2,Gathering,TX
+Pate - 3,Gathering,TX
+Millican 2,Gathering,TX
+Millican 3,Gathering,TX
+Lean Gas,Gathering,TX
+Wilcox,Gathering,TX
+Apache 2,Gathering,TX
+Tunis H,Gathering,TX
+Getty 2,Gathering,TX
+Batts Ferry,Gathering,TX
+North West 5,Gathering,TX
+North West 2,Gathering,TX
+Tunis C,Gathering,TX
+Tunis H,Gathering,TX
+Tunis Plant,Gathering,TX
+Vychopen,Gathering,TX
+Small,Gathering,TX
+Lyons 5-A,Gathering,TX
+Yegua Creek,Gathering,TX
+Woltz,Gathering,TX
+Dietz,Gathering,TX
+Parrish,Gathering,TX
+North West 6,Gathering,TX
+Mendon - 266A,Transmission,MA
+Middle Cottonwood,Gathering,ND
+Rachel,Gathering,ND
+Ross,Gathering,ND
+Phoenix,Gathering,ND
+East,Gathering,ND
+Sidonia,Gathering,ND
+West,Gathering,ND
+North,Gathering,ND
+Mirage,Gathering,ND
+STA. 135,Transmission,SC
+East Cameron - 49B,Transmission,FO GULF
+Vermilion Blk 313B,Gathering,FO GULF
+Vermilion Blk 245,Gathering,FO GULF
+Ship Shoal 248F,Gathering,FO GULF
+Ship Shoal 247F,Gathering,FO GULF
+Eugene Island - 251,Gathering,FO GULF
+CS - 702,Transmission,FO GULF
+Block 149 West Leg,Transmission,FO GULF
+Block 149 East Leg,Transmission,FO GULF
+Vermilion Blk 255B,Gathering,FO GULF
+Wd143,Transmission,FO GULF
+West Cameron Blk 605A,Gathering,FO GULF
+Block 264,Transmission,FO GULF
+Hugoton,Gathering,KS
+Madden - 24,Transmission,WY
+Green River B,Transmission,WY
+Green River A,Transmission,WY
+Gillette Kitty-Migc - D,Transmission,WY
+Wic Laramie - 2,Transmission,WY
+Douglas - 7,Transmission,WY
+Thermopolis,Gathering,WY
+Billy Creek South,Transmission,WY
+Arlington,Transmission,WY
+Stealth C,Transmission,WY
+Recluse - A,Transmission,WY
+Platte River Q,Transmission,WY
+Outback K,Transmission,WY
+Oedekoven B,Transmission,WY
+Macsy H,Transmission,WY
+Hilight,Transmission,WY
+Crossbow - 1,Transmission,WY
+Coal Creek,Transmission,WY
+Black Thunder,Transmission,WY
+Bozeman,Gathering,WY
+Rieheman G,Transmission,WY
+Bonepile,Transmission,WY
+Carter - J,Transmission,WY
+Bullfrog Electric,Gathering,WY
+Labarge,Gathering,WY
+Birch Creek Battery A,Gathering,WY
+Big Piney,Gathering,WY
+Hares Ear,Gathering,WY
+Igt Waltman,Gathering,WY
+Oregon Basin - 34,Transmission,WY
+Spire Storage West,Transmission,WY
+Rawlins Jumper - 4,Transmission,WY
+Pronghorn,Gathering,WY
+Gumbo Hill,Gathering,WY
+Johnah/3 Sections,Gathering,WY
+Fontenelle,Gathering,WY
+Stagecoach,Gathering,WY
+7 Mile Gulch,Gathering,WY
+Red Rim,Gathering,WY
+Jolly Roger,Gathering,WY
+Doty Mountain,Gathering,WY
+Sun Dog,Gathering,WY
+Blue Sky,Gathering,WY
+Brown Cow,Gathering,WY
+Fabian Ditch,Gathering,WY
+Gotham,Gathering,WY
+Pronghorn,Gathering,WY
+Pinetree,Gathering,WY
+Moore,Gathering,WY
+Boggy Creek,Gathering,WY
+Falcon,Gathering,WY
+Wamsutter,Transmission,WY
+Laramie Jumber - 6,Transmission,WY
+Harold - 3,Transmission,WY
+Table Rock,Transmission,WY
+Muddy Gap - 35,Transmission,WY
+Lost Cabin - 23,Transmission,WY
+Bridger Creek - 33,Transmission,WY
+Kemmerer,Transmission,WY
+Muddy Creek,Transmission,WY
+Fuller Reservoir - 25,Transmission,WY
+Painter,Transmission,WY
+Muddy Creek,Transmission,WY
+Arlington,Transmission,WY
+Rawlins - 11,Transmission,WY
+Riner,Transmission,WY
+Echo Springs,Transmission,WY
+King - 29,Transmission,WY
+Hay Reservoir,Gathering,WY
+Baxter - 5,Transmission,WY
+Desert Springs - 21,Transmission,WY
+Table Rock,Transmission,WY
+Quealy,Gathering,WY
+Wild Rose,Gathering,WY
+Snow Bank,Gathering,WY
+Horse Trap,Gathering,WY
+Worland,Transmission,WY
+Little Thunder,Gathering,WY
+Spring Creek,Gathering,WY
+MGTC Transfer,Gathering,WY
+Amos Draw,Gathering,WY
+Elk Basin - 16,Transmission,WY
+Elk Basin,Storage,WY
+Lovell,Transmission,WY
+Luman,Gathering,WY
+Bird Canyon,Gathering,WY
+Lincoln Road,Gathering,WY
+Storm Shelter,Gathering,WY
+Anshutz,Transmission,WY
+Kewaskum Mainline,Transmission,WI
+Kewaskum Two Rivers,Transmission,WI
+Chippewa - 2227,Transmission,WI
+Mountain,Transmission,WI
+Marshfield,Transmission,WI
+Weyauwega,Transmission,WI
+Belleville Line C,Transmission,WI
+Janesville,Transmission,WI
+Osceola - 2222,Transmission,WI
+Cobb Area 3 - 8C,Transmission,WV
+Cobb Area 3 - 8B,Transmission,WV
+Cobb Area 3 - 8A,Transmission,WV
+Clendenin Area 3 - 9B,Transmission,WV
+Clendenin Area 3 - 9A,Transmission,WV
+Ceredo Area 3 #6 - 2,Transmission,WV
+Ceredo Area 3 #6 - 1,Transmission,WV
+Lost River Area 10 - 5B,Transmission,WV
+Lost River Area 10 - 5,Transmission,WV
+Kenova Area 3 - 5C,Transmission,WV
+Kenova Area 3 - 5-2,Transmission,WV
+Kenova Area 3 - 5,Transmission,WV
+Wg-286 Smokehouse,Gathering,WV
+Danville,Gathering,WV
+Bonham,Gathering,WV
+Wayne,Gathering,WV
+Panther Creek,Gathering,WV
+Beech Fork,Gathering,WV
+Tallmansville,Gathering,WV
+Sugar Run,Gathering,WV
+Forlini,Gathering,WV
+WV Scout,Gathering,WV
+Giles,Gathering,WV
+Gans,Gathering,WV
+Panther Fork,Gathering,WV
+Alexander,Gathering,WV
+East Whitmer,Gathering,WV
+Gandy Creek,Gathering,WV
+Smith Mountain,Gathering,WV
+Rock Cave,Gathering,WV
+Ben Flats,Gathering,WV
+Horsemill,Transmission,WV
+Daybrook,Gathering,WV
+Gill,Transmission,WV
+Breeden,Transmission,WV
+Marrowbone,Transmission,WV
+Harper,Transmission,WV
+Raleigh,Transmission,WV
+Slab Fork,Transmission,WV
+Egeria (V60),Transmission,WV
+Mullens,Transmission,WV
+Carbon,Transmission,WV
+Nye,Transmission,WV
+Osbourne Mills,Transmission,WV
+Indian Creek,Transmission,WV
+Coironado,Transmission,WV
+Sugar Run,Transmission,WV
+Spencer E-21,Transmission,WV
+Porters Falls - Area 8 - 1,Transmission,WV
+Terra Alta,Storage,WV
+State Run,Gathering,WV
+Rocky Fork,Gathering,WV
+Quick,Distribution,WV
+Stafford,Transmission,WV
+Briar Mt,Transmission,WV
+Majestic,Transmission,WV
+Smithfield Area 8 - 3,Transmission,WV
+Adaline,Transmission,WV
+Glady,Storage,WV
+Files Creek Area 10 - 3,Transmission,WV
+Ellamore,Transmission,WV
+Mabie,Transmission,WV
+Alexander,Transmission,WV
+Rockport,Storage,WV
+Ripley,Storage,WV
+Walgrove,Transmission,WV
+Hunt,Storage,WV
+Horse Creek,Transmission,WV
+Flat Top Area 3 - 1,Transmission,WV
+Kermit,Transmission,WV
+Hubball,Transmission,WV
+Grant Area 3 - 11,Transmission,WV
+Huff Creek Area 3 - 2,Transmission,WV
+Hamlin,Transmission,WV
+Hubball,Transmission,WV
+Glenville Area 8 - 15,Transmission,WV
+Seneca Area 10 - 4,Transmission,WV
+Cleveland Area 10 - 2,Transmission,WV
+Frametown Area 10 - 1,Transmission,WV
+Majorsville,Transmission,WV
+Bruceton Mills Area 8 - 5,Transmission,WV
+Willard B,Transmission,WA
+Willard A,Transmission,WA
+Sumas D,Transmission,WA
+Sumas B&C,Transmission,WA
+Mt. Vernon C,Transmission,WA
+Mt. Vernon B,Transmission,WA
+Mt. Vernon A,Transmission,WA
+Fort Lewis,Transmission,WA
+Chehalis,Transmission,WA
+Chehalis,Transmission,WA
+Snohomish,Transmission,WA
+Zillah,Transmission,WA
+Sumas A&B,Transmission,WA
+Summer,Transmission,WA
+Mesa,Transmission,WA
+Plymouth,Transmission,WA
+Roosevelt,Transmission,WA
+Goldendale,Transmission,WA
+Wahougal,Transmission,WA
+Tumwater,Transmission,WA
+Petersburg Area 1 - 4-2,Transmission,VA
+Petersburg Area 1 - 4,Transmission,VA
+Loudoun,Transmission,VA
+CS - 5,Gathering,VA
+Loudoun Area 10 - 7,Transmission,VA
+Pleasant Valley,Transmission,VA
+Conaway,Transmission,VA
+Emporia Area 1 - 5,Transmission,VA
+Boswells Tavern Area 1 - 7,Transmission,VA
+Rural Retreat - 3313,Transmission,VA
+Glade Spring - 3311,Transmission,VA
+Nora - 3401,Transmission,VA
+Manassas - 185,Transmission,VA
+Louisa Area 1 - 2,Transmission,VA
+Scottsville - 175,Transmission,VA
+Appomattox - 170,Transmission,VA
+South Hill - 167,Transmission,VA
+Chatham - 165,Transmission,VA
+Bickers - 1,Transmission,VA
+Orange - 180,Transmission,VA
+Goochland Area 1 - 3,Transmission,VA
+Gala Area 10 - 6,Transmission,VA
+Shenandoah Area 10 - 8,Transmission,VA
+Strasburg Area 10 - 10,Transmission,VA
+Natural Buttes - 31,Transmission,UT
+Red Mesa,Transmission,UT
+Moab B,Transmission,UT
+Moab A,Transmission,UT
+Luckey Ditch,Gathering,UT
+Altamont East,Gathering,UT
+Altamont West,Gathering,UT
+Altamont South,Gathering,UT
+Dry Canyon,Gathering,UT
+Westwater,Gathering,UT
+Elberta,Transmission,UT
+Bonanza Central,Gathering,UT
+East Bench,Gathering,UT
+Proposed,Gathering,UT
+Glen Bench/Mulligan,Gathering,UT
+East Junior,Gathering,UT
+Northeast,Gathering,UT
+North,Gathering,UT
+Willow Creek,Gathering,UT
+Morgan State,Gathering,UT
+Southeast,Gathering,UT
+East Side,Gathering,UT
+South,Gathering,UT
+Love Unit,Gathering,UT
+Coyote Creek,Transmission,UT
+Salt Lake,Transmission,UT
+Antelope Flat,Gathering,UT
+Vernal,Transmission,UT
+Bridge,Gathering,UT
+Ouray,Gathering,UT
+CIG 101,Transmission,UT
+West Cottonwood,Gathering,UT
+Willow Creek (East),Gathering,UT
+Sage Grouse,Gathering,UT
+Fillmore,Transmission,UT
+Veyo,Transmission,UT
+South Central,Gathering,UT
+Archie Bench,Gathering,UT
+Seven Sisters,Gathering,UT
+Bonanza West,Gathering,UT
+Bonanza East,Gathering,UT
+Cisco,Transmission,UT
+Four Corners,Gathering,UT
+Edgar G. Hill Gageby,Gathering,TX
+East Bernard - 17,Transmission,TX
+Cleveland - 25,Transmission,TX
+Agua Dulce Mainline,Transmission,TX
+Agua Dulce Mainline To Cig,Transmission,TX
+Victoria - 9,Transmission,TX
+Big Canyon - 19,Transmission,TX
+Sabine,Transmission,TX
+Tivoli,Gathering,TX
+Sunray C,Transmission,TX
+Red Oak,Gathering,TX
+Paris (Texoma Line),Transmission,TX
+Longview - 1,Transmission,TX
+Longview - 1R,Transmission,TX
+La Pan Storage,Storage,TX
+Cayuga,Gathering,TX
+X-Ray,Gathering,TX
+Wizard Wells,Gathering,TX
+Winnsboro,Transmission,TX
+Walnut Springs,Gathering,TX
+Waller,Transmission,TX
+Waha,Transmission,TX
+Waha,Transmission,TX
+Waha,Transmission,TX
+Sunray B,Transmission,TX
+Sugarland,Gathering,TX
+CS - Wt-2,Transmission,TX
+Port Lavaca,Transmission,TX
+CS - 2,Transmission,TX
+Houston - 35,Transmission,TX
+Falfurrias - 14,Transmission,TX
+Springtown,Gathering,TX
+Sprayberry Lonestar Plant,Transmission,TX
+Sprayberry Mitchell Field,Transmission,TX
+Somerville Lake,Gathering,TX
+Snyder,Gathering,TX
+Sipe Spring,Gathering,TX
+Santa Fe,Gathering,TX
+Santa Anna,Gathering,TX
+Rock Springs,Gathering,TX
+Pyate,Gathering,TX
+Pueblo,Gathering,TX
+Speaks,Transmission,TX
+Plains East Flow,Transmission,TX
+Plains East Flow,Transmission,TX
+Pikes Peak,Gathering,TX
+Petronille,Transmission,TX
+Odem,Transmission,TX
+North Zulch,Transmission,TX
+North Henderson,Gathering,TX
+New York Storage,Gathering,TX
+Needville,Transmission,TX
+Mt. Saterprise,Transmission,TX
+Mission Valley,Gathering,TX
+Miers,Gathering,TX
+Mi Vida,Gathering,TX
+Memphis,Gathering,TX
+Lake Dallas Storage,Storage,TX
+"Kermit 30""",Transmission,TX
+"Kermit 16""",Transmission,TX
+Hempstead,Transmission,TX
+Graham,Gathering,TX
+Gordon,Gathering,TX
+Gainesville,Gathering,TX
+Gainesville,Gathering,TX
+Epng Schafer Plant West Flow B Plant,Transmission,TX
+Epng Schafer Plant West Flow A Plant,Transmission,TX
+Epng Schafer Plant East Flow A Plant,Transmission,TX
+Decatur,Gathering,TX
+Cundiff,Gathering,TX
+Clarkson,Gathering,TX
+Cheyenne,Gathering,TX
+Carthage 2,Transmission,TX
+Boonsville,Gathering,TX
+Vidor,Transmission,TX
+Mont Belvieu,Transmission,TX
+Batstow,Gathering,TX
+Richards Ranch,Gathering,TX
+Angleton,Transmission,TX
+Angelina (Texoma),Transmission,TX
+American,Transmission,TX
+Hastings,Transmission,TX
+Abilene,Gathering,TX
+Edna - 23,Transmission,TX
+Mesa,Transmission,TX
+Goad Hemphill,Transmission,TX
+Buffalo Wallow,Transmission,TX
+Higgins,Transmission,TX
+"Sprayberry   El Dorado 16""",Transmission,TX
+Plains,Transmission,TX
+"El Paso  30"" & 26""",Transmission,TX
+Dumas South Flow,Transmission,TX
+Plains Flow To Permian-San,Transmission,TX
+Dumas East Flow,Transmission,TX
+Plains Flow To Dumas,Transmission,TX
+Dimmitt South Flow to Dumas,Transmission,TX
+Dimmitt North Flow to Dumas,Transmission,TX
+"Cornudas  30"" High Pressure",Transmission,TX
+"Cornudas  30"" & 26""",Transmission,TX
+Keystone,Transmission,TX
+Keystone,Transmission,TX
+Amarillo South Flow,Transmission,TX
+Jal B,Transmission,TX
+Amarillo North Flow,Transmission,TX
+"El Paso  30"" High Pressure",Transmission,TX
+Carthage Junction,Transmission,TX
+Red River,Gathering,TX
+Billy Rose,Gathering,TX
+Red River - 1,Gathering,TX
+Kellerville,Gathering,TX
+Palo Duro,Gathering,TX
+South Zybach,Gathering,TX
+Texas Blend,Gathering,TX
+Zybach Sec 26 CB,Gathering,TX
+Buffalo Wallow Carr,Gathering,TX
+Etheredge,Gathering,TX
+Vandiver,Gathering,TX
+Hemphill County - 3,Gathering,TX
+Lora,Gathering,TX
+Wolf Creek,Gathering,TX
+Grayrock,Gathering,TX
+Lipscomb,Gathering,TX
+Davis,Gathering,TX
+Hemphill County - 1,Gathering,TX
+Canadian River,Gathering,TX
+Mendota,Gathering,TX
+Clark,Gathering,TX
+White Deer - 4,Gathering,TX
+Lefors Red River,Gathering,TX
+Vanderburg,Gathering,TX
+Wall,Gathering,TX
+Percival,Gathering,TX
+Plum Creek,Gathering,TX
+CS - 111,Gathering,TX
+Northrup,Gathering,TX
+Urban,Gathering,TX
+Daniels,Gathering,TX
+Flores,Gathering,TX
+Edgar G. Hill Hougoton,Gathering,TX
+Huff,Gathering,TX
+Hutchinson County - 1,Gathering,TX
+Blasdel,Gathering,TX
+Dauer,Gathering,TX
+CS - Seminole,Gathering,TX
+Sallie,Gathering,TX
+East Britt Ranch,Gathering,TX
+Panoma - 2,Gathering,TX
+Mammoth Creek,Gathering,TX
+Twin Channels,Gathering,TX
+Jones Central,Gathering,TX
+Unit,Gathering,TX
+Archer,Gathering,TX
+Gruver,Gathering,TX
+Cowan,Gathering,TX
+Lefors Red River,Gathering,TX
+Stiles 67 - 6,Gathering,TX
+Acker,Gathering,TX
+Post,Gathering,TX
+Carson County 100,Gathering,TX
+Stateline,Gathering,TX
+Bourassa 2-7,Gathering,TX
+Tubbs 246 - 2,Gathering,TX
+Meek,Gathering,TX
+Panoma - 1,Gathering,TX
+Harbaugh,Gathering,TX
+Dumler,Gathering,TX
+Sanford,Gathering,TX
+Allison Britt,Gathering,TX
+CS - 2,Gathering,TX
+Binkley - 2,Gathering,TX
+White Creek,Gathering,TX
+Britt Ranch,Gathering,TX
+Carson County 400,Gathering,TX
+Ramp Ranch,Gathering,TX
+Hobart - 2,Gathering,TX
+Holt,Gathering,TX
+Stiles 67 - 7,Gathering,TX
+Abraham,Gathering,TX
+Adcock,Gathering,TX
+Kelly,Gathering,TX
+Burnett - 2,Gathering,TX
+Allison Parks West,Gathering,TX
+Allison,Gathering,TX
+Shriekey,Gathering,TX
+Teas 3 Cp,Gathering,TX
+Grandbury,Gathering,TX
+Pawnee Satellite 1,Gathering,TX
+Goebel,Gathering,TX
+Live Oak,Gathering,TX
+Bushy Creek,Gathering,TX
+Dry Hollow 1 - 2,Gathering,TX
+Thompson - 1,Gathering,TX
+Hebbronville,Gathering,TX
+South Citrus,Gathering,TX
+Veleno,Gathering,TX
+North Rich,Gathering,TX
+Sutton County - 2,Gathering,TX
+Mecom Ranch - 15,Gathering,TX
+Edinburg - 409,Transmission,TX
+East Canyon Ranch,Gathering,TX
+Dp 6,Gathering,TX
+CS - 8,Gathering,TX
+Shurley South,Gathering,TX
+Wilson,Gathering,TX
+M & B,Gathering,TX
+Ozona,Gathering,TX
+Pandale,Gathering,TX
+CS - 500,Gathering,TX
+CS - 61,Gathering,TX
+Epps,Gathering,TX
+Espy,Gathering,TX
+Roper,Gathering,TX
+Opelika,Gathering,TX
+Alford B,Gathering,TX
+Stryker,Gathering,TX
+Rita,Gathering,TX
+East Ann Mag Central,Gathering,TX
+Nemo,Gathering,TX
+Grand Oaks,Gathering,TX
+West Douglass,Gathering,TX
+East Traywick,Gathering,TX
+North Douglass,Gathering,TX
+CS - 8,Gathering,TX
+CS - 7A,Gathering,TX
+White Oak,Gathering,TX
+Walnut Tree,Gathering,TX
+Bennett,Gathering,TX
+Haygood,Gathering,TX
+Midway,Gathering,TX
+Anderson,Gathering,TX
+Hancock,Gathering,TX
+Bp West Carthage,Gathering,TX
+Satellite - 3,Gathering,TX
+Central,Gathering,TX
+Roberts,Gathering,TX
+Champlin,Transmission,TX
+Forest,Gathering,TX
+East Texas Gas Deadwood,Gathering,TX
+Chevron Powell,Gathering,TX
+Latex,Gathering,TX
+Stateline,Gathering,TX
+Philpot,Gathering,TX
+West Waskom,Gathering,TX
+East Texas Gas Blocker,Gathering,TX
+Bradley,Gathering,TX
+White Oak,Transmission,TX
+Willow Springs,Gathering,TX
+Atlanta,Transmission,TX
+Bryans Mill,Gathering,TX
+Carthage No 1,Gathering,TX
+Fannett,Gathering,TX
+Port Neches - 38,Gathering,TX
+Spindletop,Gathering,TX
+Beaumont,Gathering,TX
+Groves,Gathering,TX
+Silsbee,Gathering,TX
+Hastings Central,Gathering,TX
+South,Gathering,TX
+Markham,Gathering,TX
+Magnet Withers,Gathering,TX
+Tomball,Gathering,TX
+Conroe,Gathering,TX
+Katy,Gathering,TX
+San Felipe,Gathering,TX
+Stranger,Gathering,TX
+Quarry,Gathering,TX
+Pate - 4,Gathering,TX
+Grimes County,Gathering,TX
+Ephraim,Gathering,TX
+Bald Prairie,Gathering,TX
+Hudson,Gathering,TX
+Blalock,Gathering,TX
+Farrar,Gathering,TX
+Groesbeck,Gathering,TX
+North East Teague,Gathering,TX
+Reed,Gathering,TX
+North Reed,Gathering,TX
+Streetman,Gathering,TX
+Tri Cities,Gathering,TX
+Coates B 6,Gathering,TX
+CS - 490,Gathering,TX
+Santa Fe - 5,Gathering,TX
+Kelsey,Gathering,TX
+Brooks County,Gathering,TX
+Premont - 8,Transmission,TX
+Stratton,Gathering,TX
+Wardner,Gathering,TX
+Elliff,Gathering,TX
+Sinton,Transmission,TX
+Gregory,Gathering,TX
+Tom O'Conner,Gathering,TX
+Clement Heard,Gathering,TX
+CS - 806,Gathering,TX
+Neumin Ci-A,Gathering,TX
+CS - 552,Gathering,TX
+Fannin,Gathering,TX
+Sheridan Field,Gathering,TX
+Speaks,Gathering,TX
+Jennings Ranch,Gathering,TX
+Dcrc - 208 1,Gathering,TX
+East Texas Pipeline Bastrop,Gathering,TX
+Oasis-Winchester,Gathering,TX
+Prairie Lea,Transmission,TX
+Comfort,Transmission,TX
+Alderman,Gathering,TX
+Tripple Bar,Gathering,TX
+West Mesa,Gathering,TX
+Middleton,Gathering,TX
+Gold River,Gathering,TX
+Lamar,Gathering,TX
+CS - 803,Gathering,TX
+Indian Rock,Gathering,TX
+Como,Gathering,TX
+Sherman,Gathering,TX
+Bailey,Transmission,TX
+Decordova,Gathering,TX
+Meadows,Gathering,TX
+Cleburne,Gathering,TX
+Maypearl,Gathering,TX
+Lillian,Gathering,TX
+Lillian,Gathering,TX
+Morgan Mill,Gathering,TX
+Black Ranch East,Gathering,TX
+Kemp,Gathering,TX
+Lake Arlington,Gathering,TX
+Alliance,Gathering,TX
+East Rhome,Gathering,TX
+Ross,Gathering,TX
+Longhorn,Gathering,TX
+Bailey Boswell,Gathering,TX
+Buchanan,Gathering,TX
+South Decatur,Gathering,TX
+Putton,Gathering,TX
+Jacksboro,Gathering,TX
+Ranger,Gathering,TX
+Punkin Center,Gathering,TX
+Stewman,Gathering,TX
+Reinecke,Gathering,TX
+Real,Gathering,TX
+Mitchell,Gathering,TX
+May Ray,Gathering,TX
+West Aldwell,Gathering,TX
+CS - 4,Gathering,TX
+Will-O-Mill,Gathering,TX
+CS - 1000,Gathering,TX
+CS - 2200,Gathering,TX
+Johnson Draw,Gathering,TX
+University Block 31,Gathering,TX
+Todd Ranch,Gathering,TX
+CS - 1400,Gathering,TX
+Mayer Ranch,Gathering,TX
+Mayer North,Gathering,TX
+Northeast Gathering System,Gathering,TX
+Middle Conger,Gathering,TX
+CS - 81,Gathering,TX
+Tr37,Gathering,TX
+North Cross - 4,Gathering,TX
+Rankin,Gathering,TX
+Benedum,Gathering,TX
+Pembrook,Gathering,TX
+Boyd,Gathering,TX
+Dora Roberts,Gathering,TX
+Dora Roberts,Gathering,TX
+Sands Hills,Gathering,TX
+Culbertson,Gathering,TX
+West Waddell,Gathering,TX
+Apache 1,Gathering,TX
+Keystone,Gathering,TX
+South Kermit,Gathering,TX
+J W Robbins Field,Gathering,TX
+Mitchell,Gathering,TX
+Yucca,Gathering,TX
+Waha,Gathering,TX
+Walker - 2,Gathering,TX
+Gomez,Gathering,TX
+Rojo,Gathering,TX
+CS - 148,Gathering,TX
+Monahans - 1,Gathering,TX
+Estes,Gathering,TX
+Sealy Smith,Gathering,TX
+Wickett Turbine - I,Gathering,TX
+Block 16,Gathering,TX
+Monahans,Gathering,TX
+Spider - 156,Gathering,TX
+South Pyote,Gathering,TX
+Western Pyote,Gathering,TX
+Bones Springs,Gathering,TX
+Warwink,Gathering,TX
+Hobbs Gas Plant,Gathering,TX
+Ramsey,Gathering,TX
+Runge,Gathering,TX
+Hardwood,Gathering,TX
+Cornerstone,Gathering,TX
+Aledo Junction,Gathering,TX
+Dietz,Gathering,TX
+Heitz Loop,Gathering,TX
+Ozona,Gathering,TX
+Hardwood South,Gathering,TX
+Tanner - 3,Gathering,TX
+Fagan,Gathering,TX
+Tet,Gathering,TX
+Cheairs,Gathering,TX
+Waller,Gathering,TX
+Danville,Gathering,TX
+Ike Smith,Gathering,TX
+Mitchell,Gathering,TX
+A 1O Hutt,Gathering,TX
+Fallon,Gathering,TX
+Rio Grande City,Gathering,TX
+Haggerty Creek,Gathering,TX
+Douglass West,Gathering,TX
+Bethel Header,Transmission,TX
+Chapel Hill,Gathering,TX
+Arp,Gathering,TX
+CS - 169,Gathering,TX
+Katy,Gathering,TX
+Ray,Gathering,TX
+Shackleford,Gathering,TX
+Sims Waldron,Gathering,TX
+Reed,Gathering,TX
+Stryker,Gathering,TX
+Adams,Gathering,TX
+Southwest Woodlawn,Gathering,TX
+Brazos,Gathering,TX
+Georges Creek,Gathering,TX
+J C Guill,Gathering,TX
+Tejas Goode Ranch,Gathering,TX
+CS - 7,Gathering,TX
+Texana Cox Ranch,Gathering,TX
+Billlings Ranch,Gathering,TX
+Mcbee,Gathering,TX
+Rocker B,Gathering,TX
+Alamo - 409A,Gathering,TX
+Morro,Gathering,TX
+Farmar,Gathering,TX
+Vantex,Gathering,TX
+Km-Hunt,Gathering,TX
+Burleson,Gathering,TX
+Sabine,Gathering,TX
+CS - 6A,Gathering,TX
+South Appleby,Gathering,TX
+Espy,Gathering,TX
+Sleepyhollow - 5,Gathering,TX
+CS - 2712,Gathering,TX
+CS - 148,Gathering,TX
+Central Velrex,Gathering,TX
+Diboll,Gathering,TX
+Huntsville,Transmission,TX
+Rojo,Gathering,TX
+Vychopen,Gathering,TX
+Tahoka,Gathering,TX
+Wharton - 301,Gathering,TX
+Peters,Gathering,TX
+Douglass East Facility - 1,Gathering,TX
+Bethune,Gathering,TX
+Hallsville,Gathering,TX
+Lufkin,Transmission,TX
+Denton County,Gathering,TX
+Marsters,Gathering,TX
+CS - 9,Gathering,TX
+CS - 6,Gathering,TX
+West Booster,Gathering,TX
+Tex Mcgill,Gathering,TX
+Rothermel,Gathering,TX
+Shady Grove,Gathering,TX
+Hill Lake Storage,Gathering,TX
+Needville,Gathering,TX
+Bustamnte,Gathering,TX
+Plainview,Gathering,TX
+Cypress,Gathering,TX
+Smith,Gathering,TX
+Perez,Gathering,TX
+Gladys Davis,Gathering,TX
+Muir,Gathering,TX
+Aubrey,Gathering,TX
+Common Point,Gathering,TX
+Oletha,Gathering,TX
+Big Tony,Gathering,TX
+Txo,Gathering,TX
+Bi-County,Gathering,TX
+Tunis A,Gathering,TX
+Eldorado K-5,Gathering,TX
+Puckett,Gathering,TX
+CS - 5,Gathering,TX
+Golightly,Gathering,TX
+Justin,Gathering,TX
+Peak,Gathering,TX
+Mann,Gathering,TX
+Satellite - 7,Gathering,TX
+CS - 3,Gathering,TX
+Ratcliff,Gathering,TX
+Oakridge,Gathering,TX
+Freer - 551,Gathering,TX
+Caney,Transmission,TX
+Reynolds Parks,Gathering,TX
+Jackson County Cross Country 24,Gathering,TX
+Bosier,Gathering,TX
+E Lake Creek,Gathering,TX
+Tamplin,Gathering,TX
+Stamford,Gathering,TX
+Christico,Gathering,TX
+Weesatche,Gathering,TX
+East Texas,Gathering,TX
+Shape,Gathering,TX
+Usa Trust,Gathering,TX
+Duckett,Gathering,TX
+Slator Ranch L,Gathering,TX
+Doyle Creek Field,Gathering,TX
+Dot Cadenhead - 3,Gathering,TX
+Ruebush - 1,Gathering,TX
+Txu Mining Main,Gathering,TX
+Goldriver Screw,Gathering,TX
+Juan De Dios - 1,Gathering,TX
+Rosewood - 2,Gathering,TX
+West Ranch,Gathering,TX
+Ball Heirs,Gathering,TX
+CS - Agave,Gathering,TX
+Manning,Gathering,TX
+Big Daddy,Gathering,TX
+CS - Centerpoint,Gathering,TX
+Cresson,Gathering,TX
+Venus,Gathering,TX
+Sugg,Gathering,TX
+Barnes,Gathering,TX
+L Lease H - 434,Gathering,TX
+Wilson,Gathering,TX
+Williams Unit,Gathering,TX
+University B3,Gathering,TX
+Walkoviak,Gathering,TX
+Oaks - 3,Gathering,TX
+Adams Je Dr,Gathering,TX
+Hilda Parr,Gathering,TX
+Frost Central,Gathering,TX
+Overton 4,Gathering,TX
+Cresson,Gathering,TX
+Duke Ranch L,Gathering,TX
+Ranger - 2,Gathering,TX
+Fort Worth,Gathering,TX
+Coburn Gas Lift,Gathering,TX
+Burlington,Gathering,TX
+Maynard,Gathering,TX
+CS - 62,Gathering,TX
+CS - 1100,Gathering,TX
+Sealy Smith C1,Gathering,TX
+Albert Martin Gas Unit,Gathering,TX
+Caprock,Gathering,TX
+Boswell Meadows,Gathering,TX
+CS - 800,Gathering,TX
+Johnson County,Gathering,TX
+Favors,Gathering,TX
+CS - 2600,Gathering,TX
+Dcrc - 82 1,Gathering,TX
+Canales,Gathering,TX
+CS - 10,Gathering,TX
+Mangus,Gathering,TX
+Howard,Gathering,TX
+Fields,Gathering,TX
+Boyett,Gathering,TX
+Moran,Gathering,TX
+Pinewood,Gathering,TX
+Caldwell,Gathering,TX
+Daisy Haynes,Gathering,TX
+Cage Ranch,Gathering,TX
+Menefee - 1,Gathering,TX
+Pettus,Gathering,TX
+Keystone,Gathering,TX
+Alazan,Gathering,TX
+Alexander Ranch,Gathering,TX
+Lateral F - G,Gathering,TX
+Briggs,Gathering,TX
+Bradford,Gathering,TX
+Hemphill,Gathering,TX
+Vera Davis,Gathering,TX
+Zachry,Gathering,TX
+Holmes,Gathering,TX
+Site 6,Gathering,TX
+Barron-Hartman Central,Gathering,TX
+Jourdanton Atacosa County Texas,Gathering,TX
+Volpe CDP,Gathering,TX
+Bruni Mineral Trust A,Gathering,TX
+Toc Manifold Mwad,Gathering,TX
+Pollard,Gathering,TX
+Doss,Gathering,TX
+West Oaks - 4,Gathering,TX
+Mccool,Gathering,TX
+Cantwell,Gathering,TX
+Ferguson,Gathering,TX
+32-9 Unit 1035,Gathering,TX
+LP Haywire,Gathering,TX
+Duke Ranch 5,Gathering,TX
+Stank,Gathering,TX
+Lake Pasture H440 Gas Injection,Gathering,TX
+Inman A2,Gathering,TX
+Lake Four,Gathering,TX
+Willow Park,Gathering,TX
+Hachar Adcock - 2,Gathering,TX
+Keene,Gathering,TX
+Duke Ranch W,Gathering,TX
+Providence,Gathering,TX
+Migl Quinn 3A,Gathering,TX
+Stovall - 1,Gathering,TX
+Eagle,Gathering,TX
+Acu,Gathering,TX
+Goode 2 1 Lateral,Gathering,TX
+South Comitas,Gathering,TX
+CS - 2000,Gathering,TX
+CS - 600,Gathering,TX
+Dcrc - 366 5,Gathering,TX
+Buchanan South,Gathering,TX
+Lateral B - 117,Gathering,TX
+Garner Mainline,Gathering,TX
+Calandria,Gathering,TX
+Crockett - 3,Gathering,TX
+Oaks,Gathering,TX
+Branch B - 183,Gathering,TX
+Tejas Interconnect,Gathering,TX
+Hamilton,Gathering,TX
+Nan-Su-Gail,Gathering,TX
+Mcmillian,Gathering,TX
+South Fullerton,Gathering,TX
+Tippett 1 Incinerator,Gathering,TX
+Lake Pasture,Gathering,TX
+Armstrong,Gathering,TX
+Wilson,Gathering,TX
+J F Hoover,Gathering,TX
+Denton Creek West,Gathering,TX
+Sabine,Gathering,TX
+Lateral E West Wise,Gathering,TX
+Jaw,Gathering,TX
+Bradford,Gathering,TX
+South East Mayes,Gathering,TX
+Billings Ab Gas Unit - 2,Gathering,TX
+Range,Gathering,TX
+West Henderson,Gathering,TX
+Freeman,Gathering,TX
+Sojourner,Gathering,TX
+Turner,Gathering,TX
+W T Bell,Gathering,TX
+Slocum,Gathering,TX
+Ktv Betzel,Gathering,TX
+CS - Williams,Gathering,TX
+West Ranch 2-42-2,Gathering,TX
+Ballow,Gathering,TX
+Honkin Onken,Gathering,TX
+Odom,Gathering,TX
+South Bald Prairie,Gathering,TX
+Worsham,Gathering,TX
+Cleburne,Gathering,TX
+Kunkle,Gathering,TX
+Pecan Valley,Gathering,TX
+Duke Ranch S,Gathering,TX
+Mansfield,Gathering,TX
+Georges Creek,Gathering,TX
+Duke Ranch F,Gathering,TX
+Duke Ranch J,Gathering,TX
+Lateral E - 18,Gathering,TX
+Cole Trust Mt Enc,Gathering,TX
+Sewell,Gathering,TX
+Cusenbary,Gathering,TX
+Leonardo Central,Gathering,TX
+Turlington Mp Central,Gathering,TX
+Hay Co Gas Lift,Gathering,TX
+Boles Field,Gathering,TX
+Dcrc - 75,Gathering,TX
+Railhead,Gathering,TX
+Tobasco Central,Gathering,TX
+Paloma Lease 2,Gathering,TX
+Jennings,Gathering,TX
+Bradley,Gathering,TX
+Crawford,Gathering,TX
+Wagner Brown,Gathering,TX
+Little Bullard,Gathering,TX
+Bellview,Gathering,TX
+Dorc 57,Gathering,TX
+Dcrc Ellie - C,Gathering,TX
+Glasscock,Gathering,TX
+Battery - 17,Gathering,TX
+Vinson,Gathering,TX
+CS - 500,Gathering,TX
+Millsap,Gathering,TX
+Mcfarland,Gathering,TX
+Bryant G Devonian Unit,Gathering,TX
+Bellevue,Gathering,TX
+East Lake Creek,Gathering,TX
+Cherryhomes,Gathering,TX
+CS - 800,Gathering,TX
+Moran,Gathering,TX
+Tall City,Gathering,TX
+Hogtown,Gathering,TX
+Mendell Estate 36,Gathering,TX
+CS - 11,Gathering,TX
+Justin,Gathering,TX
+Raccoon Bend,Gathering,TX
+Meadows,Gathering,TX
+Tcb Canelo,Gathering,TX
+Pittman,Gathering,TX
+Pinehurst,Gathering,TX
+Ponderosa,Gathering,TX
+Graham J,Gathering,TX
+Good,Gathering,TX
+Fields,Gathering,TX
+Escondido,Gathering,TX
+Former CTB,Gathering,TX
+B - 4,Gathering,TX
+Lateral C,Gathering,TX
+Imperial - 1,Gathering,TX
+Alexander - A3,Gathering,TX
+West Ranch South 4 5-4,Gathering,TX
+Bransom South,Gathering,TX
+Brachfield Field Jarrell Sparkman,Gathering,TX
+Coca Cola,Gathering,TX
+Sooner,Gathering,TX
+Ruben Flores,Gathering,TX
+Hunt,Gathering,TX
+O M Laurel Estate,Gathering,TX
+Lopez Trevino,Gathering,TX
+Sgs North,Gathering,TX
+Haney Azle,Gathering,TX
+Deady - 1,Gathering,TX
+Toc Manifold - 18,Gathering,TX
+Longfellow 4 - 6,Gathering,TX
+Ezell,Gathering,TX
+Longfellow 4 - 29,Gathering,TX
+Pinon - 2,Gathering,TX
+Kd Livestock,Gathering,TX
+Bunny Leach,Gathering,TX
+Shelby - 3,Gathering,TX
+Bruni Summers Booster,Gathering,TX
+Emma Hastedt 1,Gathering,TX
+University B2,Gathering,TX
+Dean Ranch,Gathering,TX
+23-10 Unit 1027,Gathering,TX
+Freestone Booster - 3,Gathering,TX
+West Walsh Ranch,Gathering,TX
+Freestone Booster - 2,Gathering,TX
+Duke Ranch C,Gathering,TX
+King,Gathering,TX
+Hillboldt,Gathering,TX
+Jeffers,Gathering,TX
+Duke Ranch M,Gathering,TX
+Kenedy,Gathering,TX
+Satellite - 1A,Gathering,TX
+Whitehead,Gathering,TX
+Trophy Club,Gathering,TX
+Maloney Gu,Gathering,TX
+Marine Creek,Gathering,TX
+Martinez Coates CS And Martinez Tank Battery,Gathering,TX
+Cox B - 13,Gathering,TX
+Trawick,Gathering,TX
+Seattle,Gathering,TX
+Dry Hollow,Gathering,TX
+Ledbetter - A1,Gathering,TX
+Yard,Gathering,TX
+Walton Common Point,Gathering,TX
+North Bob West,Gathering,TX
+Brandy Branch,Gathering,TX
+Mecom Ranch - 9,Gathering,TX
+Vidaurri Lateral,Gathering,TX
+Hughes Ranch F 1,Gathering,TX
+Mcmurray,Gathering,TX
+King Butler,Gathering,TX
+Lyons 2,Gathering,TX
+Francis Hill,Gathering,TX
+Wizard Wells,Gathering,TX
+CS - 200,Gathering,TX
+Bluebox,Gathering,TX
+Reagan County - 2,Gathering,TX
+Juno,Gathering,TX
+Anahuac,Gathering,TX
+Burkett,Gathering,TX
+CS - Duke,Gathering,TX
+South Decatur,Gathering,TX
+Puckett,Gathering,TX
+Hardin County,Gathering,TX
+Mercantile,Gathering,TX
+Carl T Hester,Gathering,TX
+Decleva,Gathering,TX
+Oak Hill,Gathering,TX
+Larica,Gathering,TX
+Friendswood Booster - 4,Gathering,TX
+Anahuac,Gathering,TX
+River Bluff Ranch C Pad,Gathering,TX
+Mercer Ranch 301H 302H 303H,Gathering,TX
+Forestburg,Gathering,TX
+Madrone,Gathering,TX
+Vielmann Perez Cuellar,Gathering,TX
+Blocker,Gathering,TX
+Pate,Gathering,TX
+Hooks,Gathering,TX
+Jc Bell,Gathering,TX
+Walling,Gathering,TX
+Iron Horse,Gathering,TX
+Southwest Cleburne,Gathering,TX
+Fryer,Gathering,TX
+Threemont,Gathering,TX
+Get Cheney Lor,Gathering,TX
+Smith,Gathering,TX
+Condor,Gathering,TX
+Huey,Gathering,TX
+Swallow - 2,Gathering,TX
+CS - 36,Gathering,TX
+Douglass North Hayter Trust,Gathering,TX
+Steed,Gathering,TX
+Bass Daniels,Gathering,TX
+Western,Gathering,TX
+Yeary - 2,Gathering,TX
+La Perla - 97,Gathering,TX
+Hudspeth Hospital,Gathering,TX
+Busby,Gathering,TX
+De Los Santos - 1,Gathering,TX
+Fr Hill,Gathering,TX
+Rogers,Gathering,TX
+Birdsong,Gathering,TX
+Munoz - 5,Gathering,TX
+Hays,Gathering,TX
+Stiles,Gathering,TX
+Decordova,Gathering,TX
+Matthews,Gathering,TX
+Texaco - 7,Gathering,TX
+Pioneer,Gathering,TX
+Bright Star Alabama Ferry,Gathering,TX
+West Decatur,Gathering,TX
+Stavinoha,Gathering,TX
+Taft,Gathering,TX
+Mcalister,Gathering,TX
+Steen - 47,Gathering,TX
+Graham Ranch,Gathering,TX
+Moody,Gathering,TX
+Wichita Falls,Gathering,TX
+Seminole B,Transmission,TX
+Husky,Gathering,TX
+Hill Lake,Storage,TX
+Alliance,Gathering,TX
+Cargray,Transmission,TX
+Pampa B,Transmission,TX
+Brentwood CF,Gathering,TX
+Gibtown,Gathering,TX
+Graham,Gathering,TX
+Gomez,Transmission,TX
+Sycamore CF,Gathering,TX
+Johnson St CF,Gathering,TX
+Reed CF & SWD,Gathering,TX
+Harbison-Fishr CF,Gathering,TX
+Quail CF,Gathering,TX
+Cleburne CF,Gathering,TX
+Edgecliff CF,Gathering,TX
+Montgomery CF,Gathering,TX
+Godley CF,Gathering,TX
+4Th St Partners CF,Gathering,TX
+Crowley Mins CF,Gathering,TX
+Quail North CF,Gathering,TX
+Hudson Delga CF,Gathering,TX
+Mitchell CF,Gathering,TX
+Paloma CF,Gathering,TX
+Mercado CF,Gathering,TX
+S&B CF,Gathering,TX
+Douglas Plant,Gathering,TX
+Allison CF,Gathering,TX
+Walnut Creek CF,Gathering,TX
+Little Hoss CF,Gathering,TX
+Guadalupe CF,Gathering,TX
+Lewisville CF,Gathering,TX
+Salt Creek CF,Gathering,TX
+Tom McKnight CF,Gathering,TX
+Ponder,Gathering,TX
+Justin,Gathering,TX
+Tour 18,Gathering,TX
+TRWD,Gathering,TX
+Blue Mound,Gathering,TX
+Jarvis,Gathering,TX
+White Settlement,Gathering,TX
+Goforth,Gathering,TX
+Winscott,Gathering,TX
+Crouch,Gathering,TX
+Isbell,Gathering,TX
+Godley,Gathering,TX
+South Johnson County,Gathering,TX
+Newell,Gathering,TX
+Cook,Gathering,TX
+Waller,Gathering,TX
+Ibex,Gathering,TX
+Van Winkle,Gathering,TX
+Parker,Transmission,TX
+Maggie,Gathering,TX
+Hazel,Gathering,TX
+Woodson,Gathering,TX
+Veale,Gathering,TX
+Ivan,Gathering,TX
+Paint Creek,Transmission,TX
+Cobb,Gathering,TX
+Matthews,Gathering,TX
+Kay,Gathering,TX
+Whitaker,Gathering,TX
+Miller Bend,Gathering,TX
+Clark,Gathering,TX
+Gibson,Gathering,TX
+South Bend,Gathering,TX
+Bunger,Gathering,TX
+North Shore,Gathering,TX
+Dark Canyon,Gathering,TX
+Black Hawk,Gathering,TX
+Graham East,Gathering,TX
+Perrin,Gathering,TX
+Wizard Wells,Gathering,TX
+Ashe,Gathering,TX
+Jaw,Gathering,TX
+Hanna,Gathering,TX
+Bryah,Gathering,TX
+Boyd,Gathering,TX
+Denton,Gathering,TX
+Fletcher,Gathering,TX
+Waggoner,Gathering,TX
+Decatur,Gathering,TX
+Cherryholmes,Gathering,TX
+Brannon,Gathering,TX
+Catlin,Gathering,TX
+Sunset,Gathering,TX
+Mansfield,Gathering,TX
+Newport,Gathering,TX
+Prospect,Gathering,TX
+Deer Creek,Gathering,TX
+West Seminole,Gathering,TX
+Black River,Transmission,TX
+Gresham,Transmission,TX
+Collin,Transmission,TX
+Wise,Transmission,TX
+Gomez,Transmission,TX
+VIP,Gathering,TX
+Decordova,Transmission,TX
+Sweetwater,Transmission,TX
+Sherman,Transmission,TX
+CS - 1,Gathering,TX
+P2,Transmission,TX
+Canadian River,Transmission,TX
+Northrup,Gathering,TX
+Hutchinson - 2,Transmission,TX
+Hutchinson - 1,Transmission,TX
+Hemphill - 3,Transmission,TX
+Hemphill - 1,Transmission,TX
+Haiduk,Gathering,TX
+Bobbit,Gathering,TX
+Brownfield Line B,Transmission,TX
+Martin,Transmission,TX
+Stairion - 1,Transmission,TX
+Coyanosa Waha,Transmission,TX
+Bakersfield,Transmission,TX
+Espy,Gathering,TX
+Junction,Transmission,TX
+Sanford,Transmission,TX
+Big Canyon,Transmission,TX
+Bivins,Transmission,TX
+Fourway - 2,Transmission,TX
+Pecos River,Transmission,TX
+El Dorado,Transmission,TX
+Ozoma,Transmission,TX
+Vealmoor,Transmission,TX
+Waha,Transmission,TX
+Perryton,Transmission,TX
+Hansford,Transmission,TX
+Hemphill - 2,Transmission,TX
+Gageby Creek,Gathering,TX
+Miller CF,Gathering,TX
+Plains,Transmission,TX
+Tarzan,Transmission,TX
+Garden City,Transmission,TX
+Reagan - 2,Transmission,TX
+Crane,Transmission,TX
+Waddell,Transmission,TX
+Amoco-Butz,Transmission,TX
+Puckett Plant,Transmission,TX
+Pecos,Transmission,TX
+Grey Ranch,Transmission,TX
+Irion - 1,Transmission,TX
+Terrell,Transmission,TX
+Sonora,Transmission,TX
+Lively,Gathering,TX
+Sonora,Transmission,TX
+Bandera,Transmission,TX
+Apollo CF,Gathering,TX
+Rio Vista CF,Gathering,TX
+Copperhead CF,Gathering,TX
+Cisco,Transmission,TX
+Stamper,Storage,TX
+CS - 120,Transmission,TX
+Bridgeport,Gathering,TX
+East Chico,Gathering,TX
+Sitz,Gathering,TX
+Ponder CF,Gathering,TX
+Parrot CF,Gathering,TX
+Cotton Belt CF,Gathering,TX
+Central,Transmission,TX
+Midlothian CF,Gathering,TX
+Soap Creek CF,Gathering,TX
+Howard,Transmission,TX
+Wills Point,Transmission,TX
+Myrtle Springs,Gathering,TX
+Cooper,Transmission,TX
+Paris,Transmission,TX
+Spearman,Gathering,TX
+CS - 3,Transmission,TX
+Sunray,Transmission,TX
+Burnett,Gathering,TX
+Claude - Line B,Transmission,TX
+Plainview B,Transmission,TX
+Keystone,Transmission,TX
+W-2,Transmission,TX
+Wink,Transmission,TX
+Coyanosa,Transmission,TX
+Sand Springs CF,Gathering,TX
+Guadalupe,Transmission,TX
+Hueco,Transmission,TX
+Provident City,Transmission,TX
+Dos Hermanos CF,Gathering,TX
+Leona CF,Gathering,TX
+Pena Creek CF,Gathering,TX
+Catarina CF,Gathering,TX
+Dilley CF,Gathering,TX
+Traylor CF,Gathering,TX
+Hidden Valley CF,Gathering,TX
+Escondido CF,Gathering,TX
+Fox Creek CF,Gathering,TX
+Javelina CF,Gathering,TX
+Jea CF,Gathering,TX
+Frio CF,Gathering,TX
+Light CF,Gathering,TX
+Nopal CF,Gathering,TX
+Strait CF,Gathering,TX
+Roleta East CF,Gathering,TX
+Maude Traylor CF,Gathering,TX
+Maude Traylor A2,Gathering,TX
+Siesta CF,Gathering,TX
+Overton CF,Gathering,TX
+Decker Switch CF,Gathering,TX
+Bluebird CF,Gathering,TX
+Barsola CF,Gathering,TX
+Wells CF,Gathering,TX
+North Zulch CF,Gathering,TX
+Wheelock CF,Gathering,TX
+Taft,Transmission,TX
+Welder,Transmission,TX
+Fagan,Transmission,TX
+Texana,Transmission,TX
+Winnie,Gathering,TX
+Dishman,Gathering,TX
+Bobcat,Gathering,TX
+Tyler Co,Gathering,TX
+Texaco - 7,Gathering,TX
+Refugio,Transmission,TX
+Victoria,Transmission,TX
+Port Lavaca,Transmission,TX
+Bay City,Transmission,TX
+Manvel,Transmission,TX
+TGPL Sabine,Transmission,TX
+Sabine PL Port Neaches,Transmission,TX
+Vidor,Transmission,TX
+MLV 10,Transmission,TX
+McMullen,Transmission,TX
+Nueces,Transmission,TX
+Thompsonville,Transmission,TX
+Armstrong,Transmission,TX
+Beckville,Gathering,TX
+Gillring,Transmission,TX
+Agua Dulce,Transmission,TX
+Sedwick,Transmission,TX
+Yeary,Gathering,TX
+Falfurias,Gathering,TX
+Penitas,Transmission,TX
+Bel Junction,Transmission,TX
+Flores,Gathering,TX
+Margo,Transmission,TX
+Rachal,Gathering,TX
+Agua Nueva,Gathering,TX
+Zapata,Gathering,TX
+RGV,Gathering,TX
+Ameri-Webb,Transmission,TX
+Webb County,Transmission,TX
+Johns Field,Gathering,TX
+Hartman Ranch,Transmission,TX
+Freer,Transmission,TX
+Encinal,Transmission,TX
+Piloncillo,Transmission,TX
+Carrizo Springs,Transmission,TX
+Dimmit County,Transmission,TX
+Bracero,Transmission,TX
+EDNA,Transmission,TX
+Transco-Markham,Transmission,TX
+Bay City,Transmission,TX
+Sweeny,Transmission,TX
+Carthage,Transmission,TX
+KM Texas - 1,Transmission,TX
+Freer,Transmission,TX
+Kenedy,Transmission,TX
+Katy,Transmission,TX
+Sugarland,Transmission,TX
+Dimmit,Transmission,TX
+Brisco,Transmission,TX
+Rosenberg,Gathering,TX
+Katy,Transmission,TX
+Monco,Gathering,TX
+Monterey,Transmission,TX
+Gilmer,Gathering,TX
+Tri-Cities Storage,Storage,TX
+Winchester,Gathering,TX
+Burnell,Transmission,TX
+Kenedy,Transmission,TX
+CS - 9,Transmission,TX
+Expando,Gathering,TX
+Hagist,Transmission,TX
+Hanover,Transmission,TX
+CS - 2,Transmission,TX
+CS - 4,Transmission,TX
+Waskom,Transmission,TX
+CS - 10,Transmission,TX
+Sabine,Transmission,TX
+Jasper - 32,Transmission,TX
+Kountze - 40,Transmission,TX
+Cypress - 31,Transmission,TX
+CS - 4,Transmission,TX
+CS - 5,Transmission,TX
+Refugio - 20,Transmission,TX
+Sour Lake - 40,Transmission,TX
+El Campo - 30,Transmission,TX
+Beeville - 16,Transmission,TX
+CS - 3,Transmission,TX
+CS - 6,Transmission,TX
+Boling - 4,Transmission,TX
+Magasco - 2,Transmission,TX
+Latex,Transmission,TX
+Mineola,Transmission,TX
+Longview II,Transmission,TX
+Longview,Transmission,TX
+Goodrich - 2,Transmission,TX
+Edna,Transmission,TX
+Refugio,Transmission,TX
+Panola,Transmission,TX
+Atlanta - 2,Transmission,TX
+Joaquin,Transmission,TX
+Blessing,Transmission,TX
+Charco,Transmission,TX
+Thomaston,Transmission,TX
+Collinwood - 555,Transmission,TN
+Centerville KP - 860,Transmission,TN
+Centerville DP - 860,Transmission,TN
+Savannah - 856,Transmission,TN
+Portland - 87 to NP,Transmission,TN
+Portland - 87 KP to NP,Transmission,TN
+Portland - 87 KP,Transmission,TN
+Middleton - 71,Transmission,TN
+CS - 3212,Transmission,TN
+CS - 3108,Transmission,TN
+CS - 3105,Transmission,TN
+CS-  4,Transmission,TN
+CS - 3,Transmission,TN
+Portland - 2101,Transmission,TN
+Covington Mainline,Transmission,TN
+Brownsville,Transmission,TN
+Wartburg - 3110,Transmission,TN
+Gainesboro,Transmission,TN
+Dixon Springs - 3104,Transmission,TN
+Ridgetop - 3101,Transmission,TN
+Monterey - 3107,Transmission,TN
+Bristol,Transmission,TN
+Flat Moods - 3306,Transmission,TN
+Boyds Creek,Transmission,TN
+Maryville - 3219,Transmission,TN
+Madisonville - 3217,Transmission,TN
+Calhoun,Transmission,TN
+Ocltewah - 3214,Transmission,TN
+Tracy City - 3210,Transmission,TN
+Estill Springs - 3209,Transmission,TN
+Lewisburg - 3206,Transmission,TN
+Lobelville - 79,Transmission,TN
+Kenton,Transmission,TN
+Hartsville,Transmission,TN
+Cottage Grove,Transmission,TN
+Mount Pleasant,Transmission,TN
+Gladeville,Transmission,TN
+Dyersburg - 93,Transmission,TN
+Hampshire,Transmission,TN
+Lobelville - 3201,Transmission,TN
+Clark Range,Transmission,TN
+Fordtown 3308,Transmission,TN
+Belle Fourche,Transmission,SD
+Spartanburg - 140,Transmission,SC
+"Burrillville 30"" - 121",Transmission,RI
+"Burrillville 24"" - 120",Transmission,RI
+Southbridge - 265E,Transmission,RI
+Pigeon (Kane) - 307,Transmission,PA
+Ellisburg,Storage,PA
+CS - 219 - Mercer to 307,Transmission,PA
+CS - 219 - Mercer to 224,Transmission,PA
+Cookport Area 8 - 11,Transmission,PA
+Waynesburg Area 8 - 4,Transmission,PA
+Hellertown Area 4 - 9,Transmission,PA
+Ellwood City Area 8 - 2,Transmission,PA
+Easton Area 4 - 7-2,Transmission,PA
+Easton Area 4 - 7,Transmission,PA
+Downingtown Area 4 - 6A,Transmission,PA
+Downingtown Area 4 - 6B,Transmission,PA
+Connellsville - 21A,Transmission,PA
+Leidy-Tamarack Storage - 530,Storage,PA
+Malvern - 200,Transmission,PA
+Rockwood,Transmission,PA
+Phoenixville - 25,Transmission,PA
+Perulack A,Transmission,PA
+Perulack B,Transmission,PA
+Perulack R,Transmission,PA
+Oakford,Storage,PA
+Leidy,Transmission,PA
+Connellsville - 21Ab,Transmission,PA
+Wind Ridge,Transmission,PA
+Ellisburg Trans,Transmission,PA
+Ellisburg Storage,Storage,PA
+Lumber City,Gathering,PA
+Adams,Transmission,PA
+CS - - 1,Gathering,PA
+Avery,Gathering,PA
+Corp Renovo,Gathering,PA
+Lafayette,Gathering,PA
+Dilltown,Gathering,PA
+Henderson,Gathering,PA
+Henry,Gathering,PA
+Coal Gas Recovery Dd 14 16,Gathering,PA
+Buffalo,Gathering,PA
+Hurtt,Gathering,PA
+Rochester Mills,Gathering,PA
+Fairman Himes,Gathering,PA
+Dickey,Gathering,PA
+Jackson Ctr,Gathering,PA
+Daleville,Gathering,PA
+Tyler,Gathering,PA
+Caiman Penn,Gathering,PA
+Miller Connect,Gathering,PA
+Ernest,Gathering,PA
+Brown,Gathering,PA
+Grampian,Gathering,PA
+Donegal,Gathering,PA
+Kuhl,Gathering,PA
+Mushroom Mine,Gathering,PA
+Hogback,Gathering,PA
+Welling,Gathering,PA
+Snow Shoe Twp,Gathering,PA
+Vecchio,Gathering,PA
+Brink,Gathering,PA
+O'Brien-Somerset,Gathering,PA
+Jefferson,Gathering,PA
+Ranger Mt/Laurel Ridge,Transmission,PA
+Home Camp,Transmission,PA
+Gordon,Transmission,PA
+CS - 303,Transmission,PA
+McClellandtown,Transmission,PA
+CS - Columbia Gas,Transmission,PA
+Homer City,Transmission,PA
+Nolo,Transmission,PA
+Black Commodore,Transmission,PA
+Petrus,Transmission,PA
+Lomak Peterman,Transmission,PA
+Meadville (Inactive),Gathering,PA
+Kaylor,Distribution,PA
+Eldred,Transmission,PA
+Steckman Ridge,Storage,PA
+Donegal,Transmission,PA
+Gettysburg Area 4 - 2,Transmission,PA
+Henderson,Storage,PA
+Heath,Transmission,PA
+Sackett,Transmission,PA
+Eagle,Transmission,PA
+Delmont,Transmission,PA
+Marietta - 24A,Transmission,PA
+Armagh,Transmission,PA
+Entriken,Transmission,PA
+Grantville,Transmission,PA
+Knox,Storage,PA
+Shermans Dale,Transmission,PA
+Chambesburg - 23,Transmission,PA
+Bedford - 22A,Transmission,PA
+Salisbury Area 8 - 6,Transmission,PA
+Greencastle Area 3 - 2,Transmission,PA
+Marietta Area 4 - 4,Transmission,PA
+Bechtelsville,Transmission,PA
+Delta - 195,Transmission,PA
+Bernville,Transmission,PA
+Van,Transmission,PA
+Marienville - 307,Transmission,PA
+Dice,Storage,PA
+Delmont Area 8 - 7,Transmission,PA
+Gamble-Hayden,Storage,PA
+Uniontown,Transmission,PA
+Waynesburg,Transmission,PA
+Holbrook,Transmission,PA
+Gibson,Transmission,PA
+Eagle Area 4 - 5,Transmission,PA
+Lilly,Transmission,PA
+Bear Station - 515,Transmission,PA
+Benton - 517,Transmission,PA
+Troy - 317,Transmission,PA
+Salladasburg - 520,Transmission,PA
+Jefferson  CF,Gathering,PA
+CS - Columbia Gas,Transmission,PA
+Milford Area 4 - 8,Transmission,PA
+W. Clifford - 321,Transmission,PA
+Wyalusing - 319,Transmission,PA
+Lamont,Transmission,PA
+Wharton Storage - 535,Transmission,PA
+East Fork,Transmission,PA
+CS - 310,Transmission,PA
+Warder,Gathering,PA
+CS - Norse,Gathering,PA
+CS - Columbia Gas,Transmission,PA
+Port Farms,Transmission,PA
+O'Conner,Transmission,PA
+Waterford,Transmission,PA
+Costello,Transmission,PA
+Union City,Gathering,PA
+Renovo Area 8 - 12,Transmission,PA
+Emporium Area 8 - 13,Transmission,PA
+Summit,Storage,PA
+Wellsboro - 315,Transmission,PA
+Winchester,Transmission,OR
+Oregon City,Transmission,OR
+Baker,Transmission,OR
+Meacham,Transmission,OR
+Albany,Transmission,OR
+McMinnville,Transmission,OR
+Caddo,Gathering,OK
+Carpenter,Gathering,OK
+Mooreland (Dry),Gathering,OK
+Mooreland (Wet),Gathering,OK
+Mocane Stages 1&2,Transmission,OK
+Mocane Stage 3,Transmission,OK
+Keys Main Line - 3,Transmission,OK
+Keyes Fields - 3,Gathering,OK
+Pumpkin Center,Gathering,OK
+Mutual,Transmission,OK
+Beaver Se - 24,Transmission,OK
+Beaver Cd,Transmission,OK
+Beaver Se,Transmission,OK
+Beaver Nw,Transmission,OK
+Beaver Kb,Transmission,OK
+Beaver Cd,Transmission,OK
+Beaver B,Transmission,OK
+Beaver A,Transmission,OK
+Eugene,Transmission,OR
+West Webb Storage,Storage,OK
+Webb,Storage,OK
+Bradley,Gathering,OK
+Clovis,Gathering,OK
+Cogar,Gathering,OK
+Mistletoe,Gathering,OK
+Hardtner,Gathering,OK
+Trm,Gathering,OK
+Muletrain,Gathering,OK
+Red Hills,Gathering,OK
+Amber Junction,Transmission,OK
+Enogex - 2,Transmission,OK
+Wakita,Transmission,OK
+Thomas Tie,Transmission,OK
+Kayser CF,Gathering,OK
+Hobbs CF,Gathering,OK
+Lamar CF,Gathering,OK
+Eakle CF,Gathering,OK
+Lambert CF,Gathering,OK
+Greenfield,Gathering,OK
+Yellowstone CF,Gathering,OK
+Camp Houston CF,Gathering,OK
+Dixie Booster,Gathering,OK
+Spradlin CF,Gathering,OK
+Mercer CF,Gathering,OK
+Ridley CF,Gathering,OK
+Jody,Gathering,OK
+Dyer CF,Gathering,OK
+Prentiss CF,Gathering,OK
+Carlson CF,Gathering,OK
+Hull CF,Gathering,OK
+Helena Booster,Gathering,OK
+Blevins CF,Gathering,OK
+Comanche CF,Gathering,OK
+ANR Booster CF,Gathering,OK
+Burns Flat,Gathering,OK
+Washita River,Gathering,OK
+Indian Nation CF,Gathering,OK
+Davis CF,Gathering,OK
+Mary Ann CF,Gathering,OK
+Longtown CF,Gathering,OK
+Berlin,Gathering,OK
+New Liberty CF,Gathering,OK
+Lenora,Gathering,OK
+Bessie,Gathering,OK
+West Cement CF,Gathering,OK
+Hooker CF,Gathering,OK
+Concrete CF,Gathering,OK
+North Alva CF - 2,Gathering,OK
+Kovar 1-23 CF,Gathering,OK
+Williams CF,Gathering,OK
+LAKE MURRAY CF,Gathering,OK
+Welty,Transmission,OK
+Claremore,Transmission,OK
+Kinta,Transmission,OK
+Fort Cobb,Transmission,OK
+Thomas Plant,Transmission,OK
+Cordell,Transmission,OK
+Bennington,Transmission,OK
+Drumright,Transmission,OK
+Ivanhoe,Transmission,OK
+Beaver - 1,Transmission,OK
+Ellis - 1,Transmission,OK
+Ellis - 2,Transmission,OK
+Woodward - 1,Gathering,OK
+Woodward - 2,Gathering,OK
+Woodward - 3,Gathering,OK
+Roger Mills,Transmission,OK
+Beaver - 26,Transmission,OK
+Allen,Storage,OK
+Hinton,Transmission,OK
+Hopeton,Storage,OK
+North Alva CF,Gathering,OK
+Beaver - 6,Gathering,OK
+Beaver - 12,Gathering,OK
+Beaver - 2,Gathering,OK
+Beaver - 3,Transmission,OK
+Beaver - 11,Transmission,OK
+Ellis,Gathering,OK
+Seiling,Transmission,OK
+Alva,Transmission,OK
+Enid,Transmission,OK
+Blackwell,Transmission,OK
+Perry,Transmission,OK
+Hennessey,Transmission,OK
+Cashion,Transmission,OK
+Edmond,Transmission,OK
+North Sayre CF,Gathering,OK
+Custer,Transmission,OK
+Arapaho,Transmission,OK
+Cedar CF,Gathering,OK
+Canute,Gathering,OK
+Kovar CF,Gathering,OK
+Comanche Tie,Transmission,OK
+Pink,Transmission,OK
+Antioch,Transmission,OK
+Enville,Transmission,OK
+Harrah,Transmission,OK
+Northeast Tap,Transmission,OK
+Enogex - 1,Transmission,OK
+Sasakwa,Transmission,OK
+Allen,Transmission,OK
+Stuart,Storage,OK
+Wetumka,Storage,OK
+Hickman CF,Gathering,OK
+Bennington,Transmission,OK
+Chockie CF,Gathering,OK
+Chandler,Transmission,OK
+Boiling Springs,Transmission,OK
+Wadsworth CF,Gathering,OK
+Lequire,Transmission,OK
+Cotton Valley,Transmission,OK
+Sturgis 3B,Transmission,OK
+Defiance,Transmission,OH
+Defiance,Transmission,OH
+Carrollton - 214,Transmission,OH
+Cambridge - 209,Transmission,OH
+Albany - 204,Transmission,OH
+Berne 2,Transmission,OH
+Berne,Transmission,OH
+Lebanon - 16R,Transmission,OH
+Lebanon - 16B,Transmission,OH
+Lebanon - 16A,Transmission,OH
+Glen Karn,Transmission,OH
+Summerfield - 19,Transmission,OH
+Norwalk,Transmission,OH
+Cygnet,Transmission,OH
+Creston,Transmission,OH
+Rich Hill,Distribution,OH
+Rock Camp,Transmission,OH
+Salt Creek,Transmission,OH
+Guernsey,Storage,OH
+Adamsville,Transmission,OH
+Morgan,Transmission,OH
+Crooksville,Transmission,OH
+Perry,Transmission,OH
+Malta,Transmission,OH
+Grimes,Transmission,OH
+Lebanon,Transmission,OH
+Gallia,Transmission,OH
+CS - Columbia Gas,Transmission,OH
+Holmesville,Transmission,OH
+CS - Columbia Gas,Transmission,OH
+CS - Columbia Gas,Transmission,OH
+Holmes,Storage,OH
+Chandlersville,Transmission,OH
+Hamilton,Transmission,OH
+W. Hope,Transmission,OH
+Defiance,Transmission,OH
+Churchtown,Transmission,OH
+Hagan,Transmission,OH
+Elk,Transmission,OH
+York,Storage,OH
+Miley,Transmission,OH
+Cambridge,Transmission,OH
+Meigs,Transmission,OH
+Sarahsville,Transmission,OH
+Athens,Transmission,OH
+Treat,Transmission,OH
+Somerset - 18,Transmission,OH
+Lucas,Storage,OH
+Medina,Transmission,OH
+McArthur,Storage,OH
+Wellington,Storage,OH
+Brinker,Transmission,OH
+Five Points - 17,Transmission,OH
+Weaver,Storage,OH
+Wheelersburg,Transmission,OH
+Pavonia,Storage,OH
+Manning (Valley),Transmission,ND
+Miller-Davis,Gathering,ND
+Cow Creek,Gathering,ND
+Ehlert,Gathering,ND
+Austin,Gathering,ND
+Bottleson,Gathering,ND
+Cormylo,Gathering,ND
+Hunt,Gathering,ND
+CO2 Pipeline Tioga Booster,Gathering,ND
+Blue Buttes,Gathering,ND
+Lodge Pole,Gathering,ND
+Mystery Creek,Gathering,ND
+Tree Top,Gathering,ND
+Rough Rider - 1,Gathering,ND
+Bull Moose - 1,Gathering,ND
+Cherry Creek,Gathering,ND
+Williston,Transmission,ND
+Trenton,Gathering,ND
+Alexander,Gathering,ND
+Charbonneau,Gathering,ND
+Fort Buford,Gathering,ND
+Medicine Pole Hills,Gathering,ND
+South Medicine Pole Hills,Gathering,ND
+Bradac,Gathering,ND
+Dobbs,Gathering,ND
+Winnipeg,Gathering,ND
+Demicks Lake,Gathering,ND
+Silurian,Gathering,ND
+North Charlson,Gathering,ND
+Bdlu Pms - 3,Gathering,ND
+Boxcar Butte,Gathering,ND
+Little Missouri,Gathering,ND
+Della,Gathering,ND
+Bldu Pms - 4,Gathering,ND
+Manning (Dunn),Transmission,ND
+Dickinson,Transmission,ND
+Glen Ullin,Transmission,ND
+Fairmount - 21A,Transmission,ND
+Wimbledon - 19A,Transmission,ND
+Towner - 17A,Transmission,ND
+Bismarck,Transmission,ND
+Cleveland,Transmission,ND
+Pleasant Hill Area 1 - 6,Transmission,NC
+Reidsville - 160,Transmission,NC
+Lexington - 155,Transmission,NC
+Davidson - 150,Transmission,NC
+Grover - 145,Transmission,NC
+"Stony Point 30"" - 101",Transmission,NY
+"Southeast 30"" - 140",Transmission,NY
+Lockport - 230C,Transmission,NY
+Hamburg - 229,Transmission,NY
+Geneseo - 233,Transmission,NY
+East Aurora 230-B,Transmission,NY
+Clymer - 224,Transmission,NY
+Clifton Springs - 237,Transmission,NY
+Carlisle - 249,Transmission,NY
+West Winfield - 245,Transmission,NY
+Syracuse - 241,Transmission,NY
+Nassau - 254,Transmission,NY
+Catlin Hill,Gathering,NY
+CS  - 405A,Transmission,NY
+Dunbar,Gathering,NY
+Hunts Point,Transmission,NY
+Oakfield,Transmission,NY
+Concord,Transmission,NY
+Corning,Transmission,NY
+Erin,Gathering,NY
+CS - Columbia Gas,Transmission,NY
+Bloomfield B,Transmission,NM
+Bloomfield A,Transmission,NM
+Ship Rock,Transmission,NM
+Roswell East Flow,Transmission,NM
+Roswell West Flow,Transmission,NM
+Monument A,Transmission,NM
+Monument B,Transmission,NM
+Lincoln West Flow,Transmission,NM
+Lincoln East Flow,Transmission,NM
+Laguna West Flow,Transmission,NM
+Laguna East Flow,Transmission,NM
+Florida  30 & 26,Transmission,NM
+Gallup,Transmission,NM
+Washington Ranch Storage Withdrawal,Storage,NM
+CS - 4,Transmission,NM
+"Lordsburg 30"" High Pressure",Transmission,NM
+"Lordsburg 30 & 26""",Transmission,NM
+Caprock West Flow,Transmission,NM
+Caprock East Flow,Transmission,NM
+Bluewater (West Flow),Transmission,NM
+Bluewater (East Flow),Transmission,NM
+Belen West Flow,Transmission,NM
+Belen East Flow,Transmission,NM
+Blanco Colorado Dry,Transmission,NM
+Blanco Val Verde,Transmission,NM
+Gallup B - 2-24,Transmission,NM
+Gallup C - 34,Transmission,NM
+"Florida  30"" High Pressure",Transmission,NM
+Eunice - C,Transmission,NM
+Eunice - B,Transmission,NM
+Pump Canyon,Gathering,NM
+VPR A2,Gathering,NM
+Hamilton Federal - 2,Gathering,NM
+Rattlesnake,Gathering,NM
+Turley 3B-1,Gathering,NM
+Frances Mesa,Gathering,NM
+Sims Mesa,Gathering,NM
+Pump Mesa,Gathering,NM
+Middle Mesa,Gathering,NM
+Pump Mesa,Gathering,NM
+Ired,Gathering,NM
+Manzanares,Gathering,NM
+Shaw 1R,Gathering,NM
+Quinn,Gathering,NM
+32-8 No 3 Cdp,Gathering,NM
+Hart Canyon,Gathering,NM
+CS - 6,Gathering,NM
+Zachary,Gathering,NM
+Albright,Gathering,NM
+Rudy,Gathering,NM
+Angel Peak Site 3,Gathering,NM
+Potter Canyon,Gathering,NM
+Kutz,Gathering,NM
+Buena Suerte Gcp1-3006,Gathering,NM
+Lindrith,Gathering,NM
+Gobernador/Manzanares,Gathering,NM
+Dogie Canyon,Gathering,NM
+Ballard,Gathering,NM
+Canadian Rivernsr - 3663,Gathering,NM
+Upper York Canyon,Gathering,NM
+Pnm - Star Lake,Gathering,NM
+Cabezon,Gathering,NM
+Espejo,Gathering,NM
+Redondo,Gathering,NM
+Hart Canyon No 1,Gathering,NM
+Lateral - 4,Gathering,NM
+Nebu - 469,Gathering,NM
+Riddle 1R,Gathering,NM
+Gavilan,Gathering,NM
+State Com - 12,Gathering,NM
+CS - 195,Gathering,NM
+State Com L - 8A,Gathering,NM
+Quigley 1R,Gathering,NM
+Childers 1A,Gathering,NM
+Decker A  -1A,Gathering,NM
+Nebu - 425R,Gathering,NM
+Evergreen,Gathering,NM
+Horse Canyon - 1311,Gathering,NM
+Tiger - 5,Gathering,NM
+Arnie No 3,Gathering,NM
+Crandall,Gathering,NM
+Wright,Gathering,NM
+Hilltop,Gathering,NM
+Simpson,Gathering,NM
+Jacquez 2 1220,Gathering,NM
+Angel Peak Site 2,Gathering,NM
+Hamilton Federal - 1A,Gathering,NM
+La Plata,Gathering,NM
+State,Gathering,NM
+Mcdermott,Gathering,NM
+30-8 Cdp,Gathering,NM
+Gallegos Canyon,Gathering,NM
+Hart Canyon No 3,Gathering,NM
+Newberry LS - 2B 2363,Gathering,NM
+Mccoy Gc C1/D1,Gathering,NM
+State Com Ad No26 Cdp,Gathering,NM
+Gallegos,Gathering,NM
+R 14A No1170,Gathering,NM
+Primo Federal - 1,Gathering,NM
+Lewis Park 101,Gathering,NM
+Grassy Canyon,Gathering,NM
+CS,Gathering,NM
+Nebu - 465,Gathering,NM
+S 30-8,Gathering,NM
+Gallefos 3-C,Gathering,NM
+Horton 1A,Gathering,NM
+State Com J 6 Cdp,Gathering,NM
+State Com N - 10A,Gathering,NM
+CS - 8,Gathering,NM
+Rowland A - 1,Gathering,NM
+Crouch Mesa,Gathering,NM
+Bisti,Gathering,NM
+Crandall,Gathering,NM
+North Dufers Point,Gathering,NM
+Hart Canyon No 2,Gathering,NM
+Hart Canyon No 1,Gathering,NM
+State R - 14A,Gathering,NM
+State H - 4,Gathering,NM
+Lateral - 4,Gathering,NM
+Star Lake,Gathering,NM
+Kenny,Gathering,NM
+Sandstone,Gathering,NM
+Hammond Ditch,Gathering,NM
+Bisti - 4,Gathering,NM
+Rosa,Gathering,NM
+Lateral 11D1,Gathering,NM
+NM North,Gathering,NM
+Huerfano,Gathering,NM
+Suter 1A,Gathering,NM
+CS - 3A1099,Gathering,NM
+Scott 2R,Gathering,NM
+Arch Rock,Gathering,NM
+Rattlesnake Canyon,Gathering,NM
+Gardner C3A,Gathering,NM
+Aztec Com No 3-32,Gathering,NM
+Otero,Gathering,NM
+State Com S - 15,Gathering,NM
+Apache - 14,Gathering,NM
+Van Bremmer,Gathering,NM
+Prieta Mesa,Gathering,NM
+Pine River,Gathering,NM
+Gartner A  -11,Gathering,NM
+Carracas Mesa,Gathering,NM
+Gardner C1,Gathering,NM
+Hut No 1 - 8,Gathering,NM
+Culpepper,Gathering,NM
+Martinez Canyon,Gathering,NM
+CS - 355,Gathering,NM
+Fed State - 2,Gathering,NM
+Pinon Mesa,Gathering,NM
+CS - 1E,Gathering,NM
+Gavilan Cdp,Gathering,NM
+La Cosa,Gathering,NM
+Suter Federal - 4,Gathering,NM
+Jicarilla,Gathering,NM
+VPR A - 2304,Gathering,NM
+Quine - 2,Gathering,NM
+Navajo  Cdp,Gathering,NM
+Trunk B,Gathering,NM
+Coyote Springs,Gathering,NM
+Pritchard Straddle,Gathering,NM
+Pump Canyon Swd - 1,Gathering,NM
+Gardner C1A,Gathering,NM
+Brown,Gathering,NM
+Carson,Gathering,NM
+State Com N - 10,Gathering,NM
+Mccroden,Gathering,NM
+Kutz Canyon CDP - 2,Gathering,NM
+Turner B Com - 1&250S,Gathering,NM
+Carson 202,Gathering,NM
+Salty Dog - 2,Gathering,NM
+South Carlsbad,Gathering,NM
+Roaring Springs,Gathering,NM
+Penasco,Gathering,NM
+Lone Wolf,Gathering,NM
+Atoka - 1,Transmission,NM
+Shoebar,Gathering,NM
+Lovington,Gathering,NM
+Bagley,Gathering,NM
+State Comm 23 - 1,Gathering,NM
+Burton Flats,Gathering,NM
+Karlsbad Corral,Gathering,NM
+Pitchfork Ranch Secondary,Gathering,NM
+Antelope Ridge,Gathering,NM
+La Rue,Gathering,NM
+South Eunice,Gathering,NM
+Eunice,Gathering,NM
+Teague Switch,Gathering,NM
+Jal - 4,Gathering,NM
+Grobe,Gathering,NM
+Jal South,Gathering,NM
+Cotton Draw,Gathering,NM
+Arnold Federal,Gathering,NM
+Maljamar,Gathering,NM
+State 35,Gathering,NM
+Buckeye,Gathering,NM
+Apex,Gathering,NM
+Redel - 511M1,Gathering,NM
+Skaggs Mcgee,Gathering,NM
+West Eunice,Gathering,NM
+Mcdonald 99 - 1,Gathering,NM
+New Crawford,Gathering,NM
+Old Ranch Canyon,Gathering,NM
+Four Dinkus Gcp4-3091,Gathering,NM
+Sand Tank,Gathering,NM
+Grama Ridge - 1,Storage,NM
+Aid State,Gathering,NM
+Oryx/Pardue,Gathering,NM
+South Hat Mesa,Gathering,NM
+CS - 457,Gathering,NM
+Kemnitz,Gathering,NM
+Townsend,Gathering,NM
+House  Gcp1-2075,Gathering,NM
+Trestle,Gathering,NM
+Eunice North,Gathering,NM
+Northland Sour,Gathering,NM
+Buffalo Valley Gcp4-1907,Gathering,NM
+East Indian Basin Cf,Gathering,NM
+Old Ranch A,Gathering,NM
+7 Rivers Draw,Gathering,NM
+Bitter Lake,Gathering,NM
+Red Bluff - 1,Gathering,NM
+Red Bluff - 5 414M2,Gathering,NM
+Warren Mckee - 544,Gathering,NM
+Livingston Rdg 972M1,Gathering,NM
+576M1,Gathering,NM
+Dublin Ranch,Gathering,NM
+Eddy No 2,Gathering,NM
+Thc Ranch,Gathering,NM
+Box,Gathering,NM
+Phillips,Gathering,NM
+Dogtown Gcp4-4762,Gathering,NM
+Loco Hills,Gathering,NM
+CS - Southern Union,Gathering,NM
+Rb Central 1130,Gathering,NM
+Red Bluff - 6 415M1,Gathering,NM
+Crossroads,Gathering,NM
+Red Lake,Gathering,NM
+Shugart,Gathering,NM
+Grama Ridge - 2,Gathering,NM
+Federal South - 1,Gathering,NM
+Huber Moore,Gathering,NM
+Bootleg Ridge,Gathering,NM
+Gpm Mandano No1329,Gathering,NM
+Federal 33 - 1,Gathering,NM
+Penroc,Gathering,NM
+Wog No 1,Gathering,NM
+Big Eddy Gcp1-2512,Gathering,NM
+Sauza,Gathering,NM
+Mcdonald Epng - 1164,Gathering,NM
+Loving,Gathering,NM
+Salt Draw Gcp4-4681,Gathering,NM
+Bunnel - 2,Gathering,NM
+West Blevins Gcp1-3814,Gathering,NM
+Vada,Gathering,NM
+Anderson Ranch,Gathering,NM
+Bogle Flats - 13,Gathering,NM
+Read & Stevens,Gathering,NM
+CS - 3,Gathering,NM
+Grama Ridge - 1A,Gathering,NM
+Double X,Gathering,NM
+Hackberry -1,Gathering,NM
+State K,Gathering,NM
+Cato,Gathering,NM
+Cuadrito - 2723,Gathering,NM
+Bobcat Gcp1-4239,Gathering,NM
+Federal - 1,Gathering,NM
+Fitz,Gathering,NM
+Lowe State - 1 Portable,Gathering,NM
+S Petersen,Gathering,NM
+Paducah,Gathering,NM
+Antelope Rdg - 651,Gathering,NM
+New Mexico Df - 1,Gathering,NM
+Cal/Mon,Gathering,NM
+Algerita,Gathering,NM
+Plant - 2 North,Gathering,NM
+Stinking Draw - 1893,Gathering,NM
+West Turkey Track,Gathering,NM
+Isler II,Gathering,NM
+Grama Ridge Federal - 2,Gathering,NM
+Federal 28 No. 1,Gathering,NM
+Bogle Flats - 16,Gathering,NM
+Anemone Gcp1-1705,Gathering,NM
+White Baby,Gathering,NM
+Pitchfork Ranch - 2194,Gathering,NM
+Exxon,Gathering,NM
+Peterson Com - 1,Gathering,NM
+Black River,Gathering,NM
+Santo Nino - 1711,Gathering,NM
+Mescalero,Gathering,NM
+Urquidez - 2,Gathering,NM
+Burton Flats North,Transmission,NM
+Chalk Bluff,Gathering,NM
+Trailblazer - 2,Gathering,NM
+Delta Fee,Gathering,NM
+Gcp1-4774,Gathering,NM
+Coyote,Gathering,NM
+Cedar Lake,Gathering,NM
+CS - 2,Gathering,NM
+Revelation,Gathering,NM
+Grayburg,Gathering,NM
+Burton Flats,Gathering,NM
+East Maljamar,Gathering,NM
+Levers Federal,Gathering,NM
+Comanche Gcp4-0570,Gathering,NM
+CS - 4,Gathering,NM
+Paige Gcp4-2424,Gathering,NM
+Monument Lateral,Gathering,NM
+Federal 6 - 1,Gathering,NM
+Bogle Flats -10,Gathering,NM
+Black Rivergcp1-1953,Gathering,NM
+Wgi,Gathering,NM
+Ranger Lake,Gathering,NM
+Page,Gathering,NM
+Bogle Flats - 5,Gathering,NM
+Mckittrick - 30,Gathering,NM
+7 Rivers,Gathering,NM
+Pogo,Gathering,NM
+Cotton Draw Well - 64,Gathering,NM
+Catclaw - 1,Gathering,NM
+Catclaw,Gathering,NM
+Rock Tank 4,Gathering,NM
+Federal 33 - 2,Gathering,NM
+Pure Gold 28,Gathering,NM
+Javelina Gcp1-4462,Gathering,NM
+Cavern Gcp1-4210,Gathering,NM
+Bku,Gathering,NM
+Lowe State - 2,Gathering,NM
+Hoc Federal,Gathering,NM
+Chaves - 3,Gathering,NM
+Caviness Ranch,Gathering,NM
+Palmilla Draw,Gathering,NM
+Red Bluff - 2,Gathering,NM
+Salt Creek 358M1,Gathering,NM
+Carrasco Gcp1-2306,Gathering,NM
+Lisa Eib - 1,Gathering,NM
+Roline,Gathering,NM
+Baldridge Canyon 6 - 1,Gathering,NM
+Lakeshore Federal - 2,Gathering,NM
+Federal Helbing 15 - 4,Gathering,NM
+Ne Carlsbad,Gathering,NM
+Kemnitz Wolf,Gathering,NM
+Lea - 19,Transmission,NM
+Hat Mesa - 2285,Gathering,NM
+Bogle Flats - 18,Gathering,NM
+Angel Ranch Gcp1-1592,Gathering,NM
+Muskegon 17 Well 1,Gathering,NM
+Dd Federal,Gathering,NM
+Shugart Booster,Gathering,NM
+Longo,Gathering,NM
+Hickory,Gathering,NM
+Chalk,Gathering,NM
+Frac Cat Gcp4-4221,Gathering,NM
+Lightning 24 Federal - 3320,Gathering,NM
+Exxon 17-2,Gathering,NM
+Winchester,Gathering,NM
+Antelope Ridge,Gathering,NM
+Gladiola,Gathering,NM
+Zingaro,Gathering,NM
+Axis 2 1037M1,Gathering,NM
+Guahada Ridge,Gathering,NM
+Chaves,Gathering,NM
+Buckstate Canyon,Gathering,NM
+CS - 1,Gathering,NM
+Bootleg,Gathering,NM
+Maxus - A1,Gathering,NM
+Bright,Gathering,NM
+Siete - 1203,Gathering,NM
+Da,Gathering,NM
+Rattlesnake,Gathering,NM
+Bough,Gathering,NM
+Scoggin Draw State - 4,Gathering,NM
+Deep Units,Gathering,NM
+Livingston Ridge,Gathering,NM
+Northland Sweet,Gathering,NM
+Dagger Draw,Gathering,NM
+North Carlsbad,Gathering,NM
+Diablo,Gathering,NM
+Roundtop,Gathering,NM
+CS - 1036,Gathering,NM
+Smith Ranch,Gathering,NM
+Red Bluff - 3,Gathering,NM
+Lobo,Gathering,NM
+Avalon,Gathering,NM
+State 32 - 1,Gathering,NM
+Ojo Chiso - 3,Gathering,NM
+Fed 28 - 1,Gathering,NM
+Wantz,Gathering,NM
+Nash Draw,Gathering,NM
+Bright Federal - 2,Gathering,NM
+Nagooltee Peak Facility,Gathering,NM
+Coyote,Gathering,NM
+Mead No4,Gathering,NM
+Maverick 14 Federal - 1,Gathering,NM
+Pen Fed 9-1  Gcp4-3311,Gathering,NM
+Dagger Draw,Gathering,NM
+Nash Draw  Gcp4-3224,Gathering,NM
+B - 3,Gathering,NM
+South Indian Basin,Gathering,NM
+State,Gathering,NM
+Kathleen Gcp4 - 1923,Gathering,NM
+Bogle Flats - 2 Gcp4-1741,Gathering,NM
+Gcp4 4448,Gathering,NM
+Hawk Gcp1-3709,Gathering,NM
+Catclaw Draw Gcp1-3418,Gathering,NM
+Atoka Bank,Gathering,NM
+Fortson Gcp4-3223,Gathering,NM
+CS - Bta,Gathering,NM
+Federal - 5,Gathering,NM
+Sand Tank,Gathering,NM
+Bogle Flats No 16 Gcp1-2473,Gathering,NM
+Pitchfork Ranch Gcp1-2472,Gathering,NM
+North Indian Basin - 11,Gathering,NM
+Gc/Bc Gcp4-4480 C.S.,Gathering,NM
+Tule Field,Gathering,NM
+Cougar Federal - 1,Gathering,NM
+Thames North,Gathering,NM
+Harroun Gcp4-3350,Gathering,NM
+Eland,Gathering,NM
+Shell Federal - 1,Gathering,NM
+Wisetail,Gathering,NM
+Joel-Little Jewell,Gathering,NM
+Adobe,Gathering,NM
+Mesa Arriba,Gathering,NM
+Wright Gcp1-2541,Gathering,NM
+Cabin Lakegcp4-1120,Gathering,NM
+Retriever,Gathering,NM
+Avalon - 360,Gathering,NM
+Vaca,Gathering,NM
+State R - 3,Gathering,NM
+Joy,Gathering,NM
+Winston,Gathering,NM
+Dark Canyon,Gathering,NM
+Elk Wallow,Gathering,NM
+New James Ranch  Gcp4 4113,Gathering,NM
+Oil Center,Gathering,NM
+Covington A Federal No 1 Battery,Gathering,NM
+A -14  Gcp4-3489,Gathering,NM
+Trunk A,Gathering,NM
+Gazelle,Gathering,NM
+Thames,Gathering,NM
+Bisti,Transmission,NM
+Ballard,Gathering,NM
+Canada Ojitos,Transmission,NM
+Lee,Transmission,NM
+San Juan River,Transmission,NM
+Valve City,Transmission,NM
+Cedar Hill,Gathering,NM
+Barker Creek,Gathering,NM
+Blanco,Transmission,NM
+CS - 6,Transmission,NM
+Mountainair No. 7,Transmission,NM
+Dagger Draw,Transmission,NM
+Atoka - 3,Transmission,NM
+Atoka - 3,Transmission,NM
+Crawford,Transmission,NM
+Maljamar,Transmission,NM
+WT - 1,Transmission,NM
+Pecos River,Transmission,NM
+P1,Transmission,NM
+Vada,Transmission,NM
+Eunice,Transmission,NM
+Jal,Transmission,NM
+Largo,Transmission,NM
+Rio Vista,Transmission,NM
+Angel Peak,Gathering,NM
+White Rock,Transmission,NM
+Corona,Transmission,NM
+Roswell - 9,Transmission,NM
+Thoreau No. 5,Transmission,NM
+Afton,Transmission,NM
+Red Mountain,Transmission,NM
+Sussex - 325,Transmission,NJ
+Linden - 27,Transmission,NJ
+Linden - 27A,Transmission,NJ
+Lambertville - 26,Transmission,NJ
+Lambertville - 26-R A,Transmission,NJ
+Lambertville - 26-R B,Transmission,NJ
+Freehold,Transmission,NJ
+CS - 207,Transmission,NJ
+Centerville - 505,Transmission,NJ
+Lawrenceville - 205,Transmission,NJ
+CS - 240,Transmission,NJ
+Hanover - 131,Transmission,NJ
+Hanover,Transmission,NJ
+CS - Maritimes,Transmission,NH
+Battle Mountain,Transmission,NV
+Pauite,Transmission,NV
+Pauite,Transmission,NV
+Elko (Palisade),Transmission,NV
+Rye Patch,Transmission,NV
+Lovelock,Transmission,NV
+Winnemucca,Transmission,NV
+Paradise,Transmission,NV
+Goodsprings,Transmission,NV
+Dry Lake,Transmission,NV
+Palmyra A,Transmission,NE
+Palmyra AB,Transmission,NE
+Palmyra BC,Transmission,NE
+Palmyra D,Transmission,NE
+Palmyra ED,Transmission,NE
+Palmyra Hooper A,Transmission,NE
+Palmyra Hooper B,Transmission,NE
+Palmyra Hooper C,Transmission,NE
+Beatrice A,Transmission,NE
+Beatrice B,Transmission,NE
+Beatrice C,Transmission,NE
+Beatrice D,Transmission,NE
+Beatrice E,Transmission,NE
+Steele City,Transmission,NE
+Cabin Creek South,Gathering,MT
+Cabin Creek,Transmission,MT
+Monchy - 394-2,Transmission,MT
+Monchy - 394-1,Transmission,MT
+Three Buttes,Gathering,MT
+Charlie Creek,Gathering,MT
+Vaira,Gathering,MT
+Strawberry Creek,Gathering,MT
+Signal Butte,Gathering,MT
+Battle Creek,Gathering,MT
+Stirling,Gathering,MT
+CS - 103,Gathering,MT
+Bowdoin,Gathering,MT
+Lake Basin,Gathering,MT
+Hardin,Gathering,MT
+Willow Creek,Gathering,MT
+Symons Central,Gathering,MT
+Seven Brothers 35 Battery,Gathering,MT
+Orr,Gathering,MT
+Little Rock,Transmission,MT
+Cattaneo,Gathering,MT
+East Butte,Gathering,MT
+Christina,Gathering,MT
+Lake Francis,Gathering,MT
+Big Sandy - 100,Gathering,MT
+Willow Creek,Gathering,MT
+Lewiston,Gathering,MT
+Gus Blase,Gathering,MT
+CS - 10,Gathering,MT
+Hebron,Gathering,MT
+East Fork,Gathering,MT
+Lien - 3,Gathering,MT
+Big Gumbo,Gathering,MT
+Midway,Gathering,MT
+Ledger Field,Transmission,MT
+Lien - 1,Gathering,MT
+Lien - 2,Gathering,MT
+South Baker,Gathering,MT
+Hardin,Transmission,MT
+Hathaway,Transmission,MT
+Vida,Transmission,MT
+Little Beaver,Transmission,MT
+Monarch,Transmission,MT
+Morgan Creek,Transmission,MT
+Fort Peck,Transmission,MT
+Saco,Transmission,MT
+Centralia 400,Transmission,MO
+Centralia 300,Transmission,MO
+Centralia 200,Transmission,MO
+Poplar Bluff - 2,Transmission,MO
+Poplar Bluff - 1,Transmission,MO
+Centralia 100,Transmission,MO
+Houstonia 400,Transmission,MO
+Houstonia 300,Transmission,MO
+Houstonia 200,Transmission,MO
+Houstonia 100,Transmission,MO
+Columbia - 552,Transmission,MO
+Mexico,Transmission,MO
+Saginaw,Transmission,MO
+Knob Noster - 504,Transmission,MO
+Turney,Transmission,MO
+Peculiar,Transmission,MO
+Lone Jack,Transmission,MO
+Concordia,Transmission,MO
+Maitland,Transmission,MO
+Ste. Genevieve,Transmission,MO
+Twelvemile,Transmission,MO
+Oran - 9,Transmission,MO
+Grenada - 847,Transmission,MS
+CS - 7,Transmission,MS
+CS - 6,Transmission,MS
+CS - 5,Transmission,MS
+Louisville - 2,Transmission,MS
+Louisville - 1,Transmission,MS
+Greenville Mainline,Transmission,MS
+Greenville Field,Transmission,MS
+Tenn/Bear Creek Stg - 2,Gathering,MS
+Enterprise - 1,Transmission,MS
+Dexter,Transmission,MS
+West Baxterville,Gathering,MS
+Baxterville,Gathering,MS
+Pugh,Gathering,MS
+Wiggins - 10,Gathering,MS
+Torch Dexter,Gathering,MS
+Heidelberg,Gathering,MS
+Sandy Hook,Gathering,MS
+Harrisville,Transmission,MS
+Destin,Transmission,MS
+New Albany - 851,Transmission,MS
+Batesville - 63,Transmission,MS
+Columbus - 546,Transmission,MS
+Isola - 843,Transmission,MS
+Greenville - 54,Transmission,MS
+Dekalb - 542,Transmission,MS
+Heidelberg - 538,Transmission,MS
+Purvis - 534,Transmission,MS
+Bay St. Louis - 530,Transmission,MS
+Bay Springs,Transmission,MS
+Pearl River,Transmission,MS
+Pickens,Transmission,MS
+Rankin,Transmission,MS
+Gwinville,Transmission,MS
+Onward,Transmission,MS
+Emminice Storage Field - 77,Storage,MS
+Shaw - 75,Transmission,MS
+Tylertown - 70,Transmission,MS
+Independence - 84,Transmission,MS
+Sandersville - 80,Transmission,MS
+Lake Cormorant Mainline,Transmission,MS
+Clarksdale Mainline,Transmission,MS
+CS - 10,Transmission,MS
+Corinth,Transmission,MS
+Inverness,Transmission,MS
+Banner,Transmission,MS
+Greenville,Transmission,MS
+Sardis,Transmission,MS
+Jackson - 2,Storage,MS
+Mccomb,Transmission,MS
+Kiln,Transmission,MS
+Egypt - 7,Transmission,MS
+Kosciusko,Transmission,MS
+Yazoo,Transmission,MS
+Union Church,Transmission,MS
+Clinton,Transmission,MS
+Owatonna A,Transmission,MN
+Owatonna BCD,Transmission,MN
+Owatonna D,Transmission,MN
+Farmington Wilmer,Transmission,MN
+Farmington Line Bc,Transmission,MN
+Farmington Line A-B,Transmission,MN
+Carlton (Marquette) Line B,Transmission,MN
+Chatfield,Transmission,MN
+Staples - 2213,Transmission,MN
+Hallock - 2201,Transmission,MN
+Popple Creek,Transmission,MN
+Carlton (Mesabi) Line A,Transmission,MN
+La Crescent,Transmission,MN
+Ada - 2207,Transmission,MN
+Angus - 2204,Transmission,MN
+Alexandria,Transmission,MN
+Frazee - 2210,Transmission,MN
+Olivia - 23A,Transmission,MN
+Wrenshall,Transmission,MN
+Fairbault - BC,Transmission,MN
+Albert Lea - 25A,Transmission,MN
+Hugo Line B,Transmission,MN
+North Branch Line B,Transmission,MN
+Milaca - 2217,Transmission,MN
+Bridgman Tie Line,Transmission,MI
+Bridgman Mich Line,Transmission,MI
+William G. Woolfolk - 4,Storage,MI
+William G. Woolfolk - 1,Storage,MI
+William G. Woolfolk - 3,Storage,MI
+William G. Woolfolk - 2,Storage,MI
+South Chester,Storage,MI
+"Lincoln 24""",Storage,MI
+Lincoln,Storage,MI
+Reed City,Storage,MI
+Reed City,Storage,MI
+Freedom - 1,Transmission,MI
+Freedom - 2,Transmission,MI
+Scofield,Transmission,MI
+Ray,Storage,MI
+Athens (Prop),Transmission,MI
+Washington,Transmission,MI
+Howell,Storage,MI
+Winfield,Storage,MI
+Northville,Storage,MI
+Romeo,Transmission,MI
+St. Clair,Storage,MI
+Willow,Transmission,MI
+Milford,Transmission,MI
+Goodwell,Storage,MI
+Highland,Storage,MI
+Hamilton,Transmission,MI
+Overisel,Storage,MI
+Taggart,Storage,MI
+Muttonville,Storage,MI
+Central Charlton,Storage,MI
+Kalkaska,Transmission,MI
+Muskegon River Plant 2,Storage,MI
+Orient,Storage,MI
+W. Branch,Transmission,MI
+Alpena,Transmission,MI
+Hopkinton to 200-2,Transmission,MA
+Hopkinton to 200-1,Transmission,MA
+Agawam 261 to 300,Transmission,MA
+Agawam 261 to 200,Transmission,MA
+Southbridge - 264,Transmission,MA
+Hopkinton - 267,Transmission,MA
+Rehoboth,Transmission,MA
+Rutledge Area 10 - 9,Transmission,MD
+Ellicott City - 190,Transmission,MD
+CS - Maritimes,Transmission,ME
+CS - Maritimes,Transmission,ME
+CS - Maritimes,Transmission,ME
+CS - Maritimes,Transmission,ME
+CS - Maritimes,Transmission,ME
+CS - Maritimes,Transmission,ME
+Richmond,Transmission,ME
+Baileyville,Transmission,ME
+Eunice - P5,Gathering,LA
+Eunice - P6,Transmission,LA
+Patterson Outlet,Gathering,LA
+Patterson Inlet,Gathering,LA
+Platform  - 188,Gathering,LA
+Lirette - 523R,Transmission,LA
+Leeville - 524,Transmission,LA
+Kinder Cameron to KP-KN,Transmission,LA
+Kinder M-Gc to K-S,Transmission,LA
+Kinder Cameron to K-S,Transmission,LA
+Cocodrie - 523,Transmission,LA
+Alexandria - 827,Transmission,LA
+Winnsboro - 834,Transmission,LA
+Vinton - 820 C1,Transmission,LA
+Port Sulphur - 527,Transmission,LA
+Pitkin - 504,Transmission,LA
+Monroe - 47,Transmission,LA
+CS - 9,Transmission,LA
+Sterlington,Transmission,LA
+Buckley Orig,Transmission,LA
+Buckley New,Transmission,LA
+Lafayette Mainline,Transmission,LA
+White Castle West,Transmission,LA
+Venice,Transmission,LA
+Toca - 2,Transmission,LA
+Toca - 1,Transmission,LA
+CS - 701,Transmission,LA
+Eunice - 52,Transmission,LA
+Eunice - 51,Transmission,LA
+Johnson'S Bayou - 44,Transmission,LA
+Sharon Mainline,Transmission,LA
+Sharon Field,Transmission,LA
+Providence,Gathering,LA
+Morgan City - 1,Transmission,LA
+Franklinton West,Transmission,LA
+Franklinton East,Transmission,LA
+Castor E,Transmission,LA
+Bastrop Mainline,Transmission,LA
+Bastrop Field,Transmission,LA
+Longville - Texas System - 48,Transmission,LA
+Longville - Louisiana System - 48,Transmission,LA
+Gloria,Transmission,LA
+South Booster,Transmission,LA
+North Booster,Transmission,LA
+Eunice - 1,Transmission,LA
+Lake Charles - 35,Transmission,LA
+White Castle,Transmission,LA
+Napoleonville,Transmission,LA
+Napoleonville,Transmission,LA
+Arnaudville,Transmission,LA
+Ada - 1,Gathering,LA
+Morgan City - 2,Transmission,LA
+Sailes - 3,Gathering,LA
+Springhill,Gathering,LA
+CS - 64,Gathering,LA
+Golden Meadow,Transmission,LA
+Avery Island - 1,Transmission,LA
+Youngsville,Transmission,LA
+Thevis Stakes,Gathering,LA
+Egan - 8 Dailey,Gathering,LA
+Ragley,Gathering,LA
+Brimstone,Gathering,LA
+Dog Lake,Gathering,LA
+South Sligo,Gathering,LA
+Grand Chenier,Transmission,LA
+Springridge South Facility,Gathering,LA
+Football Facility,Gathering,LA
+Converse Facility,Gathering,LA
+North DeSoto Facility,Gathering,LA
+Springridge North Facility,Gathering,LA
+Broadstar Facility,Gathering,LA
+Pines Facility,Gathering,LA
+Alto,Transmission,LA
+CS - 115,Transmission,LA
+Tallulah,Transmission,LA
+Vixen,Transmission,LA
+Keatchie,Transmission,LA
+Regency - 2,Gathering,LA
+Regency - 1,Transmission,LA
+Midline CS,Transmission,LA
+Crosby - 21,Transmission,LA
+Dilution,Transmission,LA
+Darrow,Transmission,LA
+Noel,Transmission,LA
+Lonestar,Transmission,LA
+Port Allen,Transmission,LA
+Reliable,Transmission,LA
+CS - 4,Transmission,LA
+CS - 3,Transmission,LA
+CS - 2,Transmission,LA
+CS - 1,Transmission,LA
+PetroLogistics,Transmission,LA
+Terryville,Transmission,LA
+Caddo,Transmission,LA
+East Side,Transmission,LA
+Mira,Transmission,LA
+Sterlington,Transmission,LA
+Tallulah,Transmission,LA
+Haynesville,Transmission,LA
+Teal,Gathering,LA
+Tulip,Gathering,LA
+Springhill,Gathering,LA
+Tally Ho,Transmission,LA
+Cow Island,Transmission,LA
+Paradis,Transmission,LA
+Napoleonville,Storage,LA
+Donaldsonville,Transmission,LA
+Erath,Transmission,LA
+Henry,Transmission,LA
+Grand Chenier,Transmission,LA
+East Mud Lake,Transmission,LA
+Holly Beach,Transmission,LA
+CS - 510,Transmission,LA
+CS - 821,Transmission,LA
+CS - 507,Transmission,LA
+Lake Providence - 838,Transmission,LA
+Natchitoches 500-C1,Transmission,LA
+Natchitoches - 40,Transmission,LA
+LaCombe,Transmission,LA
+Perryville,Transmission,LA
+Olga,Transmission,LA
+Shadyside,Transmission,LA
+Bienville,Transmission,LA
+Logansport,Transmission,LA
+CS - 62,Transmission,LA
+CS - 63,Transmission,LA
+Epps - 66,Transmission,LA
+Kaplan - 210,Transmission,LA
+Patterson,Transmission,LA
+Washington Storage - 54,Storage,LA
+Kentwood - 65,Transmission,LA
+Pollock - 57,Transmission,LA
+Eunice - 50,Transmission,LA
+Ethel - 61,Transmission,LA
+St. Francisville - 60,Transmission,LA
+Lake Charles - 45,Transmission,LA
+Pineville Mainline,Transmission,LA
+Guthrie Mainline,Transmission,LA
+Woodlawn Field,Transmission,LA
+Mamou Field,Transmission,LA
+Columbia Mainline,Transmission,LA
+Haughton,Transmission,LA
+Eunice - 2,Transmission,LA
+CS - 9,Transmission,LA
+CS - 75,Transmission,LA
+CS - 340,Transmission,LA
+Centerville - 313,Transmission,LA
+CS - 8,Transmission,LA
+CS - 377,Transmission,LA
+CS - 7,Transmission,LA
+Houma East La,Transmission,LA
+Pecan Island,Gathering,LA
+Delhi - 8,Transmission,LA
+Alexandria,Transmission,LA
+Rayne - 10,Transmission,LA
+Delhi,Transmission,LA
+Jena,Transmission,LA
+Grand Chenier,Gathering,LA
+Lake Arthur,Gathering,LA
+Montpelier,Transmission,LA
+Bayou Sale,Transmission,LA
+Lafayette,Transmission,LA
+Arnaudville,Transmission,LA
+Port Barre,Storage,LA
+Marksville,Transmission,LA
+Sterlington - 2,Transmission,LA
+Olla,Transmission,LA
+Clarence,Transmission,LA
+Hall Summit,Transmission,LA
+Koran,Transmission,LA
+Vernon,Transmission,LA
+Unionville,Storage,LA
+Perryville,Transmission,LA
+Delhi,Transmission,LA
+Perryville,Transmission,LA
+Ruston,Storage,LA
+Red Chute,Transmission,LA
+Pointe Au Chien,Transmission,LA
+St. Francisville,Transmission,LA
+Opelusas,Transmission,LA
+Monroe,Transmission,LA
+Larose,Transmission,LA
+White Castle,Transmission,LA
+Gillis,Transmission,LA
+Greenup - 200,Transmission,KY
+Dry Creek - 871,Transmission,KY
+Catlettsburg - 114,Transmission,KY
+Campbellsville 2,Transmission,KY
+Campbellsville - 1,Transmission,KY
+Winchester 871 to 106,Transmission,KY
+Winchester 96 to 106,Transmission,KY
+North Means - 107A,Transmission,KY
+Morehead - 110,Transmission,KY
+CS - 2,Transmission,KY
+CS - 1,Transmission,KY
+Boldman 2 - Area 3,Transmission,KY
+"Boldman - 3,5",Transmission,KY
+Slaughters B Mainline,Transmission,KY
+Slaughters A Mainline,Transmission,KY
+Hardinsburg B,Transmission,KY
+Hardinsburg A,Transmission,KY
+Hanson Storage,Transmission,KY
+Hartford - 2015,Transmission,KY
+Key Rock,Gathering,KY
+Knox,Gathering,KY
+Canada,Transmission,KY
+Pounding Mill,Transmission,KY
+Canada,Transmission,KY
+Johns Creek,Transmission,KY
+Mudd Creek,Transmission,KY
+Station Camp Area 6 - 1,Transmission,KY
+Walbridge,Transmission,KY
+Kentucky Energy,Transmission,KY
+Inez,Transmission,KY
+Perry,Gathering,KY
+Cobra Petroleum,Gathering,KY
+CS - Columbia Gas,Transmission,KY
+Jeffersontown Mainline,Transmission,KY
+Graham Lake Storage,Storage,KY
+Clementsville,Transmission,KY
+Slaughters,Gathering,KY
+Tompkinsville,Transmission,KY
+West Greenville Storage,Storage,KY
+Midland II Storage,Storage,KY
+Midland III Field,Transmission,KY
+Madisonville,Transmission,KY
+Calvert Mainline,Transmission,KY
+Danville,Transmission,KY
+Stanton,Transmission,KY
+Owingsville,Transmission,KY
+Greensburg Mainline,Transmission,KS
+Woodward,Gathering,KS
+Meade Laverine,Gathering,KS
+Meade Mainline,Transmission,KS
+Tescott B,Transmission,KS
+Tescott D,Transmission,KS
+Tescott C,Transmission,KS
+Tescott E,Transmission,KS
+Sublette Field,Transmission,KS
+Sublette B,Transmission,KS
+Sublette A Haskell,Transmission,KS
+Olpe 100,Transmission,KS
+Olpe 200,Transmission,KS
+Olpe 300,Transmission,KS
+Olpe 400,Transmission,KS
+Mullinville (Texas) B-C,Transmission,KS
+Mullinville (Texas) A,Transmission,KS
+Mullinville D-E,Transmission,KS
+Mullinville Dodge City,Transmission,KS
+Mullinville H-B,Transmission,KS
+Macksville D-E,Transmission,KS
+Macksville C,Transmission,KS
+Macksville B,Transmission,KS
+Louisburg 100,Transmission,KS
+Louisburg 200,Transmission,KS
+Louisburg 300,Transmission,KS
+Louisburg 400,Transmission,KS
+Liberal-Seward - 300,Transmission,KS
+Liberal-Seward - 200,Transmission,KS
+Liberal-Seward - 100,Transmission,KS
+Hugoton Okla Suc,Transmission,KS
+Hugoton Kansas,Transmission,KS
+Hugoton N&S,Transmission,KS
+Haven 400 Elk,Transmission,KS
+Haven 400,Transmission,KS
+Haven 300,Transmission,KS
+Haven 200,Transmission,KS
+Haven 100,Transmission,KS
+Greensburg 300,Transmission,KS
+Greensburg 200,Transmission,KS
+Greensburg 100,Transmission,KS
+Clifton E,Transmission,KS
+Clifton D,Transmission,KS
+Clifton C,Transmission,KS
+Clifton B,Transmission,KS
+Clifton A,Transmission,KS
+Bushton D/E-E,Transmission,KS
+Bushton CC,Transmission,KS
+Bushton BC,Transmission,KS
+Bushton BB,Transmission,KS
+Bushton CD,Transmission,KS
+Bushton BA,Transmission,KS
+Bushton D/E-D,Transmission,KS
+South Welda Booster,Gathering,KS
+Hugoton,Transmission,KS
+Chanute,Transmission,KS
+Atchison,Transmission,KS
+Holcomb/Finney,Transmission,KS
+Holcomb/Finney,Transmission,KS
+Holcomb/Finney Line B,Transmission,KS
+Fowler Line B,Transmission,KS
+Freeport,Gathering,KS
+Lumen-Cheney,Gathering,KS
+Calista,Gathering,KS
+South Hutchinson,Gathering,KS
+Robbins,Gathering,KS
+Gemini,Gathering,KS
+Regency Gas Hfc 23,Gathering,KS
+Parsons,Gathering,KS
+Hugs - 3,Gathering,KS
+Breech,Gathering,KS
+Mcatee,Gathering,KS
+Lendon,Gathering,KS
+CS - B,Gathering,KS
+Roxann,Gathering,KS
+Judy,Gathering,KS
+Moscow,Gathering,KS
+CS - A,Gathering,KS
+Americus,Transmission,KS
+Morton County - 5,Transmission,KS
+Ogallah,Transmission,KS
+Ottawa,Transmission,KS
+Montezuma,Transmission,KS
+Levant,Transmission,KS
+Hoxie,Transmission,KS
+Otis,Transmission,KS
+Lyons,Storage,KS
+Haysville,Transmission,KS
+Rice,Transmission,KS
+Burdett Line B,Transmission,KS
+Albert,Transmission,KS
+Edwards,Transmission,KS
+Clark - 1,Transmission,KS
+Boehm,Transmission,KS
+Havensville,Transmission,KS
+Tonganoxie - 542,Transmission,KS
+Hesston,Transmission,KS
+Stafford,Transmission,KS
+Clark - 2,Gathering,KS
+Stevens,Transmission,KS
+United,Transmission,KS
+Kearny,Transmission,KS
+Lakin - 9,Transmission,KS
+Grabham,Transmission,KS
+Humboldt,Transmission,KS
+Kiowa,Transmission,KS
+Enterprise,Transmission,KS
+Tescott A,Transmission,KS
+St. Francis,Transmission,KS
+Ventura A,Transmission,IA
+Ventura BC,Transmission,IA
+Ventura C,Transmission,IA
+Ventura D,Transmission,IA
+Ogden A,Transmission,IA
+Ogden BCD,Transmission,IA
+Ogden East,Transmission,IA
+Oakland D,Transmission,IA
+Oakland BC,Transmission,IA
+Oakland A,Transmission,IA
+Hubbard Line Bc,Transmission,IA
+Earlville Line Bc,Transmission,IA
+Guthrie - BC,Transmission,IA
+Manchester - 27A,Transmission,IA
+Paullina BC,Transmission,IA
+Lineville,Transmission,IA
+Birmingham,Transmission,IA
+Waterloo BC,Transmission,IA
+Redfield,Storage,IA
+Zionsville 100,Transmission,IN
+Zionsville 200,Transmission,IN
+Zionsville 300,Transmission,IN
+Zionsville 400,Transmission,IN
+Petersburg Storage,Transmission,IN
+Petersburg Storage,Transmission,IN
+Petersburg Storage,Transmission,IN
+Oakland City - 12,Transmission,IN
+Montezuma 100,Transmission,IN
+Montezuma 200,Transmission,IN
+Montezuma 300,Transmission,IN
+Montezuma 400,Transmission,IN
+Leesville Storage,Storage,IN
+Leesville Storage,Storage,IN
+Edgerton 400,Transmission,IN
+Edgerton 300,Transmission,IN
+Edgerton 200,Transmission,IN
+Edgerton 100,Transmission,IN
+Ovh Monroe,Transmission,IN
+Petersburg - 2110,Transmission,IN
+Carlisle - 2113,Transmission,IN
+Bainbridge,Transmission,IN
+Wheeler,Transmission,IN
+La Paz,Transmission,IN
+Springville,Storage,IN
+North Judson - 134,Transmission,IN
+Oaktown Storage,Storage,IN
+Sulphur Springs,Transmission,IN
+Portland,Transmission,IN
+St. John,Transmission,IN
+La Grange,Transmission,IN
+Gas City,Transmission,IN
+French Lick - 13,Transmission,IN
+Seymour - 14,Transmission,IN
+Batesville - 15,Transmission,IN
+Celestine,Transmission,IN
+Dillsboro Mainline,Transmission,IN
+Ambia - 128,Transmission,IN
+Wilfred Storage,Storage,IN
+Shelbyville,Transmission,IN
+Sandwich Southwest,Transmission,IL
+Sandwich Michigan Leg,Transmission,IL
+Tuscola 100,Transmission,IL
+Tuscola 200,Transmission,IL
+Tuscola 300,Transmission,IL
+Tuscola 400,Transmission,IL
+Pleasant Hill 100,Transmission,IL
+Pleasant Hill 200,Transmission,IL
+Pleasant Hill 300,Transmission,IL
+Pleasant Hill 400,Transmission,IL
+Glenarm 400,Transmission,IL
+Glenarm 300,Transmission,IL
+Glenarm 200,Transmission,IL
+Glenarm 100,Transmission,IL
+St. Jacob Storage,Transmission,IL
+St. Jacob,Transmission,IL
+Potomac - 2118,Transmission,IL
+Paris - 2115,Transmission,IL
+Tampico - 29A,Transmission,IL
+Waverly,Storage,IL
+New Windsor,Transmission,IL
+Woodstock,Transmission,IL
+Galena - Line B,Transmission,IL
+Schererville,Transmission,IL
+Joliet,Transmission,IL
+Shattue,Transmission,IL
+Lick Creek - 10,Transmission,IL
+Johnsonville - 112,Transmission,IL
+Blue Mound,Transmission,IL
+Tuscola - 121,Transmission,IL
+Joppa - 103,Transmission,IL
+Joliet,Transmission,IL
+Joliet,Transmission,IL
+Norris City - 11,Transmission,IL
+Mountain Home - 2,Transmission,ID
+Pegram,Transmission,ID
+Soda Springs,Transmission,ID
+Hot Springs,Transmission,ID
+Pocatello,Transmission,ID
+Burley,Transmission,ID
+Buhl,Transmission,ID
+Owyhee,Transmission,ID
+Little Valley,Transmission,ID
+Mountain Home - 1,Transmission,ID
+Boise,Transmission,ID
+Cadwell,Transmission,ID
+Newnan - 115,Transmission,GA
+CS - 1,Transmission,GA
+CS - 2,Transmission,GA
+Pavo,Transmission,GA
+Albany,Transmission,GA
+Ocmulgee,Transmission,GA
+Thomaston,Transmission,GA
+Ellerslie,Transmission,GA
+Rome,Transmission,GA
+Stockbridge - 120,Transmission,GA
+Comer -130,Transmission,GA
+Wrens,Transmission,GA
+Hall Gate,Transmission,GA
+Monroe - 125,Transmission,GA
+CS - 19A,Transmission,FL
+CS - 19,Transmission,FL
+CS - 15A,Transmission,FL
+CS - 15,Transmission,FL
+CS - 14A,Transmission,FL
+CS - 14,Transmission,FL
+CS - 13A,Transmission,FL
+CS - 13,Transmission,FL
+CS - 12A,Transmission,FL
+CS - 12,Transmission,FL
+CS - 3,Transmission,FL
+CS - 420,Transmission,FL
+CS - 31,Transmission,FL
+CS - 27,Transmission,FL
+CS - 20,Transmission,FL
+CS - 21,Transmission,FL
+CS - 18,Transmission,FL
+CS - 17,Transmission,FL
+CS 30,Transmission,FL
+CS - 24,Transmission,FL
+CS - 26,Transmission,FL
+CS - 16,Transmission,FL
+Delaware City,Distribution,DE
+Bridgeville,Transmission,DE
+"Cromwell 30"" - 111",Transmission,CT
+"Cromwell 26"" - 110",Transmission,CT
+Chaplin 151,Transmission,CT
+Watkins Backflow - 15,Transmission,CO
+Watkins Air Injection - 17,Transmission,CO
+Lefthand - 28,Transmission,CO
+Kit Carson Texas Discharge - 8G,Transmission,CO
+Kit Carson Kansas Discharge - 8F,Transmission,CO
+Fluke - 27,Transmission,CO
+Flank Main Line - 22G,Transmission,CO
+Flank Field - 22H,Transmission,CO
+Greasewood,Transmission,CO
+Mancos,Transmission,CO
+Redvale,Transmission,CO
+Whitewater,Transmission,CO
+La Plata A,Transmission,CO
+Dougan,Gathering,CO
+Hambert,Gathering,CO
+Bar X,Gathering,CO
+Dragon Tail West,Gathering,CO
+Pumba,Gathering,CO
+Wild Cow Draw,Gathering,CO
+CS - 1,Gathering,CO
+Brush Creek,Gathering,CO
+State 4-9,Gathering,CO
+Sink Creek,Gathering,CO
+Doe,Gathering,CO
+Iron Horse,Gathering,CO
+Jw Oper,Gathering,CO
+Salvador,Gathering,CO
+Vollmar,Gathering,CO
+Rifle,Gathering,CO
+Trail Ridge,Gathering,CO
+Cig Flank,Storage,CO
+Arapahoe,Gathering,CO
+Arapahoe NW,Gathering,CO
+Whisper,Gathering,CO
+Coyote Gulch,Gathering,CO
+Cheyenne,Transmission,CO
+Cheyenne - 1,Transmission,CO
+Meeker,Transmission,CO
+Parachute - 32,Transmission,CO
+Florida River,Transmission,CO
+Back Ridge,Gathering,CO
+Crystal River,Transmission,CO
+Anderson Gulch,Transmission,CO
+Piceance Creek,Transmission,CO
+Blue Gravel,Transmission,CO
+Nicholas Wash,Transmission,CO
+Divide Creek,Gathering,CO
+Bull Mountain,Gathering,CO
+Tiffany,Gathering,CO
+Sidewinder,Gathering,CO
+Cheyenne,Transmission,CO
+Yuma,Transmission,CO
+Natural Buttes,Transmission,CO
+Vilas - 7,Transmission,CO
+Baxter,Transmission,CO
+Julesburg,Transmission,CO
+Niobrara,Transmission,CO
+Latigo - 18,Storage,CO
+Springfield - 6,Transmission,CO
+Trinidad West Campo Lateral,Transmission,CO
+Kim Mid Campo Lateral,Transmission,CO
+Merino,Transmission,CO
+Fort Morgan - 14,Storage,CO
+Fort Lupton 38A & 38B,Transmission,CO
+Carr,Transmission,CO
+"Cheyenne - 39,40",Transmission,CO
+Big Hole,Transmission,CO
+DeBeque,Transmission,CO
+Collbran,Transmission,CO
+Olathe,Transmission,CO
+Dolores,Transmission,CO
+Pleasant View,Transmission,CO
+Bondad,Gathering,CO
+Cabin,Gathering,CO
+Capote,Gathering,CO
+Six Shooter,Gathering,CO
+Bondad,Transmission,CO
+Rangely,Transmission,CO
+Greasewood - 30,Transmission,CO
+Ventura,Transmission,CA
+Playa Del Rey,Storage,CA
+Santa Rosa,Transmission,CA
+Honor Rancho,Storage,CA
+Goleta - 14,Transmission,CA
+Gaviota,Transmission,CA
+Dana Point,Transmission,CA
+Blythe,Transmission,CA
+Avenal,Transmission,CA
+Burney,Transmission,CA
+Sacramento Natural Gas,Transmission,CA
+CS,Transmission,CA
+STrails,Transmission,CA
+Tionesta,Transmission,CA
+Bethany,Transmission,CA
+Wheeler Ridge,Transmission,CA
+Adelanto,Distribution,CA
+CS - 740,Distribution,CA
+Wheeler Ridge,Transmission,CA
+Cactus City - 370,Transmission,CA
+Desert Center - 366,Transmission,CA
+Newberry Springs - 519,Transmission,CA
+North Needles - 551,Transmission,CA
+Topock - 485,Transmission,CA
+Kelso - 552,Transmission,CA
+Rainbow,Distribution,CA
+Moreno,Transmission,CA
+Daggett,Transmission,CA
+Hinkley,Transmission,CA
+Kettleman,Transmission,CA
+Delevan,Transmission,CA
+Gerber,Transmission,CA
+Walker,Transmission,AR
+Tates Island,Gathering,AR
+Bibler,Transmission,AR
+Sherrill,Transmission,AR
+Diaz,Transmission,AR
+Noram-Dunn Junstion,Transmission,AR
+Davis,Gathering,AR
+Stockton,Gathering,AR
+Sells,Gathering,AR
+Lone Elm,Storage,AR
+Cross Timbers-Mcmillian,Gathering,AR
+Gravel Hill 4,Gathering,AR
+Scotland 2,Gathering,AR
+Scotland,Gathering,AR
+NE Charley #2,Gathering,AR
+N.E. Charley,Gathering,AR
+Tiger CPF-1,Gathering,AR
+Hammerhead #1,Gathering,AR
+Tiger CPF 2,Gathering,AR
+Sharkey CPF,Gathering,AR
+Midge CPF-1,Gathering,AR
+Midge CPF-2,Gathering,AR
+Mako #1,Gathering,AR
+NE Charley #1,Gathering,AR
+Puma CPF #1,Gathering,AR
+Midge CPF-5,Gathering,AR
+Charley CPF-3,Gathering,AR
+Caddis CPF-1,Gathering,AR
+New Quitman 2,Gathering,AR
+Quitman CPF 1,Gathering,AR
+W Cutthroat,Gathering,AR
+W Cutthroat 1,Gathering,AR
+Yellowstone 2,Gathering,AR
+Yellowstone,Gathering,AR
+W Cutthroat 2,Gathering,AR
+Yogi-CPF-1,Gathering,AR
+CS - DeSoto,Gathering,AR
+N. Yellowstone,Gathering,AR
+Yellowstone,Gathering,AR
+CPF #2,Gathering,AR
+N Yellowstone,Gathering,AR
+CS - DeSoto,Gathering,AR
+CS - DeSoto,Gathering,AR
+SW Greer Lake,Gathering,AR
+SW Greer CPF1,Gathering,AR
+Cove Creek 4,Gathering,AR
+Caddis CPF-2,Gathering,AR
+Caddis #2 TGT,Gathering,AR
+Cove Creek CPF-2,Gathering,AR
+SE Rainbow 2,Gathering,AR
+SW Greer #5,Gathering,AR
+Gravel Hill 1,Gathering,AR
+Gravel Hill 2,Gathering,AR
+S. Rainbow CPF,Gathering,AR
+SE Rainbow 1,Gathering,AR
+Cove CRK.CPF3,Gathering,AR
+Sturgeon CPF 1,Gathering,AR
+Sturgeon #3,Gathering,AR
+South Rainbow,Gathering,AR
+S. Rainbow 4,Gathering,AR
+G. Hill CPF 3,Gathering,AR
+Phillips 2,Gathering,AR
+Phillips Mtn.,Gathering,AR
+Pike CPF-1,Gathering,AR
+S. Brownie #1,Gathering,AR
+S. Brownie #2,Gathering,AR
+Phillips Mtn.,Gathering,AR
+Griffin,Gathering,AR
+Griffin CPF-2,Gathering,AR
+Nemo CPF-1,Gathering,AR
+Mathis Hollow,Gathering,AR
+CS - DeSoto,Gathering,AR
+Connors 2 CF,Gathering,AR
+Washburn Creek CF,Gathering,AR
+Dunn,Transmission,AR
+Noark,Transmission,AR
+Searcy,Transmission,AR
+Wonderview,Transmission,AR
+Midway,Transmission,AR
+Biggers,Transmission,AR
+Tuckerman,Transmission,AR
+West Point,Transmission,AR
+Carlisle,Transmission,AR
+Glendale,Transmission,AR
+Fountain Hill,Transmission,AR
+Taylor,Transmission,AR
+Helena,Transmission,AR
+White River,Transmission,AR
+Round Mountain,Transmission,AR
+Piney,Gathering,AR
+Beirne,Transmission,AR
+Malvern,Transmission,AR
+Donaldson - 4,Transmission,AR
+Little Rock - 5,Transmission,AR
+Bald Knob - 6,Transmission,AR
+Walnut Ridge - 7,Transmission,AR
+Hope - 3,Transmission,AR
+Fagus - 8,Transmission,AR
+Wenden Parallel,Transmission,AZ
+Wenden B,Transmission,AZ
+Wenden A,Transmission,AZ
+Mohave Valley,Transmission,AZ
+Dilkon A,Transmission,AZ
+Dilkon B,Transmission,AZ
+"Window Rock  B 34""",Transmission,AZ
+"Window Rock  A 24"" & 30""",Transmission,AZ
+"Williams 34""",Transmission,AZ
+"Williams 24"" & 30""",Transmission,AZ
+"Seligman 24"" & 30""",Transmission,AZ
+"Seligman 34""",Transmission,AZ
+Dutch Flat South Flow,Transmission,AZ
+Dutch Flat North Flow,Transmission,AZ
+"Navajo D 34""",Transmission,AZ
+"Navajo C 24"" & 30""",Transmission,AZ
+"Casa Grande 30"" High Pressure",Transmission,AZ
+"Casa Grande 30 & 26""",Transmission,AZ
+"Leupp C 34""",Transmission,AZ
+"Leupp A&B 24""&30""",Transmission,AZ
+Benson,Transmission,AZ
+Gila,Transmission,AZ
+STrails,Transmission,AZ
+Castle Dome,Transmission,AZ
+Topock,Transmission,AZ
+Topock,Transmission,AZ
+Cimarron,Transmission,AZ
+San Simon,Transmission,AZ
+Willcox,Transmission,AZ
+Bowie,Transmission,AZ
+Oracle,Transmission,AZ
+Tom Mix,Transmission,AZ
+Vail,Transmission,AZ
+Tucson,Transmission,AZ
+Cameron,Transmission,AZ
+CS - 4,Transmission,AZ
+CS - 3,Transmission,AZ
+Flagstaff,Transmission,AZ
+CS - 2,Transmission,AZ
+CS - 1,Transmission,AZ
+Hackberry,Transmission,AZ
+Topock,Transmission,AZ
+Alamo Lake (South Flow),Transmission,AZ
+Hamilton - 550,Transmission,AL
+Tarrant - 2,Transmission,AL
+Tarrant - 1,Transmission,AL
+CS - 44,Gathering,AL
+CS - 11A,Gathering,AL
+CS 11,Transmission,AL
+Mobile - 100,Transmission,AL
+Reform - 2,Transmission,AL
+Reform - 1,Transmission,AL
+Providence  -2,Transmission,AL
+Providence - 1,Transmission,AL
+Pell City - 2,Transmission,AL
+Pell City - 1,Transmission,AL
+Mcconnells - 3,Transmission,AL
+Mcconnells - 2,Transmission,AL
+Mcconnells - 1,Transmission,AL
+Dearmanville - 2,Transmission,AL
+Dearmanville - 1,Transmission,AL
+Citronelle - 83,Transmission,AL
+CS - 9,Gathering,AL
+CS - 85,Transmission,AL
+CS - 410,Transmission,AL
+Holy Trinity,Transmission,AL
+Elmore,Transmission,AL
+Auburn,Transmission,AL
+Bell Mills,Transmission,AL
+Selma,Transmission,AL
+Gallion,Transmission,AL
+Duncanville,Transmission,AL
+York,Transmission,AL
+Wadley - 110,Transmission,AL
+Coden - 82,Transmission,AL
+Myrtlewood - 90,Transmission,AL
+Rockford - 105,Transmission,AL
+Billingsley - 100,Transmission,AL
+Barton,Transmission,AL

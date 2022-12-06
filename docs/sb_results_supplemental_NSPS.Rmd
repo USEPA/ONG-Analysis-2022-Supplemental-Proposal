@@ -1,0 +1,50 @@
+---
+title: "2022 Supplemental NSPS & EG RIA Small Business Results"
+date: "September 2022"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+library(here)
+library(knitr)
+source(here("scripts/setup.R"))
+
+knitr::opts_knit$set(root.dir = here::here())
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r data, include=FALSE}
+
+# scenario data loaded from targets cache
+tar_load(sb_rev_table)
+tar_load(sb_median_cost_table)
+tar_load(sb_csr_table)
+tar_load(sb_naics_table)
+
+# set some knitr options
+options(knitr.table.format = 'html')
+
+wb <- loadWorkbook("output/xlsx/sb_results_supplemental_NSPS.xlsx")
+
+```
+
+## Description
+
+TEXT
+
+```{r}
+
+write_tbl_to_xlsx(sb_rev_table, wb)
+write_tbl_to_xlsx(sb_median_cost_table, wb)
+write_tbl_to_xlsx(sb_csr_table, wb)
+write_tbl_to_xlsx(sb_naics_table, wb)
+
+```
+
+```{r}
+
+saveWorkbook(wb, "output/xlsx/sb_results_supplemental_NSPS.xlsx", overwrite = TRUE)
+
+```
